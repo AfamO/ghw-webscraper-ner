@@ -1,2 +1,5 @@
 # ghw-webscraper-ner
-This NLP hack builders a web scraper, uses spacy library to parse the text data, builds Named Entity Recognition and finally builds a dataset from the unstructured scraped text data
+This NLP hack builds a web scraper, 
+Uses spacy library to parse the text data.
+Builds Named Entity Recognition(NER) 
+and finally builds a dataset from the unstructured and scraped text data
