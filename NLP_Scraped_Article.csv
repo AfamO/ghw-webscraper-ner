@@ -1,0 +1,3566 @@
+Token,is_Stop_Word,Lemmatized,Tag,Tag Explanation,Part of Speech Tag,Dependency Parsing
+"
+",False,"
+",_SP,whitespace,SPACE,dep
+Editor,False,Editor,NNP,"noun, proper singular",PROPN,poss
+’s,True,’s,POS,possessive ending,PART,case
+Note,False,note,NN,"noun, singular or mass",NOUN,ROOT
+:,False,:,:,"punctuation mark, colon or ellipsis",PUNCT,punct
+This,True,this,DT,determiner,DET,det
+report,False,report,NN,"noun, singular or mass",NOUN,nsubj
+includes,False,include,VBZ,"verb, 3rd person singular present",VERB,acl
+details,False,detail,NNS,"noun, plural",NOUN,dobj
+of,True,of,IN,"conjunction, subordinating or preposition",ADP,prep
+sexual,False,sexual,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,amod
+assaults,False,assault,NNS,"noun, plural",NOUN,pobj
+and,True,and,CC,"conjunction, coordinating",CCONJ,cc
+violence,False,violence,NN,"noun, singular or mass",NOUN,conj
+.,False,.,.,"punctuation mark, sentence closer",PUNCT,punct
+"
+ 
+            ",False,"
+ 
+            ",_SP,whitespace,SPACE,dep
+Cries,False,Cries,NNPS,"noun, proper plural",PROPN,nsubj
+pierced,False,pierce,VBD,"verb, past tense",VERB,ROOT
+the,True,the,DT,determiner,DET,det
+air,False,air,NN,"noun, singular or mass",NOUN,dobj
+as,True,as,IN,"conjunction, subordinating or preposition",ADP,prep
+a,True,a,DT,determiner,DET,det
+car,False,car,NN,"noun, singular or mass",NOUN,pobj
+full,True,full,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,amod
+of,True,of,IN,"conjunction, subordinating or preposition",ADP,prep
+women,False,woman,NNS,"noun, plural",NOUN,pobj
+and,True,and,CC,"conjunction, coordinating",CCONJ,cc
+children,False,child,NNS,"noun, plural",NOUN,conj
+crossed,False,cross,VBD,"verb, past tense",VERB,acl
+into,True,into,IN,"conjunction, subordinating or preposition",ADP,prep
+Chad,False,Chad,NNP,"noun, proper singular",PROPN,pobj
+from,True,from,IN,"conjunction, subordinating or preposition",ADP,prep
+war,False,war,NN,"noun, singular or mass",NOUN,npadvmod
+-,False,-,HYPH,"punctuation mark, hyphen",PUNCT,punct
+torn,False,tear,VBN,"verb, past participle",VERB,amod
+Sudan,False,Sudan,NNP,"noun, proper singular",PROPN,pobj
+.,False,.,.,"punctuation mark, sentence closer",PUNCT,punct
+A,True,a,DT,determiner,DET,det
+woman,False,woman,NN,"noun, singular or mass",NOUN,nsubj
+",",False,",",",","punctuation mark, comma",PUNCT,punct
+in,True,in,IN,"conjunction, subordinating or preposition",ADP,prep
+the,True,the,DT,determiner,DET,det
+late,False,late,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,amod
+stages,False,stage,NNS,"noun, plural",NOUN,pobj
+of,True,of,IN,"conjunction, subordinating or preposition",ADP,prep
+pregnancy,False,pregnancy,NN,"noun, singular or mass",NOUN,pobj
+",",False,",",",","punctuation mark, comma",PUNCT,punct
+lay,False,lie,VBD,"verb, past tense",VERB,ROOT
+in,True,in,IN,"conjunction, subordinating or preposition",ADP,prep
+the,True,the,DT,determiner,DET,det
+backseat,False,backseat,NN,"noun, singular or mass",NOUN,pobj
+",",False,",",",","punctuation mark, comma",PUNCT,punct
+lifeless,False,lifeless,NN,"noun, singular or mass",NOUN,conj
+and,True,and,CC,"conjunction, coordinating",CCONJ,cc
+soaked,False,soak,VBD,"verb, past tense",VERB,conj
+in,True,in,IN,"conjunction, subordinating or preposition",ADP,prep
+blood,False,blood,NN,"noun, singular or mass",NOUN,pobj
+.,False,.,.,"punctuation mark, sentence closer",PUNCT,punct
+Her,True,her,PRP$,"pronoun, possessive",PRON,poss
+children,False,child,NNS,"noun, plural",NOUN,nsubj
+wailed,False,wail,VBD,"verb, past tense",VERB,ROOT
+at,True,at,IN,"conjunction, subordinating or preposition",ADP,prep
+her,True,her,PRP$,"pronoun, possessive",PRON,poss
+feet,False,foot,NNS,"noun, plural",NOUN,pobj
+.,False,.,.,"punctuation mark, sentence closer",PUNCT,punct
+"
+     
+            ",False,"
+     
+            ",_SP,whitespace,SPACE,dep
+“,False,"""",``,opening quotation mark,PUNCT,punct
+I,True,I,PRP,"pronoun, personal",PRON,nsubj
+sat,False,sit,VBD,"verb, past tense",VERB,ccomp
+next,True,next,RB,adverb,ADV,advmod
+to,True,to,IN,"conjunction, subordinating or preposition",ADP,prep
+her,True,she,PRP,"pronoun, personal",PRON,pobj
+in,True,in,IN,"conjunction, subordinating or preposition",ADP,prep
+the,True,the,DT,determiner,DET,det
+car,False,car,NN,"noun, singular or mass",NOUN,pobj
+",",False,",",",","punctuation mark, comma",PUNCT,punct
+”,False,"""",'',closing quotation mark,PUNCT,punct
+said,False,say,VBD,"verb, past tense",VERB,ROOT
+Butheina,False,Butheina,NNP,"noun, proper singular",PROPN,compound
+Nourin,False,Nourin,NNP,"noun, proper singular",PROPN,nsubj
+",",False,",",",","punctuation mark, comma",PUNCT,punct
+describing,False,describe,VBG,"verb, gerund or present participle",VERB,advcl
+her,True,her,PRP$,"pronoun, possessive",PRON,poss
+perilous,False,perilous,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,amod
+escape,False,escape,NN,"noun, singular or mass",NOUN,dobj
+from,True,from,IN,"conjunction, subordinating or preposition",ADP,prep
+Sudan,False,Sudan,NNP,"noun, proper singular",PROPN,poss
+’s,True,’s,POS,possessive ending,PART,case
+Darfur,False,Darfur,NNP,"noun, proper singular",PROPN,compound
+region,False,region,NN,"noun, singular or mass",NOUN,pobj
+alongside,False,alongside,IN,"conjunction, subordinating or preposition",ADP,prep
+the,True,the,DT,determiner,DET,det
+dead,False,dead,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,amod
+woman,False,woman,NN,"noun, singular or mass",NOUN,pobj
+.,False,.,.,"punctuation mark, sentence closer",PUNCT,punct
+“,False,"""",``,opening quotation mark,PUNCT,punct
+Her,True,her,PRP$,"pronoun, possessive",PRON,poss
+name,True,name,NN,"noun, singular or mass",NOUN,nsubj
+was,True,be,VBD,"verb, past tense",AUX,ROOT
+Fatima,False,Fatima,NNP,"noun, proper singular",PROPN,attr
+.,False,.,.,"punctuation mark, sentence closer",PUNCT,punct
+I,True,I,PRP,"pronoun, personal",PRON,nsubj
+do,True,do,VBP,"verb, non-3rd person singular present",AUX,aux
+n’t,True,not,RB,adverb,PART,neg
+know,False,know,VB,"verb, base form",VERB,ROOT
+her,True,her,PRP$,"pronoun, possessive",PRON,poss
+surname,False,surname,NN,"noun, singular or mass",NOUN,dobj
+.,False,.,.,"punctuation mark, sentence closer",PUNCT,punct
+”,False,"""",'',closing quotation mark,PUNCT,punct
+" 
+     
+            ",False," 
+     
+            ",_SP,whitespace,SPACE,dep
+Fighters,False,fighter,NNS,"noun, plural",NOUN,nsubj
+from,True,from,IN,"conjunction, subordinating or preposition",ADP,prep
+the,True,the,DT,determiner,DET,det
+powerful,False,powerful,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,amod
+Sudanese,False,sudanese,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,amod
+paramilitary,False,paramilitary,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,amod
+group,False,group,NN,"noun, singular or mass",NOUN,pobj
+",",False,",",",","punctuation mark, comma",PUNCT,punct
+the,True,the,DT,determiner,DET,det
+Rapid,False,Rapid,NNP,"noun, proper singular",PROPN,compound
+Support,False,Support,NNP,"noun, proper singular",PROPN,compound
+Forces,False,Forces,NNPS,"noun, proper plural",PROPN,appos
+(,False,(,-LRB-,left round bracket,PUNCT,punct
+RSF,False,RSF,NNP,"noun, proper singular",PROPN,appos
+),False,),-RRB-,right round bracket,PUNCT,punct
+",",False,",",",","punctuation mark, comma",PUNCT,punct
+and,True,and,CC,"conjunction, coordinating",CCONJ,cc
+their,True,their,PRP$,"pronoun, possessive",PRON,poss
+armed,False,armed,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,amod
+allies,False,ally,NNS,"noun, plural",NOUN,nsubj
+manned,False,man,VBD,"verb, past tense",VERB,ccomp
+checkpoints,False,checkpoint,NNS,"noun, plural",NOUN,dobj
+along,True,along,IN,"conjunction, subordinating or preposition",ADP,prep
+their,True,their,PRP$,"pronoun, possessive",PRON,poss
+route,False,route,NN,"noun, singular or mass",NOUN,pobj
+",",False,",",",","punctuation mark, comma",PUNCT,punct
+Nourin,False,Nourin,NNP,"noun, proper singular",PROPN,nsubj
+said,False,say,VBD,"verb, past tense",VERB,ROOT
+",",False,",",",","punctuation mark, comma",PUNCT,punct
+demanding,False,demand,VBG,"verb, gerund or present participle",VERB,advcl
+money,False,money,NN,"noun, singular or mass",NOUN,dobj
+from,True,from,IN,"conjunction, subordinating or preposition",ADP,prep
+every,True,every,DT,determiner,DET,det
+passenger,False,passenger,NN,"noun, singular or mass",NOUN,pobj
+in,True,in,IN,"conjunction, subordinating or preposition",ADP,prep
+exchange,False,exchange,NN,"noun, singular or mass",NOUN,pobj
+for,True,for,IN,"conjunction, subordinating or preposition",ADP,prep
+safe,False,safe,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,amod
+passage,False,passage,NN,"noun, singular or mass",NOUN,pobj
+.,False,.,.,"punctuation mark, sentence closer",PUNCT,punct
+" 
+     
+            ",False," 
+     
+            ",_SP,whitespace,SPACE,dep
+This,True,this,DT,determiner,DET,det
+brutal,False,brutal,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,amod
+method,False,method,NN,"noun, singular or mass",NOUN,nsubj
+of,True,of,IN,"conjunction, subordinating or preposition",ADP,prep
+extortion,False,extortion,NN,"noun, singular or mass",NOUN,pobj
+has,True,have,VBZ,"verb, 3rd person singular present",AUX,aux
+become,True,become,VBN,"verb, past participle",VERB,ROOT
+widespread,False,widespread,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,acomp
+in,True,in,IN,"conjunction, subordinating or preposition",ADP,prep
+Darfur,False,Darfur,NNP,"noun, proper singular",PROPN,pobj
+",",False,",",",","punctuation mark, comma",PUNCT,punct
+according,False,accord,VBG,"verb, gerund or present participle",VERB,prep
+to,True,to,IN,"conjunction, subordinating or preposition",ADP,prep
+dozens,False,dozen,NNS,"noun, plural",NOUN,pobj
+of,True,of,IN,"conjunction, subordinating or preposition",ADP,prep
+witnesses,False,witness,NNS,"noun, plural",NOUN,pobj
+who,True,who,WP,"wh-pronoun, personal",PRON,nsubj
+recounted,False,recount,VBD,"verb, past tense",VERB,relcl
+similar,False,similar,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,amod
+incidents,False,incident,NNS,"noun, plural",NOUN,dobj
+to,True,to,IN,"conjunction, subordinating or preposition",ADP,prep
+CNN,False,CNN,NNP,"noun, proper singular",PROPN,pobj
+.,False,.,.,"punctuation mark, sentence closer",PUNCT,punct
+"
+     
+            ",False,"
+     
+            ",_SP,whitespace,SPACE,dep
+The,True,the,DT,determiner,DET,det
+vast,False,vast,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,amod
+western,False,western,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,amod
+region,False,region,NN,"noun, singular or mass",NOUN,nsubj
+of,True,of,IN,"conjunction, subordinating or preposition",ADP,prep
+Sudan,False,Sudan,NNP,"noun, proper singular",PROPN,pobj
+is,True,be,VBZ,"verb, 3rd person singular present",AUX,ROOT
+the,True,the,DT,determiner,DET,det
+site,False,site,NN,"noun, singular or mass",NOUN,attr
+of,True,of,IN,"conjunction, subordinating or preposition",ADP,prep
+what,True,what,WP,"wh-pronoun, personal",PRON,nsubjpass
+has,True,have,VBZ,"verb, 3rd person singular present",AUX,aux
+been,True,be,VBN,"verb, past participle",AUX,auxpass
+widely,False,widely,RB,adverb,ADV,advmod
+described,False,describe,VBN,"verb, past participle",VERB,pcomp
+as,True,as,IN,"conjunction, subordinating or preposition",ADP,prep
+the,True,the,DT,determiner,DET,det
+21st,False,21st,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,amod
+century,False,century,NN,"noun, singular or mass",NOUN,poss
+’s,True,’s,POS,possessive ending,PART,case
+first,True,first,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,amod
+genocide,False,genocide,NN,"noun, singular or mass",NOUN,pobj
+",",False,",",",","punctuation mark, comma",PUNCT,punct
+with,True,with,IN,"conjunction, subordinating or preposition",ADP,prep
+largely,False,largely,RB,adverb,ADV,advmod
+Arab,False,arab,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,amod
+militias,False,militia,NNS,"noun, plural",NOUN,nsubj
+systematically,False,systematically,RB,adverb,ADV,advmod
+killing,False,kill,VBG,"verb, gerund or present participle",VERB,pcomp
+non,False,non,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,amod
+-,False,-,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,amod
+Arab,False,arab,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,amod
+African,False,african,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,amod
+groups,False,group,NNS,"noun, plural",NOUN,dobj
+who,True,who,WP,"wh-pronoun, personal",PRON,nsubj
+make,True,make,VBP,"verb, non-3rd person singular present",VERB,relcl
+up,True,up,RP,"adverb, particle",ADP,prt
+the,True,the,DT,determiner,DET,det
+majority,False,majority,NN,"noun, singular or mass",NOUN,dobj
+of,True,of,IN,"conjunction, subordinating or preposition",ADP,prep
+the,True,the,DT,determiner,DET,det
+local,False,local,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,amod
+population,False,population,NN,"noun, singular or mass",NOUN,pobj
+.,False,.,.,"punctuation mark, sentence closer",PUNCT,punct
+"
+     
+            ",False,"
+     
+            ",_SP,whitespace,SPACE,dep
+A,True,a,DT,determiner,DET,det
+growing,False,grow,VBG,"verb, gerund or present participle",VERB,amod
+body,False,body,NN,"noun, singular or mass",NOUN,nsubj
+of,True,of,IN,"conjunction, subordinating or preposition",ADP,prep
+evidence,False,evidence,NN,"noun, singular or mass",NOUN,pobj
+",",False,",",",","punctuation mark, comma",PUNCT,punct
+including,False,include,VBG,"verb, gerund or present participle",VERB,prep
+first,True,first,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,amod
+-,False,-,HYPH,"punctuation mark, hyphen",PUNCT,punct
+hand,False,hand,NN,"noun, singular or mass",NOUN,compound
+accounts,False,account,NNS,"noun, plural",NOUN,pobj
+",",False,",",",","punctuation mark, comma",PUNCT,punct
+expert,False,expert,NN,"noun, singular or mass",NOUN,compound
+testimony,False,testimony,NN,"noun, singular or mass",NOUN,conj
+and,True,and,CC,"conjunction, coordinating",CCONJ,cc
+verified,False,verify,VBD,"verb, past tense",VERB,amod
+social,False,social,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,amod
+media,False,medium,NNS,"noun, plural",NOUN,compound
+video,False,video,NN,"noun, singular or mass",NOUN,conj
+",",False,",",",","punctuation mark, comma",PUNCT,punct
+suggests,False,suggest,VBZ,"verb, 3rd person singular present",VERB,ROOT
+that,True,that,IN,"conjunction, subordinating or preposition",SCONJ,mark
+the,True,the,DT,determiner,DET,det
+RSF,False,RSF,NNP,"noun, proper singular",PROPN,nsubj
+has,True,have,VBZ,"verb, 3rd person singular present",AUX,aux
+revived,False,revive,VBN,"verb, past participle",VERB,ccomp
+those,True,those,DT,determiner,DET,det
+tactics,False,tactic,NNS,"noun, plural",NOUN,dobj
+in,True,in,IN,"conjunction, subordinating or preposition",ADP,prep
+Darfur,False,Darfur,NNP,"noun, proper singular",PROPN,pobj
+",",False,",",",","punctuation mark, comma",PUNCT,punct
+and,True,and,CC,"conjunction, coordinating",CCONJ,cc
+exported,False,export,VBD,"verb, past tense",VERB,conj
+them,True,they,PRP,"pronoun, personal",PRON,dobj
+to,True,to,IN,"conjunction, subordinating or preposition",ADP,prep
+other,True,other,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,amod
+parts,False,part,NNS,"noun, plural",NOUN,pobj
+of,True,of,IN,"conjunction, subordinating or preposition",ADP,prep
+Sudan,False,Sudan,NNP,"noun, proper singular",PROPN,pobj
+as,True,as,IN,"conjunction, subordinating or preposition",SCONJ,mark
+it,True,it,PRP,"pronoun, personal",PRON,nsubj
+fights,False,fight,VBZ,"verb, 3rd person singular present",VERB,advcl
+a,True,a,DT,determiner,DET,det
+war,False,war,NN,"noun, singular or mass",NOUN,dobj
+with,True,with,IN,"conjunction, subordinating or preposition",ADP,prep
+the,True,the,DT,determiner,DET,det
+country,False,country,NN,"noun, singular or mass",NOUN,poss
+’s,True,’s,POS,possessive ending,PART,case
+military,False,military,NN,"noun, singular or mass",NOUN,pobj
+.,False,.,.,"punctuation mark, sentence closer",PUNCT,punct
+" 
+     
+            ",False," 
+     
+            ",_SP,whitespace,SPACE,dep
+Since,True,since,IN,"conjunction, subordinating or preposition",SCONJ,prep
+mid,False,mid,NNP,"noun, proper singular",PROPN,pobj
+-,False,-,NNP,"noun, proper singular",PROPN,pobj
+April,False,April,NNP,"noun, proper singular",PROPN,pobj
+",",False,",",",","punctuation mark, comma",PUNCT,punct
+Sudan,False,Sudan,NNP,"noun, proper singular",PROPN,poss
+’s,True,’s,POS,possessive ending,PART,case
+army,False,army,NN,"noun, singular or mass",NOUN,compound
+chief,False,chief,NN,"noun, singular or mass",NOUN,compound
+Abdul,False,Abdul,NNP,"noun, proper singular",PROPN,compound
+Fattah,False,Fattah,NNP,"noun, proper singular",PROPN,compound
+al,False,al,NNP,"noun, proper singular",PROPN,compound
+-,False,-,HYPH,"punctuation mark, hyphen",PUNCT,punct
+Burhan,False,Burhan,NNP,"noun, proper singular",PROPN,nsubj
+has,True,have,VBZ,"verb, 3rd person singular present",AUX,aux
+largely,False,largely,RB,adverb,ADV,advmod
+waged,False,wage,VBN,"verb, past participle",VERB,ROOT
+his,True,his,PRP$,"pronoun, possessive",PRON,poss
+offensive,False,offensive,NN,"noun, singular or mass",NOUN,dobj
+from,True,from,IN,"conjunction, subordinating or preposition",ADP,prep
+the,True,the,DT,determiner,DET,det
+sky,False,sky,NN,"noun, singular or mass",NOUN,pobj
+",",False,",",",","punctuation mark, comma",PUNCT,punct
+aerially,False,aerially,RB,adverb,ADV,advmod
+bombarding,False,bombard,VBG,"verb, gerund or present participle",VERB,advcl
+RSF,False,RSF,NNP,"noun, proper singular",PROPN,compound
+positions,False,position,NNS,"noun, plural",NOUN,dobj
+in,True,in,IN,"conjunction, subordinating or preposition",ADP,prep
+residential,False,residential,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,amod
+areas,False,area,NNS,"noun, plural",NOUN,pobj
+and,True,and,CC,"conjunction, coordinating",CCONJ,cc
+inflicting,False,inflict,VBG,"verb, gerund or present participle",VERB,conj
+a,True,a,DT,determiner,DET,det
+civilian,False,civilian,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,amod
+death,False,death,NN,"noun, singular or mass",NOUN,compound
+toll,False,toll,NN,"noun, singular or mass",NOUN,dobj
+.,False,.,.,"punctuation mark, sentence closer",PUNCT,punct
+"
+     
+            ",False,"
+     
+            ",_SP,whitespace,SPACE,dep
+Meanwhile,True,meanwhile,RB,adverb,ADV,advmod
+",",False,",",",","punctuation mark, comma",PUNCT,punct
+RSF,False,RSF,NNP,"noun, proper singular",PROPN,compound
+chief,False,chief,NN,"noun, singular or mass",NOUN,compound
+Mohamed,False,Mohamed,NNP,"noun, proper singular",PROPN,compound
+Hamdan,False,Hamdan,NNP,"noun, proper singular",PROPN,compound
+Dagalo,False,Dagalo,NNP,"noun, proper singular",PROPN,nsubj
+(,False,(,-LRB-,left round bracket,PUNCT,punct
+Hemedti,False,Hemedti,NNP,"noun, proper singular",PROPN,appos
+),False,),-RRB-,right round bracket,PUNCT,punct
+has,True,have,VBZ,"verb, 3rd person singular present",AUX,aux
+strengthened,False,strengthen,VBN,"verb, past participle",VERB,ccomp
+his,True,his,PRP$,"pronoun, possessive",PRON,poss
+tactical,False,tactical,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,amod
+military,False,military,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,amod
+positions,False,position,NNS,"noun, plural",NOUN,dobj
+by,True,by,IN,"conjunction, subordinating or preposition",ADP,prep
+driving,False,drive,VBG,"verb, gerund or present participle",VERB,pcomp
+civilians,False,civilian,NNS,"noun, plural",NOUN,dobj
+out,True,out,IN,"conjunction, subordinating or preposition",ADP,prep
+of,True,of,IN,"conjunction, subordinating or preposition",ADP,prep
+their,True,their,PRP$,"pronoun, possessive",PRON,poss
+properties,False,property,NNS,"noun, plural",NOUN,pobj
+and,True,and,CC,"conjunction, coordinating",CCONJ,cc
+employing,False,employ,VBG,"verb, gerund or present participle",VERB,conj
+the,True,the,DT,determiner,DET,det
+well,True,well,RB,adverb,ADV,advmod
+-,False,-,HYPH,"punctuation mark, hyphen",PUNCT,punct
+worn,False,wear,VBN,"verb, past participle",VERB,amod
+playbook,False,playbook,NN,"noun, singular or mass",NOUN,dobj
+developed,False,develop,VBN,"verb, past participle",VERB,acl
+in,True,in,IN,"conjunction, subordinating or preposition",ADP,prep
+Darfur,False,Darfur,NNP,"noun, proper singular",PROPN,pobj
+:,False,:,:,"punctuation mark, colon or ellipsis",PUNCT,punct
+Kill,False,kill,VB,"verb, base form",VERB,ROOT
+",",False,",",",","punctuation mark, comma",PUNCT,punct
+terrorize,False,terrorize,VB,"verb, base form",VERB,conj
+and,True,and,CC,"conjunction, coordinating",CCONJ,cc
+expel,False,expel,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,conj
+.,False,.,.,"punctuation mark, sentence closer",PUNCT,punct
+"
+     
+            ",False,"
+     
+            ",_SP,whitespace,SPACE,dep
+Fatima,False,Fatima,NNP,"noun, proper singular",PROPN,poss
+’s,True,’s,POS,possessive ending,PART,case
+story,False,story,NN,"noun, singular or mass",NOUN,nsubj
+is,True,be,VBZ,"verb, 3rd person singular present",AUX,ROOT
+just,True,just,RB,adverb,ADV,advmod
+one,True,one,CD,cardinal number,NUM,nummod
+example,False,example,NN,"noun, singular or mass",NOUN,attr
+.,False,.,.,"punctuation mark, sentence closer",PUNCT,punct
+Eyewitnesses,False,eyewitness,NNS,"noun, plural",NOUN,nsubj
+recalled,False,recall,VBD,"verb, past tense",VERB,ROOT
+that,True,that,IN,"conjunction, subordinating or preposition",SCONJ,mark
+",",False,",",",","punctuation mark, comma",PUNCT,punct
+by,True,by,IN,"conjunction, subordinating or preposition",ADP,prep
+the,True,the,DT,determiner,DET,det
+time,False,time,NN,"noun, singular or mass",NOUN,pobj
+the,True,the,DT,determiner,DET,det
+car,False,car,NN,"noun, singular or mass",NOUN,nsubj
+carrying,False,carry,VBG,"verb, gerund or present participle",VERB,acl
+her,True,she,PRP,"pronoun, personal",PRON,dobj
+arrived,False,arrive,VBD,"verb, past tense",VERB,relcl
+at,True,at,IN,"conjunction, subordinating or preposition",ADP,prep
+the,True,the,DT,determiner,DET,det
+last,True,last,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,pobj
+of,True,of,IN,"conjunction, subordinating or preposition",ADP,prep
+the,True,the,DT,determiner,DET,det
+RSF,False,RSF,NNP,"noun, proper singular",PROPN,compound
+positions,False,position,NNS,"noun, plural",NOUN,pobj
+",",False,",",",","punctuation mark, comma",PUNCT,punct
+she,True,she,PRP,"pronoun, personal",PRON,nsubj
+had,True,have,VBD,"verb, past tense",AUX,aux
+run,False,run,VBN,"verb, past participle",VERB,ccomp
+out,True,out,IN,"conjunction, subordinating or preposition",ADP,prep
+of,True,of,IN,"conjunction, subordinating or preposition",ADP,prep
+cash,False,cash,NN,"noun, singular or mass",NOUN,pobj
+.,False,.,.,"punctuation mark, sentence closer",PUNCT,punct
+Only,True,only,RB,adverb,ADV,advmod
+a,True,a,DT,determiner,DET,quantmod
+few,True,few,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,nummod
+kilometers,False,kilometer,NNS,"noun, plural",NOUN,nsubj
+separated,False,separate,VBD,"verb, past tense",VERB,ROOT
+her,True,she,PRP,"pronoun, personal",PRON,dobj
+",",False,",",",","punctuation mark, comma",PUNCT,punct
+her,True,her,PRP$,"pronoun, possessive",PRON,poss
+two,True,two,CD,cardinal number,NUM,nummod
+children,False,child,NNS,"noun, plural",NOUN,appos
+and,True,and,CC,"conjunction, coordinating",CCONJ,cc
+her,True,her,PRP$,"pronoun, possessive",PRON,poss
+unborn,False,unborn,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,amod
+child,False,child,NN,"noun, singular or mass",NOUN,conj
+from,True,from,IN,"conjunction, subordinating or preposition",ADP,prep
+the,True,the,DT,determiner,DET,det
+safety,False,safety,NN,"noun, singular or mass",NOUN,pobj
+of,True,of,IN,"conjunction, subordinating or preposition",ADP,prep
+Chad,False,Chad,NNP,"noun, proper singular",PROPN,pobj
+.,False,.,.,"punctuation mark, sentence closer",PUNCT,punct
+" 
+     
+            ",False," 
+     
+            ",_SP,whitespace,SPACE,dep
+“,False,"""",``,opening quotation mark,PUNCT,punct
+She,True,she,PRP,"pronoun, personal",PRON,nsubj
+told,False,tell,VBD,"verb, past tense",VERB,ccomp
+the,True,the,DT,determiner,DET,det
+fighters,False,fighter,NNS,"noun, plural",NOUN,dobj
+she,True,she,PRP,"pronoun, personal",PRON,nsubj
+had,True,have,VBD,"verb, past tense",AUX,aux
+spent,False,spend,VBN,"verb, past participle",VERB,relcl
+all,True,all,DT,determiner,DET,det
+her,True,her,PRP$,"pronoun, possessive",PRON,poss
+money,False,money,NN,"noun, singular or mass",NOUN,dobj
+at,True,at,IN,"conjunction, subordinating or preposition",ADP,prep
+other,True,other,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,amod
+checkpoints,False,checkpoint,NNS,"noun, plural",NOUN,pobj
+",",False,",",",","punctuation mark, comma",PUNCT,punct
+”,False,"""",'',closing quotation mark,PUNCT,punct
+eyewitness,False,eyewitness,NN,"noun, singular or mass",NOUN,compound
+Nourin,False,Nourin,NNP,"noun, proper singular",PROPN,nsubj
+said,False,say,VBD,"verb, past tense",VERB,ROOT
+.,False,.,.,"punctuation mark, sentence closer",PUNCT,punct
+“,False,"""",``,opening quotation mark,PUNCT,punct
+They,True,they,PRP,"pronoun, personal",PRON,nsubj
+shot,False,shoot,VBD,"verb, past tense",VERB,ROOT
+her,True,she,PRP,"pronoun, personal",PRON,dobj
+immediately,False,immediately,RB,adverb,ADV,advmod
+.,False,.,.,"punctuation mark, sentence closer",PUNCT,punct
+"
+     
+            ",False,"
+     
+            ",_SP,whitespace,SPACE,dep
+“,False,"""",``,opening quotation mark,PUNCT,punct
+The,True,the,DT,determiner,DET,det
+bullet,False,bullet,NN,"noun, singular or mass",NOUN,nsubj
+went,False,go,VBD,"verb, past tense",VERB,ROOT
+through,True,through,IN,"conjunction, subordinating or preposition",ADP,prep
+one,True,one,CD,cardinal number,NUM,nummod
+side,True,side,NN,"noun, singular or mass",NOUN,pobj
+of,True,of,IN,"conjunction, subordinating or preposition",ADP,prep
+her,True,her,PRP$,"pronoun, possessive",PRON,poss
+head,False,head,NN,"noun, singular or mass",NOUN,pobj
+and,True,and,CC,"conjunction, coordinating",CCONJ,cc
+exited,False,exit,VBD,"verb, past tense",VERB,conj
+the,True,the,DT,determiner,DET,det
+other,True,other,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,dobj
+.,False,.,.,"punctuation mark, sentence closer",PUNCT,punct
+We,True,we,PRP,"pronoun, personal",PRON,nsubj
+all,True,all,DT,determiner,PRON,appos
+screamed,False,scream,VBD,"verb, past tense",VERB,ROOT
+.,False,.,.,"punctuation mark, sentence closer",PUNCT,punct
+”,False,"""",'',closing quotation mark,PUNCT,punct
+"
+     
+            ",False,"
+     
+            ",_SP,whitespace,SPACE,dep
+The,True,the,DT,determiner,DET,det
+interest,False,interest,NN,"noun, singular or mass",NOUN,nsubj
+",",False,",",",","punctuation mark, comma",PUNCT,punct
+influence,False,influence,NN,"noun, singular or mass",NOUN,conj
+and,True,and,CC,"conjunction, coordinating",CCONJ,cc
+material,False,material,NN,"noun, singular or mass",NOUN,compound
+support,False,support,NN,"noun, singular or mass",NOUN,conj
+of,True,of,IN,"conjunction, subordinating or preposition",ADP,prep
+Russia,False,Russia,NNP,"noun, proper singular",PROPN,poss
+’s,True,’s,POS,possessive ending,PART,case
+notorious,False,notorious,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,amod
+paramilitary,False,paramilitary,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,amod
+group,False,group,NN,"noun, singular or mass",NOUN,compound
+Wagner,False,Wagner,NNP,"noun, proper singular",PROPN,pobj
+in,True,in,IN,"conjunction, subordinating or preposition",ADP,prep
+the,True,the,DT,determiner,DET,det
+region,False,region,NN,"noun, singular or mass",NOUN,pobj
+is,True,be,VBZ,"verb, 3rd person singular present",AUX,aux
+also,True,also,RB,adverb,ADV,advmod
+exacerbating,False,exacerbate,VBG,"verb, gerund or present participle",VERB,ccomp
+the,True,the,DT,determiner,DET,det
+violence,False,violence,NN,"noun, singular or mass",NOUN,dobj
+",",False,",",",","punctuation mark, comma",PUNCT,punct
+CNN,False,CNN,NNP,"noun, proper singular",PROPN,nsubj
+has,True,have,VBZ,"verb, 3rd person singular present",AUX,aux
+found,False,find,VBN,"verb, past participle",VERB,ROOT
+.,False,.,.,"punctuation mark, sentence closer",PUNCT,punct
+"
+     
+            ",False,"
+     
+            ",_SP,whitespace,SPACE,dep
+According,False,accord,VBG,"verb, gerund or present participle",VERB,prep
+to,True,to,IN,"conjunction, subordinating or preposition",ADP,prep
+intelligence,False,intelligence,NN,"noun, singular or mass",NOUN,compound
+officials,False,official,NNS,"noun, plural",NOUN,pobj
+",",False,",",",","punctuation mark, comma",PUNCT,punct
+eyewitnesses,False,eyewitness,NNS,"noun, plural",NOUN,meta
+at,True,at,IN,"conjunction, subordinating or preposition",ADP,prep
+key,False,key,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,amod
+transit,False,transit,NN,"noun, singular or mass",NOUN,compound
+points,False,point,NNS,"noun, plural",NOUN,pobj
+and,True,and,CC,"conjunction, coordinating",CCONJ,cc
+CNN,False,CNN,NNP,"noun, proper singular",PROPN,poss
+’s,True,’s,POS,possessive ending,PART,case
+open,False,open,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,amod
+-,False,-,HYPH,"punctuation mark, hyphen",PUNCT,punct
+source,False,source,NN,"noun, singular or mass",NOUN,compound
+analysis,False,analysis,NN,"noun, singular or mass",NOUN,conj
+",",False,",",",","punctuation mark, comma",PUNCT,punct
+Wagner,False,Wagner,NNP,"noun, proper singular",PROPN,nsubj
+has,True,have,VBZ,"verb, 3rd person singular present",AUX,aux
+been,True,be,VBN,"verb, past participle",AUX,aux
+arming,False,arm,VBG,"verb, gerund or present participle",VERB,ROOT
+the,True,the,DT,determiner,DET,det
+RSF,False,RSF,NNP,"noun, proper singular",PROPN,dobj
+using,True,use,VBG,"verb, gerund or present participle",VERB,advcl
+supply,False,supply,NN,"noun, singular or mass",NOUN,compound
+routes,False,route,NNS,"noun, plural",NOUN,dobj
+that,True,that,WDT,wh-determiner,PRON,nsubj
+run,False,run,VBP,"verb, non-3rd person singular present",VERB,relcl
+through,True,through,IN,"conjunction, subordinating or preposition",ADP,prep
+the,True,the,DT,determiner,DET,det
+Darfur,False,Darfur,NNP,"noun, proper singular",PROPN,compound
+region,False,region,NN,"noun, singular or mass",NOUN,pobj
+.,False,.,.,"punctuation mark, sentence closer",PUNCT,punct
+" 
+     
+
+",False," 
+     
+
+",_SP,whitespace,SPACE,dep
+Exclusive,False,exclusive,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,amod
+:,False,:,:,"punctuation mark, colon or ellipsis",PUNCT,punct
+Evidence,False,evidence,NN,"noun, singular or mass",NOUN,nsubj
+emerges,False,emerge,VBZ,"verb, 3rd person singular present",VERB,ccomp
+of,True,of,IN,"conjunction, subordinating or preposition",ADP,prep
+Russia,False,Russia,NNP,"noun, proper singular",PROPN,poss
+'s,True,'s,POS,possessive ending,PART,case
+Wagner,False,Wagner,NNP,"noun, proper singular",PROPN,nsubj
+arming,False,arm,VBG,"verb, gerund or present participle",VERB,pcomp
+militia,False,militia,NN,"noun, singular or mass",NOUN,compound
+leader,False,leader,NN,"noun, singular or mass",NOUN,dobj
+battling,False,battle,VBG,"verb, gerund or present participle",VERB,acl
+Sudan,False,Sudan,NNP,"noun, proper singular",PROPN,poss
+'s,True,'s,POS,possessive ending,PART,case
+army,False,army,NN,"noun, singular or mass",NOUN,dobj
+"
+ 
+            ",False,"
+ 
+            ",_SP,whitespace,SPACE,dep
+“,False,"""",``,opening quotation mark,PUNCT,punct
+What,True,what,WP,"wh-pronoun, personal",PRON,nsubj
+is,True,be,VBZ,"verb, 3rd person singular present",AUX,csubj
+not,True,not,RB,adverb,PART,neg
+in,True,in,IN,"conjunction, subordinating or preposition",ADP,prep
+doubt,False,doubt,NN,"noun, singular or mass",NOUN,pobj
+is,True,be,VBZ,"verb, 3rd person singular present",AUX,ccomp
+Wagner,False,Wagner,NNP,"noun, proper singular",PROPN,poss
+’s,True,’s,POS,possessive ending,PART,case
+role,False,role,NN,"noun, singular or mass",NOUN,attr
+in,True,in,IN,"conjunction, subordinating or preposition",ADP,prep
+this,True,this,DT,determiner,PRON,pobj
+",",False,",",",","punctuation mark, comma",PUNCT,punct
+it,True,it,PRP,"pronoun, personal",PRON,nsubj
+has,True,have,VBZ,"verb, 3rd person singular present",AUX,aux
+been,True,be,VBN,"verb, past participle",AUX,aux
+supplying,False,supply,VBG,"verb, gerund or present participle",VERB,ccomp
+the,True,the,DT,determiner,DET,det
+RSF,False,RSF,NNP,"noun, proper singular",PROPN,dobj
+with,True,with,IN,"conjunction, subordinating or preposition",ADP,prep
+arms,False,arm,NNS,"noun, plural",NOUN,pobj
+and,True,and,CC,"conjunction, coordinating",CCONJ,cc
+supplies,False,supply,NNS,"noun, plural",NOUN,conj
+through,True,through,IN,"conjunction, subordinating or preposition",ADP,prep
+Darfur,False,Darfur,NNP,"noun, proper singular",PROPN,pobj
+",",False,",",",","punctuation mark, comma",PUNCT,punct
+”,False,"""",'',closing quotation mark,PUNCT,punct
+one,True,one,CD,cardinal number,NUM,nummod
+Western,False,western,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,amod
+intelligence,False,intelligence,NN,"noun, singular or mass",NOUN,compound
+official,False,official,NN,"noun, singular or mass",NOUN,nsubj
+told,False,tell,VBD,"verb, past tense",VERB,ROOT
+CNN,False,CNN,NNP,"noun, proper singular",PROPN,dobj
+.,False,.,.,"punctuation mark, sentence closer",PUNCT,punct
+"
+     
+            ",False,"
+     
+            ",_SP,whitespace,SPACE,dep
+“,False,"""",``,opening quotation mark,PUNCT,punct
+It,True,it,PRP,"pronoun, personal",PRON,nsubj
+follows,False,follow,VBZ,"verb, 3rd person singular present",VERB,ROOT
+Wagner,False,Wagner,NNP,"noun, proper singular",PROPN,poss
+’s,True,’s,POS,possessive ending,PART,case
+modus,False,modu,NNS,"noun, plural",NOUN,compound
+operandi,False,operandi,RB,adverb,ADV,ccomp
+.,False,.,.,"punctuation mark, sentence closer",PUNCT,punct
+Create,False,create,VB,"verb, base form",VERB,ccomp
+chaos,False,chaos,NN,"noun, singular or mass",NOUN,dobj
+and,True,and,CC,"conjunction, coordinating",CCONJ,cc
+seize,False,seize,VB,"verb, base form",VERB,conj
+power,False,power,NN,"noun, singular or mass",NOUN,dobj
+",",False,",",",","punctuation mark, comma",PUNCT,punct
+”,False,"""",'',closing quotation mark,PUNCT,punct
+another,True,another,DT,determiner,DET,det
+intelligence,False,intelligence,NN,"noun, singular or mass",NOUN,compound
+source,False,source,NN,"noun, singular or mass",NOUN,nsubj
+active,False,active,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,amod
+in,True,in,IN,"conjunction, subordinating or preposition",ADP,prep
+the,True,the,DT,determiner,DET,det
+region,False,region,NN,"noun, singular or mass",NOUN,pobj
+added,False,add,VBD,"verb, past tense",VERB,ROOT
+.,False,.,.,"punctuation mark, sentence closer",PUNCT,punct
+"
+     
+
+",False,"
+     
+
+",_SP,whitespace,SPACE,dep
+Russia,False,Russia,NNP,"noun, proper singular",PROPN,nsubj
+is,True,be,VBZ,"verb, 3rd person singular present",AUX,aux
+plundering,False,plunder,VBG,"verb, gerund or present participle",VERB,ROOT
+gold,False,gold,NN,"noun, singular or mass",NOUN,dobj
+in,True,in,IN,"conjunction, subordinating or preposition",ADP,prep
+Sudan,False,Sudan,NNP,"noun, proper singular",PROPN,pobj
+to,True,to,TO,"infinitival ""to""",PART,aux
+boost,False,boost,VB,"verb, base form",VERB,xcomp
+Putin,False,Putin,NNP,"noun, proper singular",PROPN,poss
+'s,True,'s,POS,possessive ending,PART,case
+war,False,war,NN,"noun, singular or mass",NOUN,compound
+effort,False,effort,NN,"noun, singular or mass",NOUN,dobj
+in,True,in,IN,"conjunction, subordinating or preposition",ADP,prep
+Ukraine,False,Ukraine,NNP,"noun, proper singular",PROPN,nmod
+"
+ 
+             ",False,"
+ 
+             ",_SP,whitespace,SPACE,dep
+A,True,a,DT,determiner,DET,det
+months,False,month,NNS,"noun, plural",NOUN,npadvmod
+-,False,-,HYPH,"punctuation mark, hyphen",PUNCT,punct
+long,False,long,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,amod
+CNN,False,CNN,NNP,"noun, proper singular",PROPN,compound
+investigation,False,investigation,NN,"noun, singular or mass",NOUN,pobj
+uncovered,False,uncover,VBD,"verb, past tense",VERB,conj
+an,True,an,DT,determiner,DET,det
+increase,False,increase,NN,"noun, singular or mass",NOUN,dobj
+in,True,in,IN,"conjunction, subordinating or preposition",ADP,prep
+Wagner,False,Wagner,NNP,"noun, proper singular",PROPN,compound
+supplies,False,supply,NNS,"noun, plural",NOUN,pobj
+to,True,to,IN,"conjunction, subordinating or preposition",ADP,prep
+the,True,the,DT,determiner,DET,det
+RSF,False,RSF,NNP,"noun, proper singular",PROPN,pobj
+that,True,that,WDT,wh-determiner,PRON,nsubj
+began,False,begin,VBD,"verb, past tense",VERB,relcl
+in,True,in,IN,"conjunction, subordinating or preposition",ADP,prep
+the,True,the,DT,determiner,DET,det
+run,False,run,NN,"noun, singular or mass",NOUN,compound
+-,False,-,HYPH,"punctuation mark, hyphen",PUNCT,punct
+up,True,up,NN,"noun, singular or mass",NOUN,pobj
+to,True,to,IN,"conjunction, subordinating or preposition",ADP,prep
+Sudan,False,Sudan,NNP,"noun, proper singular",PROPN,poss
+’s,True,’s,POS,possessive ending,PART,case
+conflict,False,conflict,NN,"noun, singular or mass",NOUN,pobj
+.,False,.,.,"punctuation mark, sentence closer",PUNCT,punct
+Armaments,False,armament,NNS,"noun, plural",NOUN,nsubj
+appear,False,appear,VBP,"verb, non-3rd person singular present",VERB,ROOT
+to,True,to,TO,"infinitival ""to""",PART,aux
+have,True,have,VB,"verb, base form",AUX,aux
+been,True,be,VBN,"verb, past participle",AUX,auxpass
+shuttled,False,shuttle,VBN,"verb, past participle",VERB,xcomp
+into,True,into,IN,"conjunction, subordinating or preposition",ADP,prep
+Sudan,False,Sudan,NNP,"noun, proper singular",PROPN,pobj
+through,True,through,IN,"conjunction, subordinating or preposition",ADP,prep
+key,False,key,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,amod
+transit,False,transit,NN,"noun, singular or mass",NOUN,compound
+points,False,point,NNS,"noun, plural",NOUN,pobj
+:,False,:,:,"punctuation mark, colon or ellipsis",PUNCT,punct
+Russia,False,Russia,NNP,"noun, proper singular",PROPN,poss
+’s,True,’s,POS,possessive ending,PART,case
+air,False,air,NN,"noun, singular or mass",NOUN,nmod
+and,True,and,CC,"conjunction, coordinating",CCONJ,cc
+naval,False,naval,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,conj
+base,False,base,NN,"noun, singular or mass",NOUN,oprd
+in,True,in,IN,"conjunction, subordinating or preposition",ADP,prep
+the,True,the,DT,determiner,DET,det
+Syrian,False,syrian,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,amod
+coastal,False,coastal,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,amod
+region,False,region,NN,"noun, singular or mass",NOUN,pobj
+of,True,of,IN,"conjunction, subordinating or preposition",ADP,prep
+Latakia,False,Latakia,NNP,"noun, proper singular",PROPN,pobj
+",",False,",",",","punctuation mark, comma",PUNCT,punct
+Wagner,False,wagner,NN,"noun, singular or mass",NOUN,compound
+bases,False,basis,NNS,"noun, plural",NOUN,conj
+in,True,in,IN,"conjunction, subordinating or preposition",ADP,prep
+Libya,False,Libya,NNP,"noun, proper singular",PROPN,pobj
+",",False,",",",","punctuation mark, comma",PUNCT,punct
+and,True,and,CC,"conjunction, coordinating",CCONJ,cc
+Bangui,False,Bangui,NNP,"noun, proper singular",PROPN,compound
+airport,False,airport,NN,"noun, singular or mass",NOUN,conj
+in,True,in,IN,"conjunction, subordinating or preposition",ADP,prep
+the,True,the,DT,determiner,DET,det
+Central,False,Central,NNP,"noun, proper singular",PROPN,compound
+African,False,African,NNP,"noun, proper singular",PROPN,compound
+Republic,False,Republic,NNP,"noun, proper singular",PROPN,pobj
+.,False,.,.,"punctuation mark, sentence closer",PUNCT,punct
+"
+     
+            ",False,"
+     
+            ",_SP,whitespace,SPACE,dep
+The,True,the,DT,determiner,DET,det
+weapons,False,weapon,NNS,"noun, plural",NOUN,nsubjpass
+were,True,be,VBD,"verb, past tense",AUX,auxpass
+also,True,also,RB,adverb,ADV,advmod
+transported,False,transport,VBN,"verb, past participle",VERB,ROOT
+into,True,into,IN,"conjunction, subordinating or preposition",ADP,prep
+Sudan,False,Sudan,NNP,"noun, proper singular",PROPN,pobj
+through,True,through,IN,"conjunction, subordinating or preposition",ADP,prep
+overland,False,overland,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,amod
+routes,False,route,NNS,"noun, plural",NOUN,pobj
+",",False,",",",","punctuation mark, comma",PUNCT,punct
+extending,False,extend,VBG,"verb, gerund or present participle",VERB,advcl
+a,True,a,DT,determiner,DET,det
+robust,False,robust,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,amod
+relationship,False,relationship,NN,"noun, singular or mass",NOUN,dobj
+that,True,that,WDT,wh-determiner,PRON,nsubj
+predated,False,predate,VBD,"verb, past tense",VERB,relcl
+the,True,the,DT,determiner,DET,det
+war,False,war,NN,"noun, singular or mass",NOUN,dobj
+",",False,",",",","punctuation mark, comma",PUNCT,punct
+where,True,where,WRB,wh-adverb,SCONJ,advmod
+the,True,the,DT,determiner,DET,det
+country,False,country,NN,"noun, singular or mass",NOUN,poss
+’s,True,’s,POS,possessive ending,PART,case
+military,False,military,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,amod
+leadership,False,leadership,NN,"noun, singular or mass",NOUN,nsubj
+",",False,",",",","punctuation mark, comma",PUNCT,punct
+headed,False,head,VBN,"verb, past participle",VERB,acl
+by,True,by,IN,"conjunction, subordinating or preposition",ADP,agent
+General,False,General,NNP,"noun, proper singular",PROPN,compound
+Burhan,False,Burhan,NNP,"noun, proper singular",PROPN,pobj
+",",False,",",",","punctuation mark, comma",PUNCT,punct
+granted,False,grant,VBD,"verb, past tense",VERB,relcl
+Moscow,False,Moscow,NNP,"noun, proper singular",PROPN,dative
+large,False,large,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,amod
+concessions,False,concession,NNS,"noun, plural",NOUN,dobj
+in,True,in,IN,"conjunction, subordinating or preposition",ADP,prep
+the,True,the,DT,determiner,DET,det
+country,False,country,NN,"noun, singular or mass",NOUN,poss
+’s,True,’s,POS,possessive ending,PART,case
+gold,False,gold,NN,"noun, singular or mass",NOUN,compound
+mining,False,mining,NN,"noun, singular or mass",NOUN,compound
+industry,False,industry,NN,"noun, singular or mass",NOUN,pobj
+in,True,in,IN,"conjunction, subordinating or preposition",ADP,prep
+exchange,False,exchange,NN,"noun, singular or mass",NOUN,pobj
+for,True,for,IN,"conjunction, subordinating or preposition",ADP,prep
+weapons,False,weapon,NNS,"noun, plural",NOUN,pobj
+and,True,and,CC,"conjunction, coordinating",CCONJ,cc
+political,False,political,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,amod
+backing,False,backing,NN,"noun, singular or mass",NOUN,conj
+.,False,.,.,"punctuation mark, sentence closer",PUNCT,punct
+"
+     
+            ",False,"
+     
+            ",_SP,whitespace,SPACE,dep
+That,True,that,DT,determiner,DET,det
+quid,False,quid,VBP,"verb, non-3rd person singular present",VERB,amod
+pro,False,pro,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,amod
+quo,False,quo,NN,"noun, singular or mass",NOUN,nsubj
+helped,False,help,VBD,"verb, past tense",VERB,ROOT
+finance,False,finance,VB,"verb, base form",VERB,xcomp
+Moscow,False,Moscow,NNP,"noun, proper singular",PROPN,poss
+’s,True,’s,POS,possessive ending,PART,case
+full,True,full,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,amod
+-,False,-,HYPH,"punctuation mark, hyphen",PUNCT,punct
+scale,False,scale,NN,"noun, singular or mass",NOUN,compound
+invasion,False,invasion,NN,"noun, singular or mass",NOUN,dobj
+of,True,of,IN,"conjunction, subordinating or preposition",ADP,prep
+Ukraine,False,Ukraine,NNP,"noun, proper singular",PROPN,pobj
+while,True,while,IN,"conjunction, subordinating or preposition",SCONJ,mark
+entrenching,False,entrench,VBG,"verb, gerund or present participle",VERB,advcl
+Sudan,False,Sudan,NNP,"noun, proper singular",PROPN,poss
+’s,True,’s,POS,possessive ending,PART,case
+military,False,military,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,amod
+junta,False,junta,NN,"noun, singular or mass",NOUN,dobj
+",",False,",",",","punctuation mark, comma",PUNCT,punct
+especially,False,especially,RB,adverb,ADV,advmod
+Hemedti,False,Hemedti,NNP,"noun, proper singular",PROPN,appos
+",",False,",",",","punctuation mark, comma",PUNCT,punct
+who,True,who,WP,"wh-pronoun, personal",PRON,nsubj
+had,True,have,VBD,"verb, past tense",VERB,relcl
+a,True,a,DT,determiner,DET,det
+meteoric,False,meteoric,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,amod
+rise,False,rise,NN,"noun, singular or mass",NOUN,dobj
+to,True,to,IN,"conjunction, subordinating or preposition",ADP,prep
+power,False,power,NN,"noun, singular or mass",NOUN,pobj
+from,True,from,IN,"conjunction, subordinating or preposition",ADP,prep
+a,True,a,DT,determiner,DET,det
+leader,False,leader,NN,"noun, singular or mass",NOUN,pobj
+of,True,of,IN,"conjunction, subordinating or preposition",ADP,prep
+the,True,the,DT,determiner,DET,det
+RSF,False,RSF,NNP,"noun, proper singular",PROPN,poss
+’s,True,’s,POS,possessive ending,PART,case
+previous,False,previous,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,amod
+incarnation,False,incarnation,NN,"noun, singular or mass",NOUN,pobj
+",",False,",",",","punctuation mark, comma",PUNCT,punct
+the,True,the,DT,determiner,DET,det
+Janjaweed,False,Janjaweed,NNP,"noun, proper singular",PROPN,appos
+.,False,.,.,"punctuation mark, sentence closer",PUNCT,punct
+"
+ 
+            ",False,"
+ 
+            ",_SP,whitespace,SPACE,dep
+The,True,the,DT,determiner,DET,det
+Janjaweed,False,Janjaweed,NNP,"noun, proper singular",PROPN,nsubjpass
+–,False,–,:,"punctuation mark, colon or ellipsis",PUNCT,punct
+or,True,or,CC,"conjunction, coordinating",CCONJ,cc
+“,False,"""",``,opening quotation mark,PUNCT,punct
+devils,False,devil,NNS,"noun, plural",NOUN,conj
+on,True,on,IN,"conjunction, subordinating or preposition",ADP,prep
+horseback,False,horseback,NN,"noun, singular or mass",NOUN,pobj
+”,False,"""",'',closing quotation mark,PUNCT,punct
+–,False,–,:,"punctuation mark, colon or ellipsis",PUNCT,punct
+ ,False, ,_SP,whitespace,SPACE,dep
+was,True,be,VBD,"verb, past tense",AUX,auxpass
+later,False,later,RB,adverb,ADV,advmod
+absorbed,False,absorb,VBN,"verb, past participle",VERB,ROOT
+into,True,into,IN,"conjunction, subordinating or preposition",ADP,prep
+Sudan,False,Sudan,NNP,"noun, proper singular",PROPN,poss
+’s,True,’s,POS,possessive ending,PART,case
+security,False,security,NN,"noun, singular or mass",NOUN,compound
+forces,False,force,NNS,"noun, plural",NOUN,pobj
+.,False,.,.,"punctuation mark, sentence closer",PUNCT,punct
+Former,True,former,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,amod
+dictator,False,dictator,NN,"noun, singular or mass",NOUN,compound
+Omar,False,Omar,NNP,"noun, proper singular",PROPN,compound
+al,False,al,NNP,"noun, proper singular",PROPN,compound
+-,False,-,HYPH,"punctuation mark, hyphen",PUNCT,punct
+Bashir,False,Bashir,NNP,"noun, proper singular",PROPN,nsubj
+gave,False,give,VBD,"verb, past tense",VERB,ROOT
+Hemedti,False,Hemedti,NNP,"noun, proper singular",PROPN,dative
+a,True,a,DT,determiner,DET,det
+nickname,False,nickname,NN,"noun, singular or mass",NOUN,dobj
+:,False,:,:,"punctuation mark, colon or ellipsis",PUNCT,punct
+Hemayti,False,Hemayti,NNP,"noun, proper singular",PROPN,ROOT
+",",False,",",",","punctuation mark, comma",PUNCT,punct
+“,False,"""",``,opening quotation mark,PUNCT,punct
+my,True,my,PRP$,"pronoun, possessive",PRON,poss
+protector,False,protector,NN,"noun, singular or mass",NOUN,appos
+.,False,.,.,"punctuation mark, sentence closer",PUNCT,punct
+”,False,"""",'',closing quotation mark,PUNCT,punct
+" 
+     
+            ",False," 
+     
+            ",_SP,whitespace,SPACE,dep
+Before,True,before,IN,"conjunction, subordinating or preposition",SCONJ,mark
+Sudan,False,Sudan,NNP,"noun, proper singular",PROPN,poss
+’s,True,’s,POS,possessive ending,PART,case
+current,False,current,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,amod
+war,False,war,NN,"noun, singular or mass",NOUN,nsubj
+erupted,False,erupt,VBD,"verb, past tense",VERB,advcl
+in,True,in,IN,"conjunction, subordinating or preposition",ADP,prep
+mid,False,mid,NNP,"noun, proper singular",PROPN,pobj
+-,False,-,NNP,"noun, proper singular",PROPN,pobj
+April,False,April,NNP,"noun, proper singular",PROPN,pobj
+",",False,",",",","punctuation mark, comma",PUNCT,punct
+Hemedti,False,Hemedti,NNP,"noun, proper singular",PROPN,nsubj
+was,True,be,VBD,"verb, past tense",AUX,ROOT
+the,True,the,DT,determiner,DET,det
+second,False,second,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,amod
+most,True,most,RBS,"adverb, superlative",ADV,advmod
+powerful,False,powerful,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,amod
+person,False,person,NN,"noun, singular or mass",NOUN,attr
+in,True,in,IN,"conjunction, subordinating or preposition",ADP,prep
+government,False,government,NN,"noun, singular or mass",NOUN,pobj
+.,False,.,.,"punctuation mark, sentence closer",PUNCT,punct
+"
+     
+            ",False,"
+     
+            ",_SP,whitespace,SPACE,dep
+He,True,he,PRP,"pronoun, personal",PRON,nsubj
+allied,False,ally,VBD,"verb, past tense",VERB,ROOT
+with,True,with,IN,"conjunction, subordinating or preposition",ADP,prep
+his,True,his,PRP$,"pronoun, possessive",PRON,poss
+now,True,now,RB,adverb,ADV,advmod
+bitter,False,bitter,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,amod
+enemy,False,enemy,NN,"noun, singular or mass",NOUN,pobj
+",",False,",",",","punctuation mark, comma",PUNCT,punct
+Burhan,False,Burhan,NNP,"noun, proper singular",PROPN,appos
+",",False,",",",","punctuation mark, comma",PUNCT,punct
+to,True,to,TO,"infinitival ""to""",PART,aux
+stifle,False,stifle,VB,"verb, base form",VERB,xcomp
+a,True,a,DT,determiner,DET,det
+democratic,False,democratic,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,amod
+movement,False,movement,NN,"noun, singular or mass",NOUN,dobj
+that,True,that,WDT,wh-determiner,PRON,nsubj
+helped,False,help,VBD,"verb, past tense",VERB,relcl
+overthrow,False,overthrow,VB,"verb, base form",VERB,amod
+dictator,False,dictator,NN,"noun, singular or mass",NOUN,compound
+Bashir,False,Bashir,NNP,"noun, proper singular",PROPN,dobj
+in,True,in,IN,"conjunction, subordinating or preposition",ADP,prep
+2019,False,2019,CD,cardinal number,NUM,pobj
+.,False,.,.,"punctuation mark, sentence closer",PUNCT,punct
+The,True,the,DT,determiner,DET,det
+two,True,two,CD,cardinal number,NUM,nummod
+generals,False,general,NNS,"noun, plural",NOUN,nsubj
+then,True,then,RB,adverb,ADV,advmod
+aligned,False,align,VBN,"verb, past participle",VERB,ROOT
+to,True,to,TO,"infinitival ""to""",PART,aux
+lead,False,lead,VB,"verb, base form",VERB,advcl
+a,True,a,DT,determiner,DET,det
+coup,False,coup,NN,"noun, singular or mass",NOUN,dobj
+against,True,against,IN,"conjunction, subordinating or preposition",ADP,prep
+an,True,an,DT,determiner,DET,det
+internationally,False,internationally,RB,adverb,ADV,advmod
+recognized,False,recognize,VBN,"verb, past participle",VERB,amod
+transitional,False,transitional,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,amod
+government,False,government,NN,"noun, singular or mass",NOUN,pobj
+in,True,in,IN,"conjunction, subordinating or preposition",ADP,prep
+2021,False,2021,CD,cardinal number,NUM,pobj
+",",False,",",",","punctuation mark, comma",PUNCT,punct
+and,True,and,CC,"conjunction, coordinating",CCONJ,cc
+crushed,False,crush,VBD,"verb, past tense",VERB,conj
+a,True,a,DT,determiner,DET,det
+pro,False,pro,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,amod
+-,False,-,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,amod
+democracy,False,democracy,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,amod
+protest,False,protest,NN,"noun, singular or mass",NOUN,compound
+movement,False,movement,NN,"noun, singular or mass",NOUN,dobj
+.,False,.,.,"punctuation mark, sentence closer",PUNCT,punct
+More,True,More,JJR,"adjective, comparative",ADJ,amod
+than,True,than,IN,"conjunction, subordinating or preposition",ADP,quantmod
+100,False,100,CD,cardinal number,NUM,nummod
+protesters,False,protester,NNS,"noun, plural",NOUN,nsubjpass
+were,True,be,VBD,"verb, past tense",AUX,auxpass
+killed,False,kill,VBN,"verb, past participle",VERB,ROOT
+in,True,in,IN,"conjunction, subordinating or preposition",ADP,prep
+the,True,the,DT,determiner,DET,det
+2021,False,2021,CD,cardinal number,NUM,nummod
+anti,False,anti,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,amod
+-,False,-,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,amod
+coup,False,coup,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,amod
+demonstrations,False,demonstration,NNS,"noun, plural",NOUN,pobj
+.,False,.,.,"punctuation mark, sentence closer",PUNCT,punct
+"  
+     
+            ",False,"  
+     
+            ",_SP,whitespace,SPACE,dep
+Their,True,their,PRP$,"pronoun, possessive",PRON,poss
+rivalry,False,rivalry,NN,"noun, singular or mass",NOUN,nsubj
+flared,False,flare,VBN,"verb, past participle",VERB,ROOT
+into,True,into,IN,"conjunction, subordinating or preposition",ADP,prep
+open,False,open,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,amod
+warfare,False,warfare,NN,"noun, singular or mass",NOUN,pobj
+in,True,in,IN,"conjunction, subordinating or preposition",ADP,prep
+mid,False,mid,NNP,"noun, proper singular",PROPN,pobj
+-,False,-,NNP,"noun, proper singular",PROPN,pobj
+April,False,April,NNP,"noun, proper singular",PROPN,pobj
+",",False,",",",","punctuation mark, comma",PUNCT,punct
+and,True,and,CC,"conjunction, coordinating",CCONJ,cc
+CNN,False,CNN,NNP,"noun, proper singular",PROPN,poss
+’s,True,’s,POS,possessive ending,PART,case
+reporting,False,reporting,NN,"noun, singular or mass",NOUN,nsubj
+has,True,have,VBZ,"verb, 3rd person singular present",AUX,aux
+found,False,find,VBN,"verb, past participle",VERB,conj
+that,True,that,IN,"conjunction, subordinating or preposition",SCONJ,mark
+Wagner,False,Wagner,NNP,"noun, proper singular",PROPN,nsubj
+has,True,have,VBZ,"verb, 3rd person singular present",AUX,aux
+dropped,False,drop,VBN,"verb, past participle",VERB,ccomp
+its,True,its,PRP$,"pronoun, possessive",PRON,poss
+wholesale,False,wholesale,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,amod
+support,False,support,NN,"noun, singular or mass",NOUN,dobj
+for,True,for,IN,"conjunction, subordinating or preposition",ADP,prep
+the,True,the,DT,determiner,DET,det
+military,False,military,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,amod
+junta,False,junta,NN,"noun, singular or mass",NOUN,pobj
+in,True,in,IN,"conjunction, subordinating or preposition",ADP,prep
+order,False,order,NN,"noun, singular or mass",NOUN,pobj
+to,True,to,TO,"infinitival ""to""",PART,aux
+back,True,back,VB,"verb, base form",VERB,acl
+one,True,one,CD,cardinal number,NUM,nummod
+side,True,side,NN,"noun, singular or mass",NOUN,dobj
+in,True,in,IN,"conjunction, subordinating or preposition",ADP,prep
+the,True,the,DT,determiner,DET,det
+conflict,False,conflict,NN,"noun, singular or mass",NOUN,pobj
+–,False,–,:,"punctuation mark, colon or ellipsis",PUNCT,punct
+the,True,the,DT,determiner,DET,det
+RSF,False,RSF,NNP,"noun, proper singular",PROPN,appos
+.,False,.,.,"punctuation mark, sentence closer",PUNCT,punct
+"
+     
+            ",False,"
+     
+            ",_SP,whitespace,SPACE,dep
+The,True,the,DT,determiner,DET,det
+UN,False,UN,NNP,"noun, proper singular",PROPN,nsubj
+says,False,say,VBZ,"verb, 3rd person singular present",VERB,ROOT
+at,True,at,IN,"conjunction, subordinating or preposition",ADP,advmod
+least,True,least,JJS,"adjective, superlative",ADJ,advmod
+860,False,860,CD,cardinal number,NUM,nummod
+people,False,people,NNS,"noun, plural",NOUN,nsubjpass
+have,True,have,VBP,"verb, non-3rd person singular present",AUX,aux
+been,True,be,VBN,"verb, past participle",AUX,auxpass
+killed,False,kill,VBN,"verb, past participle",VERB,ccomp
+since,True,since,IN,"conjunction, subordinating or preposition",SCONJ,prep
+the,True,the,DT,determiner,DET,det
+start,False,start,NN,"noun, singular or mass",NOUN,pobj
+of,True,of,IN,"conjunction, subordinating or preposition",ADP,prep
+the,True,the,DT,determiner,DET,det
+current,False,current,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,amod
+conflict,False,conflict,NN,"noun, singular or mass",NOUN,pobj
+",",False,",",",","punctuation mark, comma",PUNCT,punct
+with,True,with,IN,"conjunction, subordinating or preposition",ADP,prep
+about,True,about,RB,adverb,ADV,advmod
+"6,000",False,"6,000",CD,cardinal number,NUM,pobj
+injured,False,injure,VBN,"verb, past participle",VERB,acl
+across,True,across,IN,"conjunction, subordinating or preposition",ADP,prep
+the,True,the,DT,determiner,DET,det
+country,False,country,NN,"noun, singular or mass",NOUN,pobj
+as,True,as,IN,"conjunction, subordinating or preposition",ADP,prep
+of,True,of,IN,"conjunction, subordinating or preposition",ADP,prep
+June,False,June,NNP,"noun, proper singular",PROPN,pobj
+3,False,3,CD,cardinal number,NUM,nummod
+.,False,.,.,"punctuation mark, sentence closer",PUNCT,punct
+Around,True,around,IN,"conjunction, subordinating or preposition",ADP,quantmod
+half,False,half,PDT,predeterminer,DET,quantmod
+a,True,a,DT,determiner,DET,quantmod
+million,False,million,CD,cardinal number,NUM,nummod
+people,False,people,NNS,"noun, plural",NOUN,nsubj
+have,True,have,VBP,"verb, non-3rd person singular present",AUX,aux
+fled,False,flee,VBN,"verb, past participle",VERB,ROOT
+Sudan,False,Sudan,NNP,"noun, proper singular",PROPN,dobj
+",",False,",",",","punctuation mark, comma",PUNCT,punct
+with,True,with,IN,"conjunction, subordinating or preposition",ADP,prep
+more,True,more,JJR,"adjective, comparative",ADJ,amod
+than,True,than,IN,"conjunction, subordinating or preposition",ADP,quantmod
+1.4,False,1.4,CD,cardinal number,NUM,compound
+million,False,million,CD,cardinal number,NUM,nsubj
+internally,False,internally,RB,adverb,ADV,advmod
+displaced,False,displace,VBN,"verb, past participle",VERB,pcomp
+.,False,.,.,"punctuation mark, sentence closer",PUNCT,punct
+"
+     
+            ",False,"
+     
+            ",_SP,whitespace,SPACE,dep
+A,True,a,DT,determiner,DET,det
+near,False,near,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,amod
+shutdown,False,shutdown,NN,"noun, singular or mass",NOUN,nsubj
+in,True,in,IN,"conjunction, subordinating or preposition",ADP,prep
+telecommunications,False,telecommunication,NNS,"noun, plural",NOUN,pobj
+in,True,in,IN,"conjunction, subordinating or preposition",ADP,prep
+Darfur,False,Darfur,NNP,"noun, proper singular",PROPN,pobj
+means,False,mean,VBZ,"verb, 3rd person singular present",VERB,ROOT
+that,True,that,IN,"conjunction, subordinating or preposition",SCONJ,mark
+most,True,most,JJS,"adjective, superlative",ADJ,nsubj
+of,True,of,IN,"conjunction, subordinating or preposition",ADP,prep
+the,True,the,DT,determiner,DET,det
+information,False,information,NN,"noun, singular or mass",NOUN,pobj
+about,True,about,IN,"conjunction, subordinating or preposition",ADP,prep
+the,True,the,DT,determiner,DET,det
+violence,False,violence,NN,"noun, singular or mass",NOUN,pobj
+now,True,now,RB,adverb,ADV,advmod
+playing,False,play,VBG,"verb, gerund or present participle",VERB,acl
+out,True,out,RP,"adverb, particle",ADP,prt
+there,True,there,RB,adverb,ADV,advmod
+has,True,have,VBZ,"verb, 3rd person singular present",AUX,aux
+trickled,False,trickle,VBN,"verb, past participle",VERB,ccomp
+out,True,out,RP,"adverb, particle",ADP,prt
+through,True,through,IN,"conjunction, subordinating or preposition",ADP,prep
+newly,False,newly,RB,adverb,ADV,advmod
+arrived,False,arrive,VBN,"verb, past participle",VERB,amod
+refugees,False,refugee,NNS,"noun, plural",NOUN,pobj
+.,False,.,.,"punctuation mark, sentence closer",PUNCT,punct
+"
+     
+            ",False,"
+     
+            ",_SP,whitespace,SPACE,dep
+Reports,False,report,NNS,"noun, plural",NOUN,nsubj
+of,True,of,IN,"conjunction, subordinating or preposition",ADP,prep
+atrocities,False,atrocity,NNS,"noun, plural",NOUN,pobj
+committed,False,commit,VBN,"verb, past participle",VERB,acl
+by,True,by,IN,"conjunction, subordinating or preposition",ADP,agent
+RSF,False,RSF,NNP,"noun, proper singular",PROPN,compound
+fighters,False,fighter,NNS,"noun, plural",NOUN,pobj
+and,True,and,CC,"conjunction, coordinating",CCONJ,cc
+their,True,their,PRP$,"pronoun, possessive",PRON,poss
+allied,False,ally,VBN,"verb, past participle",VERB,amod
+militias,False,militia,NNS,"noun, plural",NOUN,conj
+",",False,",",",","punctuation mark, comma",PUNCT,punct
+clearly,False,clearly,RB,adverb,ADV,advmod
+identified,False,identify,VBN,"verb, past participle",VERB,acl
+by,True,by,IN,"conjunction, subordinating or preposition",ADP,agent
+their,True,their,PRP$,"pronoun, possessive",PRON,poss
+uniforms,False,uniform,NNS,"noun, plural",NOUN,pobj
+",",False,",",",","punctuation mark, comma",PUNCT,punct
+are,True,be,VBP,"verb, non-3rd person singular present",AUX,ROOT
+consistent,False,consistent,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,acomp
+across,True,across,IN,"conjunction, subordinating or preposition",ADP,prep
+dozens,False,dozen,NNS,"noun, plural",NOUN,pobj
+of,True,of,IN,"conjunction, subordinating or preposition",ADP,prep
+testimonies,False,testimony,NNS,"noun, plural",NOUN,pobj
+.,False,.,.,"punctuation mark, sentence closer",PUNCT,punct
+They,True,they,PRP,"pronoun, personal",PRON,nsubj
+include,False,include,VBP,"verb, non-3rd person singular present",VERB,ROOT
+arbitrary,False,arbitrary,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,amod
+killings,False,killing,NNS,"noun, plural",NOUN,dobj
+",",False,",",",","punctuation mark, comma",PUNCT,punct
+the,True,the,DT,determiner,DET,det
+wholesale,False,wholesale,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,amod
+destruction,False,destruction,NN,"noun, singular or mass",NOUN,appos
+of,True,of,IN,"conjunction, subordinating or preposition",ADP,prep
+vital,False,vital,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,amod
+civilian,False,civilian,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,amod
+infrastructure,False,infrastructure,NN,"noun, singular or mass",NOUN,pobj
+",",False,",",",","punctuation mark, comma",PUNCT,punct
+the,True,the,DT,determiner,DET,det
+looting,False,looting,NN,"noun, singular or mass",NOUN,conj
+of,True,of,IN,"conjunction, subordinating or preposition",ADP,prep
+homes,False,home,NNS,"noun, plural",NOUN,pobj
+and,True,and,CC,"conjunction, coordinating",CCONJ,cc
+hospitals,False,hospital,NNS,"noun, plural",NOUN,conj
+",",False,",",",","punctuation mark, comma",PUNCT,punct
+and,True,and,CC,"conjunction, coordinating",CCONJ,cc
+even,True,even,RB,adverb,ADV,advmod
+mass,False,mass,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,amod
+rapes,False,rape,NNS,"noun, plural",NOUN,conj
+.,False,.,.,"punctuation mark, sentence closer",PUNCT,punct
+"
+     
+            ",False,"
+     
+            ",_SP,whitespace,SPACE,dep
+“,False,"""",``,opening quotation mark,PUNCT,punct
+I,True,I,PRP,"pronoun, personal",PRON,nsubj
+saw,False,see,VBD,"verb, past tense",VERB,ccomp
+the,True,the,DT,determiner,DET,det
+aftermath,False,aftermath,NN,"noun, singular or mass",NOUN,dobj
+of,True,of,IN,"conjunction, subordinating or preposition",ADP,prep
+torched,False,torch,VBN,"verb, past participle",VERB,nmod
+internally,False,internally,RB,adverb,ADV,advmod
+displaced,False,displace,VBN,"verb, past participle",VERB,amod
+people,False,people,NNS,"noun, plural",NOUN,nmod
+(,False,(,-LRB-,left round bracket,PUNCT,punct
+IDP,False,IDP,NNP,"noun, proper singular",PROPN,appos
+),False,),-RRB-,right round bracket,PUNCT,punct
+centers,False,center,NNS,"noun, plural",NOUN,pobj
+and,True,and,CC,"conjunction, coordinating",CCONJ,cc
+witnessed,False,witness,VBD,"verb, past tense",VERB,conj
+the,True,the,DT,determiner,DET,det
+RSF,False,RSF,NNP,"noun, proper singular",PROPN,nmod
+raiding,False,raid,VBG,"verb, gerund or present participle",VERB,amod
+residences,False,residence,NNS,"noun, plural",NOUN,dobj
+",",False,",",",","punctuation mark, comma",PUNCT,punct
+”,False,"""",'',closing quotation mark,PUNCT,punct
+said,False,say,VBD,"verb, past tense",VERB,ROOT
+Hussein,False,Hussein,NNP,"noun, proper singular",PROPN,compound
+Haran,False,Haran,NNP,"noun, proper singular",PROPN,nsubj
+",",False,",",",","punctuation mark, comma",PUNCT,punct
+a,True,a,DT,determiner,DET,det
+human,False,human,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,amod
+rights,False,right,NNS,"noun, plural",NOUN,compound
+activist,False,activist,NN,"noun, singular or mass",NOUN,appos
+who,True,who,WP,"wh-pronoun, personal",PRON,nsubj
+was,True,be,VBD,"verb, past tense",AUX,relcl
+in,True,in,IN,"conjunction, subordinating or preposition",ADP,prep
+the,True,the,DT,determiner,DET,det
+Darfur,False,Darfur,NNP,"noun, proper singular",PROPN,compound
+city,False,city,NN,"noun, singular or mass",NOUN,pobj
+of,True,of,IN,"conjunction, subordinating or preposition",ADP,prep
+el,False,el,NNP,"noun, proper singular",PROPN,compound
+-,False,-,HYPH,"punctuation mark, hyphen",PUNCT,punct
+Fasher,False,Fasher,NNP,"noun, proper singular",PROPN,pobj
+when,True,when,WRB,wh-adverb,SCONJ,advmod
+the,True,the,DT,determiner,DET,det
+fighting,False,fighting,NN,"noun, singular or mass",NOUN,nsubj
+broke,False,break,VBD,"verb, past tense",VERB,advcl
+out,True,out,RP,"adverb, particle",ADP,prt
+before,True,before,IN,"conjunction, subordinating or preposition",ADP,prep
+fleeing,False,flee,VBG,"verb, gerund or present participle",VERB,pcomp
+to,True,to,IN,"conjunction, subordinating or preposition",ADP,prep
+Geneina,False,Geneina,NNP,"noun, proper singular",PROPN,pobj
+",",False,",",",","punctuation mark, comma",PUNCT,punct
+another,True,another,DT,determiner,DET,det
+city,False,city,NN,"noun, singular or mass",NOUN,appos
+in,True,in,IN,"conjunction, subordinating or preposition",ADP,prep
+the,True,the,DT,determiner,DET,det
+region,False,region,NN,"noun, singular or mass",NOUN,pobj
+",",False,",",",","punctuation mark, comma",PUNCT,punct
+and,True,and,CC,"conjunction, coordinating",CCONJ,cc
+then,True,then,RB,adverb,ADV,advmod
+to,True,to,IN,"conjunction, subordinating or preposition",ADP,prep
+Chad,False,Chad,NNP,"noun, proper singular",PROPN,pobj
+.,False,.,.,"punctuation mark, sentence closer",PUNCT,punct
+" 
+     
+            ",False," 
+     
+            ",_SP,whitespace,SPACE,dep
+“,False,"""",``,opening quotation mark,PUNCT,punct
+Even,True,even,RB,adverb,ADV,advmod
+the,True,the,DT,determiner,DET,det
+hospitals,False,hospital,NNS,"noun, plural",NOUN,nsubjpass
+were,True,be,VBD,"verb, past tense",AUX,auxpass
+looted,False,loot,VBN,"verb, past participle",VERB,ROOT
+.,False,.,.,"punctuation mark, sentence closer",PUNCT,punct
+At,True,at,IN,"conjunction, subordinating or preposition",ADP,prep
+Geneina,False,Geneina,NNP,"noun, proper singular",PROPN,poss
+’s,True,’s,POS,possessive ending,PART,case
+research,False,research,NN,"noun, singular or mass",NOUN,compound
+hospital,False,hospital,NN,"noun, singular or mass",NOUN,pobj
+",",False,",",",","punctuation mark, comma",PUNCT,punct
+they,True,they,PRP,"pronoun, personal",PRON,nsubj
+stole,False,steal,VBD,"verb, past tense",VERB,ccomp
+the,True,the,DT,determiner,DET,det
+blood,False,blood,NN,"noun, singular or mass",NOUN,compound
+bank,False,bank,NN,"noun, singular or mass",NOUN,dobj
+",",False,",",",","punctuation mark, comma",PUNCT,punct
+and,True,and,CC,"conjunction, coordinating",CCONJ,cc
+they,True,they,PRP,"pronoun, personal",PRON,nsubj
+spilled,False,spill,VBD,"verb, past tense",VERB,conj
+the,True,the,DT,determiner,DET,det
+blood,False,blood,NN,"noun, singular or mass",NOUN,dobj
+all,True,all,RB,adverb,ADV,advmod
+over,True,over,IN,"conjunction, subordinating or preposition",ADP,prep
+the,True,the,DT,determiner,DET,det
+street,False,street,NN,"noun, singular or mass",NOUN,pobj
+",",False,",",",","punctuation mark, comma",PUNCT,punct
+”,False,"""",'',closing quotation mark,PUNCT,punct
+Haran,False,Haran,NNP,"noun, proper singular",PROPN,nsubj
+",",False,",",",","punctuation mark, comma",PUNCT,punct
+who,True,who,WP,"wh-pronoun, personal",PRON,nsubj
+works,False,work,VBZ,"verb, 3rd person singular present",VERB,relcl
+at,True,at,IN,"conjunction, subordinating or preposition",ADP,prep
+the,True,the,DT,determiner,DET,det
+Strategic,False,Strategic,NNP,"noun, proper singular",PROPN,compound
+Initiative,False,Initiative,NNP,"noun, proper singular",PROPN,pobj
+for,True,for,IN,"conjunction, subordinating or preposition",ADP,prep
+Women,False,Women,NNPS,"noun, proper plural",PROPN,pobj
+in,True,in,IN,"conjunction, subordinating or preposition",ADP,prep
+the,True,the,DT,determiner,DET,det
+Horn,False,Horn,NNP,"noun, proper singular",PROPN,pobj
+of,True,of,IN,"conjunction, subordinating or preposition",ADP,prep
+Africa,False,Africa,NNP,"noun, proper singular",PROPN,pobj
+(,False,(,-LRB-,left round bracket,PUNCT,punct
+SIHA,False,SIHA,NNP,"noun, proper singular",PROPN,appos
+),False,),-RRB-,right round bracket,PUNCT,punct
+",",False,",",",","punctuation mark, comma",PUNCT,punct
+told,False,tell,VBD,"verb, past tense",VERB,ROOT
+CNN,False,CNN,NNP,"noun, proper singular",PROPN,dobj
+.,False,.,.,"punctuation mark, sentence closer",PUNCT,punct
+" 
+     
+            ",False," 
+     
+            ",_SP,whitespace,SPACE,dep
+“,False,"""",``,opening quotation mark,PUNCT,punct
+The,True,the,DT,determiner,DET,det
+only,True,only,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,amod
+way,False,way,NN,"noun, singular or mass",NOUN,nsubj
+I,True,I,PRP,"pronoun, personal",PRON,nsubj
+can,True,can,MD,"verb, modal auxiliary",AUX,aux
+explain,False,explain,VB,"verb, base form",VERB,relcl
+this,True,this,DT,determiner,PRON,dobj
+is,True,be,VBZ,"verb, 3rd person singular present",AUX,ROOT
+that,True,that,IN,"conjunction, subordinating or preposition",SCONJ,mark
+they,True,they,PRP,"pronoun, personal",PRON,nsubj
+did,True,do,VBD,"verb, past tense",AUX,aux
+n’t,True,not,RB,adverb,PART,neg
+want,False,want,VB,"verb, base form",VERB,ccomp
+to,True,to,TO,"infinitival ""to""",PART,aux
+leave,False,leave,VB,"verb, base form",VERB,xcomp
+a,True,a,DT,determiner,DET,det
+drop,False,drop,NN,"noun, singular or mass",NOUN,dobj
+of,True,of,IN,"conjunction, subordinating or preposition",ADP,prep
+blood,False,blood,NN,"noun, singular or mass",NOUN,pobj
+for,True,for,IN,"conjunction, subordinating or preposition",ADP,prep
+the,True,the,DT,determiner,DET,det
+ethnic,False,ethnic,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,amod
+Africans,False,Africans,NNPS,"noun, proper plural",PROPN,pobj
+[,False,[,-LRB-,left round bracket,PUNCT,punct
+who,True,who,WP,"wh-pronoun, personal",PRON,nsubj
+claim,False,claim,VBP,"verb, non-3rd person singular present",VERB,relcl
+no,True,no,DT,determiner,DET,det
+Arab,False,arab,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,amod
+ancestry,False,ancestry,NN,"noun, singular or mass",NOUN,dobj
+],False,],-RRB-,right round bracket,PUNCT,punct
+being,True,be,VBG,"verb, gerund or present participle",AUX,auxpass
+treated,False,treat,VBN,"verb, past participle",VERB,acl
+at,True,at,IN,"conjunction, subordinating or preposition",ADP,prep
+the,True,the,DT,determiner,DET,det
+hospital,False,hospital,NN,"noun, singular or mass",NOUN,pobj
+.,False,.,.,"punctuation mark, sentence closer",PUNCT,punct
+This,True,this,DT,determiner,PRON,nsubj
+is,True,be,VBZ,"verb, 3rd person singular present",AUX,ccomp
+an,True,an,DT,determiner,DET,det
+ethnic,False,ethnic,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,amod
+cleansing,False,cleansing,NN,"noun, singular or mass",NOUN,compound
+project,False,project,NN,"noun, singular or mass",NOUN,attr
+",",False,",",",","punctuation mark, comma",PUNCT,punct
+”,False,"""",'',closing quotation mark,PUNCT,punct
+he,True,he,PRP,"pronoun, personal",PRON,nsubj
+added,False,add,VBD,"verb, past tense",VERB,ROOT
+.,False,.,.,"punctuation mark, sentence closer",PUNCT,punct
+" 
+     
+            ",False," 
+     
+            ",_SP,whitespace,SPACE,dep
+On,True,on,IN,"conjunction, subordinating or preposition",ADP,prep
+Wednesday,False,Wednesday,NNP,"noun, proper singular",PROPN,pobj
+",",False,",",",","punctuation mark, comma",PUNCT,punct
+the,True,the,DT,determiner,DET,det
+RSF,False,RSF,NNP,"noun, proper singular",PROPN,nsubj
+abducted,False,abduct,VBD,"verb, past tense",VERB,ROOT
+and,True,and,CC,"conjunction, coordinating",CCONJ,cc
+executed,False,execute,VBD,"verb, past tense",VERB,conj
+West,False,West,NNP,"noun, proper singular",PROPN,compound
+Darfur,False,Darfur,NNP,"noun, proper singular",PROPN,compound
+Governor,False,Governor,NNP,"noun, proper singular",PROPN,compound
+Khamis,False,Khamis,NNP,"noun, proper singular",PROPN,compound
+Abbakar,False,Abbakar,NNP,"noun, proper singular",PROPN,dobj
+",",False,",",",","punctuation mark, comma",PUNCT,punct
+according,False,accord,VBG,"verb, gerund or present participle",VERB,prep
+to,True,to,IN,"conjunction, subordinating or preposition",ADP,prep
+the,True,the,DT,determiner,DET,det
+Sudanese,False,sudanese,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,amod
+military,False,military,NN,"noun, singular or mass",NOUN,pobj
+.,False,.,.,"punctuation mark, sentence closer",PUNCT,punct
+The,True,the,DT,determiner,DET,det
+RSF,False,RSF,NNP,"noun, proper singular",PROPN,nsubj
+denied,False,deny,VBD,"verb, past tense",VERB,ROOT
+responsibility,False,responsibility,NN,"noun, singular or mass",NOUN,dobj
+for,True,for,IN,"conjunction, subordinating or preposition",ADP,prep
+the,True,the,DT,determiner,DET,det
+killing,False,killing,NN,"noun, singular or mass",NOUN,pobj
+",",False,",",",","punctuation mark, comma",PUNCT,punct
+blaming,False,blame,VBG,"verb, gerund or present participle",VERB,advcl
+“,False,"""",``,opening quotation mark,PUNCT,punct
+outlaws,False,outlaws,NNPS,"noun, proper plural",PROPN,dobj
+”,False,"""",'',closing quotation mark,PUNCT,punct
+without,True,without,IN,"conjunction, subordinating or preposition",ADP,prep
+providing,False,provide,VBG,"verb, gerund or present participle",VERB,pcomp
+further,True,further,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,amod
+detail,False,detail,NN,"noun, singular or mass",NOUN,dobj
+.,False,.,.,"punctuation mark, sentence closer",PUNCT,punct
+"
+     
+            ",False,"
+     
+            ",_SP,whitespace,SPACE,dep
+Some,True,some,DT,determiner,DET,det
+claims,False,claim,NNS,"noun, plural",NOUN,nsubj
+are,True,be,VBP,"verb, non-3rd person singular present",AUX,ROOT
+nearly,False,nearly,RB,adverb,ADV,advmod
+impossible,False,impossible,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,acomp
+to,True,to,TO,"infinitival ""to""",PART,aux
+verify,False,verify,VB,"verb, base form",VERB,xcomp
+during,True,during,IN,"conjunction, subordinating or preposition",ADP,prep
+active,False,active,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,amod
+fighting,False,fighting,NN,"noun, singular or mass",NOUN,pobj
+",",False,",",",","punctuation mark, comma",PUNCT,punct
+but,True,but,CC,"conjunction, coordinating",CCONJ,cc
+satellite,False,satellite,NN,"noun, singular or mass",NOUN,compound
+imagery,False,imagery,NN,"noun, singular or mass",NOUN,nsubj
+from,True,from,IN,"conjunction, subordinating or preposition",ADP,prep
+the,True,the,DT,determiner,DET,det
+area,False,area,NN,"noun, singular or mass",NOUN,pobj
+paints,False,paint,VBZ,"verb, 3rd person singular present",VERB,conj
+a,True,a,DT,determiner,DET,det
+clear,False,clear,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,amod
+picture,False,picture,NN,"noun, singular or mass",NOUN,dobj
+.,False,.,.,"punctuation mark, sentence closer",PUNCT,punct
+At,True,at,IN,"conjunction, subordinating or preposition",ADP,advmod
+least,True,least,RBS,"adverb, superlative",ADV,advmod
+three,True,three,CD,cardinal number,NUM,nummod
+cities,False,city,NNS,"noun, plural",NOUN,nsubjpass
+and,True,and,CC,"conjunction, coordinating",CCONJ,cc
+10,False,10,CD,cardinal number,NUM,nummod
+towns,False,town,NNS,"noun, plural",NOUN,conj
+and,True,and,CC,"conjunction, coordinating",CCONJ,cc
+villages,False,village,NNS,"noun, plural",NOUN,conj
+in,True,in,IN,"conjunction, subordinating or preposition",ADP,prep
+Darfur,False,Darfur,NNP,"noun, proper singular",PROPN,pobj
+have,True,have,VBP,"verb, non-3rd person singular present",AUX,aux
+been,True,be,VBN,"verb, past participle",AUX,auxpass
+partially,False,partially,RB,adverb,ADV,advmod
+burned,False,burn,VBN,"verb, past participle",VERB,ROOT
+to,True,to,IN,"conjunction, subordinating or preposition",ADP,prep
+the,True,the,DT,determiner,DET,det
+ground,False,ground,NN,"noun, singular or mass",NOUN,pobj
+in,True,in,IN,"conjunction, subordinating or preposition",ADP,prep
+the,True,the,DT,determiner,DET,det
+past,False,past,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,amod
+month,False,month,NN,"noun, singular or mass",NOUN,pobj
+alone,True,alone,RB,adverb,ADV,advmod
+.,False,.,.,"punctuation mark, sentence closer",PUNCT,punct
+"
+     
+            ",False,"
+     
+            ",_SP,whitespace,SPACE,dep
+At,True,at,RB,adverb,ADV,advmod
+least,True,least,JJS,"adjective, superlative",ADJ,advmod
+one,True,one,CD,cardinal number,NUM,nummod
+food,False,food,NN,"noun, singular or mass",NOUN,compound
+market,False,market,NN,"noun, singular or mass",NOUN,nsubjpass
+in,True,in,IN,"conjunction, subordinating or preposition",ADP,prep
+Geneina,False,Geneina,NNP,"noun, proper singular",PROPN,pobj
+",",False,",",",","punctuation mark, comma",PUNCT,punct
+which,True,which,WDT,wh-determiner,PRON,nsubj
+hosts,False,host,VBZ,"verb, 3rd person singular present",VERB,relcl
+more,True,more,JJR,"adjective, comparative",ADJ,amod
+than,True,than,IN,"conjunction, subordinating or preposition",ADP,quantmod
+"100,000",False,"100,000",CD,cardinal number,NUM,nummod
+people,False,people,NNS,"noun, plural",NOUN,dobj
+internally,False,internally,RB,adverb,ADV,advmod
+displaced,False,displace,VBN,"verb, past participle",VERB,acl
+by,True,by,IN,"conjunction, subordinating or preposition",ADP,agent
+violence,False,violence,NN,"noun, singular or mass",NOUN,pobj
+over,True,over,IN,"conjunction, subordinating or preposition",ADP,prep
+the,True,the,DT,determiner,DET,det
+last,True,last,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,amod
+two,True,two,CD,cardinal number,NUM,nummod
+decades,False,decade,NNS,"noun, plural",NOUN,pobj
+",",False,",",",","punctuation mark, comma",PUNCT,punct
+has,True,have,VBZ,"verb, 3rd person singular present",AUX,aux
+been,True,be,VBN,"verb, past participle",AUX,auxpass
+torched,False,torch,VBN,"verb, past participle",VERB,ROOT
+.,False,.,.,"punctuation mark, sentence closer",PUNCT,punct
+A,True,a,DT,determiner,DET,det
+school,False,school,NN,"noun, singular or mass",NOUN,npadvmod
+-,False,-,HYPH,"punctuation mark, hyphen",PUNCT,punct
+turned,False,turn,VBN,"verb, past participle",VERB,amod
+-,False,-,HYPH,"punctuation mark, hyphen",PUNCT,punct
+IDP,False,IDP,NNP,"noun, proper singular",PROPN,dobj
+center,False,center,NN,"noun, singular or mass",NOUN,nsubjpass
+was,True,be,VBD,"verb, past tense",AUX,auxpass
+also,True,also,RB,adverb,ADV,advmod
+set,False,set,VBN,"verb, past participle",VERB,ROOT
+alight,False,alight,NN,"noun, singular or mass",NOUN,dobj
+in,True,in,IN,"conjunction, subordinating or preposition",ADP,prep
+the,True,the,DT,determiner,DET,det
+city,False,city,NN,"noun, singular or mass",NOUN,pobj
+",",False,",",",","punctuation mark, comma",PUNCT,punct
+according,False,accord,VBG,"verb, gerund or present participle",VERB,prep
+to,True,to,IN,"conjunction, subordinating or preposition",ADP,prep
+satellite,False,satellite,NN,"noun, singular or mass",NOUN,compound
+photographs,False,photograph,NNS,"noun, plural",NOUN,pobj
+.,False,.,.,"punctuation mark, sentence closer",PUNCT,punct
+" 
+     
+            ",False," 
+     
+            ",_SP,whitespace,SPACE,dep
+Many,True,many,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,nsubj
+of,True,of,IN,"conjunction, subordinating or preposition",ADP,prep
+the,True,the,DT,determiner,DET,det
+interviewees,False,interviewee,NNS,"noun, plural",NOUN,pobj
+depict,False,depict,VBP,"verb, non-3rd person singular present",VERB,ROOT
+an,True,an,DT,determiner,DET,det
+emboldened,False,emboldened,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,amod
+RSF,False,RSF,NNP,"noun, proper singular",PROPN,dobj
+that,True,that,WDT,wh-determiner,PRON,nsubj
+is,True,be,VBZ,"verb, 3rd person singular present",AUX,relcl
+better,False,well,RBR,"adverb, comparative",ADV,advmod
+armed,False,armed,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,acomp
+than,True,than,IN,"conjunction, subordinating or preposition",ADP,prep
+its,True,its,PRP$,"pronoun, possessive",PRON,poss
+previous,False,previous,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,amod
+incarnation,False,incarnation,NN,"noun, singular or mass",NOUN,pobj
+two,True,two,CD,cardinal number,NUM,nummod
+decades,False,decade,NNS,"noun, plural",NOUN,npadvmod
+ago,False,ago,RB,adverb,ADV,advmod
+.,False,.,.,"punctuation mark, sentence closer",PUNCT,punct
+"
+     
+            ",False,"
+     
+            ",_SP,whitespace,SPACE,dep
+“,False,"""",``,opening quotation mark,PUNCT,punct
+The,True,the,DT,determiner,DET,det
+scale,False,scale,NN,"noun, singular or mass",NOUN,nsubj
+of,True,of,IN,"conjunction, subordinating or preposition",ADP,prep
+the,True,the,DT,determiner,DET,det
+fighting,False,fighting,NN,"noun, singular or mass",NOUN,pobj
+in,True,in,IN,"conjunction, subordinating or preposition",ADP,prep
+Darfur,False,Darfur,NNP,"noun, proper singular",PROPN,pobj
+today,False,today,NN,"noun, singular or mass",NOUN,npadvmod
+eclipses,False,eclipse,VBZ,"verb, 3rd person singular present",VERB,ccomp
+that,True,that,DT,determiner,PRON,dobj
+of,True,of,IN,"conjunction, subordinating or preposition",ADP,prep
+the,True,the,DT,determiner,DET,det
+early,False,early,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,amod
+2000s,False,2000s,CD,cardinal number,NUM,pobj
+",",False,",",",","punctuation mark, comma",PUNCT,punct
+”,False,"""",'',closing quotation mark,PUNCT,punct
+said,False,say,VBD,"verb, past tense",VERB,ROOT
+Kholood,False,Kholood,NNP,"noun, proper singular",PROPN,compound
+Khair,False,Khair,NNP,"noun, proper singular",PROPN,nsubj
+",",False,",",",","punctuation mark, comma",PUNCT,punct
+founder,False,founder,NN,"noun, singular or mass",NOUN,appos
+of,True,of,IN,"conjunction, subordinating or preposition",ADP,prep
+the,True,the,DT,determiner,DET,det
+Confluence,False,Confluence,NNP,"noun, proper singular",PROPN,compound
+Advisory,False,Advisory,NNP,"noun, proper singular",PROPN,pobj
+",",False,",",",","punctuation mark, comma",PUNCT,punct
+a,True,a,DT,determiner,DET,det
+Khartoum,False,Khartoum,NNP,"noun, proper singular",PROPN,npadvmod
+-,False,-,HYPH,"punctuation mark, hyphen",PUNCT,punct
+based,False,base,VBN,"verb, past participle",VERB,amod
+think,False,think,NN,"noun, singular or mass",NOUN,compound
+tank,False,tank,NN,"noun, singular or mass",NOUN,appos
+.,False,.,.,"punctuation mark, sentence closer",PUNCT,punct
+“,False,"""",``,opening quotation mark,PUNCT,punct
+The,True,the,DT,determiner,DET,det
+Janjaweed,False,Janjaweed,NNP,"noun, proper singular",PROPN,nsubj
+of,True,of,IN,"conjunction, subordinating or preposition",ADP,prep
+2003,False,2003,CD,cardinal number,NUM,pobj
+definitely,False,definitely,RB,adverb,ADV,advmod
+could,True,could,MD,"verb, modal auxiliary",AUX,aux
+n’t,True,not,RB,adverb,PART,neg
+have,True,have,VB,"verb, base form",AUX,aux
+done,True,do,VBN,"verb, past participle",VERB,ROOT
+what,True,what,WP,"wh-pronoun, personal",PRON,dobj
+the,True,the,DT,determiner,DET,det
+RSF,False,RSF,NNP,"noun, proper singular",PROPN,nsubj
+of,True,of,IN,"conjunction, subordinating or preposition",ADP,prep
+2023,False,2023,CD,cardinal number,NUM,pobj
+has,True,have,VBZ,"verb, 3rd person singular present",AUX,aux
+done,True,do,VBN,"verb, past participle",VERB,ccomp
+.,False,.,.,"punctuation mark, sentence closer",PUNCT,punct
+”,False,"""",'',closing quotation mark,PUNCT,punct
+"
+     
+            ",False,"
+     
+            ",_SP,whitespace,SPACE,dep
+Khair,False,Khair,NNP,"noun, proper singular",PROPN,nsubj
+added,False,add,VBD,"verb, past tense",VERB,ROOT
+:,False,:,:,"punctuation mark, colon or ellipsis",PUNCT,punct
+“,False,"""",``,opening quotation mark,PUNCT,punct
+But,True,but,CC,"conjunction, coordinating",CCONJ,cc
+having,False,having,VBG,"verb, gerund or present participle",AUX,aux
+enriched,False,enrich,VBN,"verb, past participle",VERB,advcl
+himself,True,himself,PRP,"pronoun, personal",PRON,dobj
+and,True,and,CC,"conjunction, coordinating",CCONJ,cc
+positioned,False,position,VBD,"verb, past tense",VERB,conj
+himself,True,himself,PRP,"pronoun, personal",PRON,dobj
+so,True,so,RB,adverb,ADV,advmod
+well,True,well,RB,adverb,ADV,advmod
+",",False,",",",","punctuation mark, comma",PUNCT,punct
+despite,False,despite,IN,"conjunction, subordinating or preposition",SCONJ,prep
+the,True,the,DT,determiner,DET,det
+tumult,False,tumult,NN,"noun, singular or mass",NOUN,pobj
+of,True,of,IN,"conjunction, subordinating or preposition",ADP,prep
+the,True,the,DT,determiner,DET,det
+past,False,past,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,amod
+four,True,four,CD,cardinal number,NUM,nummod
+years,False,year,NNS,"noun, plural",NOUN,pobj
+",",False,",",",","punctuation mark, comma",PUNCT,punct
+Hemedti,False,Hemedti,NNP,"noun, proper singular",PROPN,nsubj
+is,True,be,VBZ,"verb, 3rd person singular present",AUX,ccomp
+in,True,in,IN,"conjunction, subordinating or preposition",ADP,prep
+a,True,a,DT,determiner,DET,det
+position,False,position,NN,"noun, singular or mass",NOUN,pobj
+where,True,where,WRB,wh-adverb,SCONJ,advmod
+he,True,he,PRP,"pronoun, personal",PRON,nsubj
+’s,True,’,VBZ,"verb, 3rd person singular present",VERB,relcl
+able,False,able,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,acomp
+to,True,to,TO,"infinitival ""to""",PART,aux
+do,True,do,VB,"verb, base form",VERB,xcomp
+exactly,False,exactly,RB,adverb,ADV,advmod
+that,True,that,DT,determiner,PRON,dobj
+.,False,.,.,"punctuation mark, sentence closer",PUNCT,punct
+”,False,"""",'',closing quotation mark,PUNCT,punct
+" 
+     
+            ",False," 
+     
+            ",_SP,whitespace,SPACE,dep
+More,True,More,JJR,"adjective, comparative",ADJ,amod
+than,True,than,IN,"conjunction, subordinating or preposition",ADP,quantmod
+"300,000",False,"300,000",CD,cardinal number,NUM,nummod
+people,False,people,NNS,"noun, plural",NOUN,nsubjpass
+were,True,be,VBD,"verb, past tense",AUX,auxpass
+killed,False,kill,VBN,"verb, past participle",VERB,ROOT
+in,True,in,IN,"conjunction, subordinating or preposition",ADP,prep
+the,True,the,DT,determiner,DET,det
+ethnic,False,ethnic,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,amod
+cleansing,False,cleansing,NN,"noun, singular or mass",NOUN,compound
+campaign,False,campaign,NN,"noun, singular or mass",NOUN,pobj
+by,True,by,IN,"conjunction, subordinating or preposition",ADP,prep
+the,True,the,DT,determiner,DET,det
+Janjaweed,False,Janjaweed,NNP,"noun, proper singular",PROPN,pobj
+and,True,and,CC,"conjunction, coordinating",CCONJ,cc
+its,True,its,PRP$,"pronoun, possessive",PRON,poss
+Arab,False,arab,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,amod
+militia,False,militia,NN,"noun, singular or mass",NOUN,compound
+allies,False,ally,NNS,"noun, plural",NOUN,conj
+in,True,in,IN,"conjunction, subordinating or preposition",ADP,prep
+the,True,the,DT,determiner,DET,det
+early,False,early,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,amod
+2000s,False,2000s,CD,cardinal number,NUM,pobj
+.,False,.,.,"punctuation mark, sentence closer",PUNCT,punct
+A,True,a,DT,determiner,DET,det
+precise,False,precise,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,amod
+death,False,death,NN,"noun, singular or mass",NOUN,compound
+toll,False,toll,NN,"noun, singular or mass",NOUN,nsubj
+is,True,be,VBZ,"verb, 3rd person singular present",AUX,ROOT
+almost,True,almost,RB,adverb,ADV,advmod
+impossible,False,impossible,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,acomp
+to,True,to,TO,"infinitival ""to""",PART,aux
+tally,False,tally,RB,adverb,ADV,xcomp
+",",False,",",",","punctuation mark, comma",PUNCT,punct
+as,True,as,IN,"conjunction, subordinating or preposition",SCONJ,mark
+many,True,many,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,nsubjpass
+of,True,of,IN,"conjunction, subordinating or preposition",ADP,prep
+those,True,those,DT,determiner,PRON,pobj
+killed,False,kill,VBN,"verb, past participle",VERB,acl
+were,True,be,VBD,"verb, past tense",AUX,auxpass
+dumped,False,dump,VBN,"verb, past participle",VERB,advcl
+into,True,into,IN,"conjunction, subordinating or preposition",ADP,prep
+mass,False,mass,NN,"noun, singular or mass",NOUN,compound
+graves,False,grave,NNS,"noun, plural",NOUN,pobj
+.,False,.,.,"punctuation mark, sentence closer",PUNCT,punct
+Then,True,then,RB,adverb,ADV,advmod
+-,False,-,HYPH,"punctuation mark, hyphen",PUNCT,punct
+President,False,President,NNP,"noun, proper singular",PROPN,compound
+Bashir,False,Bashir,NNP,"noun, proper singular",PROPN,nsubjpass
+was,True,be,VBD,"verb, past tense",AUX,auxpass
+charged,False,charge,VBN,"verb, past participle",VERB,ROOT
+by,True,by,IN,"conjunction, subordinating or preposition",ADP,agent
+the,True,the,DT,determiner,DET,det
+International,False,International,NNP,"noun, proper singular",PROPN,compound
+Criminal,False,Criminal,NNP,"noun, proper singular",PROPN,compound
+Court,False,Court,NNP,"noun, proper singular",PROPN,pobj
+in,True,in,IN,"conjunction, subordinating or preposition",ADP,prep
+2010,False,2010,CD,cardinal number,NUM,pobj
+with,True,with,IN,"conjunction, subordinating or preposition",ADP,prep
+crimes,False,crime,NNS,"noun, plural",NOUN,pobj
+against,True,against,IN,"conjunction, subordinating or preposition",ADP,prep
+humanity,False,humanity,NN,"noun, singular or mass",NOUN,pobj
+",",False,",",",","punctuation mark, comma",PUNCT,punct
+war,False,war,NN,"noun, singular or mass",NOUN,compound
+crimes,False,crime,NNS,"noun, plural",NOUN,conj
+and,True,and,CC,"conjunction, coordinating",CCONJ,cc
+genocide,False,genocide,NN,"noun, singular or mass",NOUN,conj
+in,True,in,IN,"conjunction, subordinating or preposition",ADP,prep
+relation,False,relation,NN,"noun, singular or mass",NOUN,pobj
+to,True,to,IN,"conjunction, subordinating or preposition",ADP,prep
+the,True,the,DT,determiner,DET,det
+Darfur,False,Darfur,NNP,"noun, proper singular",PROPN,compound
+conflict,False,conflict,NN,"noun, singular or mass",NOUN,pobj
+.,False,.,.,"punctuation mark, sentence closer",PUNCT,punct
+He,True,he,PRP,"pronoun, personal",PRON,nsubjpass
+still,True,still,RB,adverb,ADV,advmod
+has,True,have,VBZ,"verb, 3rd person singular present",AUX,aux
+not,True,not,RB,adverb,PART,neg
+been,True,be,VBN,"verb, past participle",AUX,auxpass
+handed,False,hand,VBN,"verb, past participle",VERB,ROOT
+over,True,over,RP,"adverb, particle",ADP,prt
+by,True,by,IN,"conjunction, subordinating or preposition",ADP,agent
+Sudanese,False,sudanese,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,amod
+authorities,False,authority,NNS,"noun, plural",NOUN,pobj
+to,True,to,IN,"conjunction, subordinating or preposition",ADP,prep
+the,True,the,DT,determiner,DET,det
+ICC,False,ICC,NNP,"noun, proper singular",PROPN,pobj
+to,True,to,TO,"infinitival ""to""",PART,aux
+stand,False,stand,VB,"verb, base form",VERB,advcl
+trial,False,trial,NN,"noun, singular or mass",NOUN,dobj
+.,False,.,.,"punctuation mark, sentence closer",PUNCT,punct
+"
+     
+            ",False,"
+     
+            ",_SP,whitespace,SPACE,dep
+Since,True,since,IN,"conjunction, subordinating or preposition",SCONJ,prep
+then,True,then,RB,adverb,ADV,pcomp
+",",False,",",",","punctuation mark, comma",PUNCT,punct
+the,True,the,DT,determiner,DET,det
+RSF,False,RSF,NNP,"noun, proper singular",PROPN,nsubj
+has,True,have,VBZ,"verb, 3rd person singular present",AUX,aux
+extended,False,extend,VBN,"verb, past participle",VERB,ROOT
+its,True,its,PRP$,"pronoun, possessive",PRON,poss
+reach,False,reach,NN,"noun, singular or mass",NOUN,dobj
+beyond,True,beyond,IN,"conjunction, subordinating or preposition",ADP,prep
+Sudan,False,Sudan,NNP,"noun, proper singular",PROPN,poss
+’s,True,’s,POS,possessive ending,PART,case
+borders,False,border,NNS,"noun, plural",NOUN,pobj
+into,True,into,IN,"conjunction, subordinating or preposition",ADP,prep
+Libya,False,Libya,NNP,"noun, proper singular",PROPN,pobj
+",",False,",",",","punctuation mark, comma",PUNCT,punct
+and,True,and,CC,"conjunction, coordinating",CCONJ,cc
+",",False,",",",","punctuation mark, comma",PUNCT,punct
+crucially,False,crucially,RB,adverb,ADV,advmod
+for,True,for,IN,"conjunction, subordinating or preposition",ADP,prep
+Hemedti,False,Hemedti,NNP,"noun, proper singular",PROPN,poss
+’s,True,’s,POS,possessive ending,PART,case
+international,False,international,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,amod
+clout,False,clout,NN,"noun, singular or mass",NOUN,pobj
+",",False,",",",","punctuation mark, comma",PUNCT,punct
+into,True,into,IN,"conjunction, subordinating or preposition",ADP,prep
+Yemen,False,Yemen,NNP,"noun, proper singular",PROPN,pobj
+",",False,",",",","punctuation mark, comma",PUNCT,punct
+where,True,where,WRB,wh-adverb,SCONJ,advmod
+the,True,the,DT,determiner,DET,det
+group,False,group,NN,"noun, singular or mass",NOUN,nsubj
+aided,False,aid,VBD,"verb, past tense",VERB,relcl
+a,True,a,DT,determiner,DET,det
+devastating,False,devastating,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,amod
+Saudi,False,saudi,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,amod
+and,True,and,CC,"conjunction, coordinating",CCONJ,cc
+Emirati,False,Emirati,NNP,"noun, proper singular",PROPN,conj
+military,False,military,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,amod
+effort,False,effort,NN,"noun, singular or mass",NOUN,dobj
+to,True,to,TO,"infinitival ""to""",PART,aux
+crush,False,crush,VB,"verb, base form",VERB,acl
+Iran,False,Iran,NNP,"noun, proper singular",PROPN,npadvmod
+-,False,-,HYPH,"punctuation mark, hyphen",PUNCT,punct
+backed,False,back,VBN,"verb, past participle",VERB,amod
+Houthi,False,Houthi,NNP,"noun, proper singular",PROPN,compound
+rebels,False,rebel,NNS,"noun, plural",NOUN,dobj
+.,False,.,.,"punctuation mark, sentence closer",PUNCT,punct
+"
+     
+            ",False,"
+     
+            ",_SP,whitespace,SPACE,dep
+Hemedti,False,Hemedti,NNP,"noun, proper singular",PROPN,poss
+’s,True,’s,POS,possessive ending,PART,case
+power,False,power,NN,"noun, singular or mass",NOUN,nsubj
+reached,False,reach,VBD,"verb, past tense",VERB,ROOT
+new,False,new,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,amod
+heights,False,height,NNS,"noun, plural",NOUN,dobj
+after,True,after,IN,"conjunction, subordinating or preposition",SCONJ,mark
+he,True,he,PRP,"pronoun, personal",PRON,nsubj
+helped,False,helped,VBD,"verb, past tense",AUX,aux
+overthrow,False,overthrow,VB,"verb, base form",VERB,advcl
+Bashir,False,Bashir,NNP,"noun, proper singular",PROPN,dobj
+in,True,in,IN,"conjunction, subordinating or preposition",ADP,prep
+2019,False,2019,CD,cardinal number,NUM,pobj
+and,True,and,CC,"conjunction, coordinating",CCONJ,cc
+went,False,go,VBD,"verb, past tense",VERB,conj
+on,True,on,RP,"adverb, particle",ADP,prt
+to,True,to,TO,"infinitival ""to""",PART,aux
+become,True,become,VB,"verb, base form",VERB,advcl
+the,True,the,DT,determiner,DET,det
+military,False,military,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,amod
+junta,False,junta,NN,"noun, singular or mass",NOUN,poss
+’s,True,’s,POS,possessive ending,PART,case
+deputy,False,deputy,NN,"noun, singular or mass",NOUN,compound
+leader,False,leader,NN,"noun, singular or mass",NOUN,attr
+.,False,.,.,"punctuation mark, sentence closer",PUNCT,punct
+His,True,his,PRP$,"pronoun, possessive",PRON,poss
+ties,False,tie,NNS,"noun, plural",NOUN,nsubj
+to,True,to,IN,"conjunction, subordinating or preposition",ADP,prep
+the,True,the,DT,determiner,DET,det
+United,False,United,NNP,"noun, proper singular",PROPN,compound
+Arab,False,Arab,NNP,"noun, proper singular",PROPN,compound
+Emirates,False,Emirates,NNPS,"noun, proper plural",PROPN,pobj
+and,True,and,CC,"conjunction, coordinating",CCONJ,cc
+Russia,False,Russia,NNP,"noun, proper singular",PROPN,conj
+appeared,False,appear,VBD,"verb, past tense",VERB,ROOT
+to,True,to,TO,"infinitival ""to""",PART,aux
+have,True,have,VB,"verb, base form",AUX,aux
+consolidated,False,consolidate,VBN,"verb, past participle",VERB,xcomp
+his,True,his,PRP$,"pronoun, possessive",PRON,poss
+political,False,political,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,amod
+power,False,power,NN,"noun, singular or mass",NOUN,dobj
+and,True,and,CC,"conjunction, coordinating",CCONJ,cc
+helped,False,help,VBD,"verb, past tense",VERB,conj
+turn,False,turn,VB,"verb, base form",VERB,xcomp
+him,True,he,PRP,"pronoun, personal",PRON,dobj
+into,True,into,IN,"conjunction, subordinating or preposition",ADP,prep
+one,True,one,CD,cardinal number,NUM,pobj
+of,True,of,IN,"conjunction, subordinating or preposition",ADP,prep
+Sudan,False,Sudan,NNP,"noun, proper singular",PROPN,poss
+’s,True,’s,POS,possessive ending,PART,case
+wealthiest,False,wealthy,JJS,"adjective, superlative",ADJ,amod
+men,False,man,NNS,"noun, plural",NOUN,pobj
+.,False,.,.,"punctuation mark, sentence closer",PUNCT,punct
+"
+     
+            ",False,"
+     
+            ",_SP,whitespace,SPACE,dep
+Another,True,another,DT,determiner,DET,det
+characteristic,False,characteristic,NN,"noun, singular or mass",NOUN,nsubj
+of,True,of,IN,"conjunction, subordinating or preposition",ADP,prep
+the,True,the,DT,determiner,DET,det
+ethnic,False,ethnic,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,amod
+cleansing,False,cleansing,NN,"noun, singular or mass",NOUN,pobj
+in,True,in,IN,"conjunction, subordinating or preposition",ADP,prep
+Darfur,False,Darfur,NNP,"noun, proper singular",PROPN,pobj
+of,True,of,IN,"conjunction, subordinating or preposition",ADP,prep
+the,True,the,DT,determiner,DET,det
+early,False,early,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,amod
+2000s,False,2000s,CD,cardinal number,NUM,pobj
+was,True,be,VBD,"verb, past tense",AUX,ROOT
+mass,False,mass,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,amod
+rapes,False,rape,NNS,"noun, plural",NOUN,attr
+",",False,",",",","punctuation mark, comma",PUNCT,punct
+extensively,False,extensively,RB,adverb,ADV,advmod
+documented,False,document,VBN,"verb, past participle",VERB,advcl
+by,True,by,IN,"conjunction, subordinating or preposition",ADP,agent
+experts,False,expert,NNS,"noun, plural",NOUN,nmod
+and,True,and,CC,"conjunction, coordinating",CCONJ,cc
+rights,False,right,NNS,"noun, plural",NOUN,conj
+groups,False,group,NNS,"noun, plural",NOUN,pobj
+.,False,.,.,"punctuation mark, sentence closer",PUNCT,punct
+According,False,accord,VBG,"verb, gerund or present participle",VERB,prep
+to,True,to,IN,"conjunction, subordinating or preposition",ADP,prep
+witness,False,witness,NN,"noun, singular or mass",NOUN,compound
+testimony,False,testimony,NN,"noun, singular or mass",NOUN,pobj
+",",False,",",",","punctuation mark, comma",PUNCT,punct
+that,True,that,IN,"conjunction, subordinating or preposition",SCONJ,mark
+brutal,False,brutal,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,amod
+tactic,False,tactic,NN,"noun, singular or mass",NOUN,nsubj
+is,True,be,VBZ,"verb, 3rd person singular present",AUX,ROOT
+back,True,back,RB,adverb,ADV,advmod
+in,True,in,IN,"conjunction, subordinating or preposition",ADP,prep
+full,True,full,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,amod
+force,False,force,NN,"noun, singular or mass",NOUN,pobj
+.,False,.,.,"punctuation mark, sentence closer",PUNCT,punct
+"
+     
+            ",False,"
+     
+            ",_SP,whitespace,SPACE,dep
+“,False,"""",``,opening quotation mark,PUNCT,punct
+The,True,the,DT,determiner,DET,det
+strategy,False,strategy,NN,"noun, singular or mass",NOUN,nsubjpass
+of,True,of,IN,"conjunction, subordinating or preposition",ADP,prep
+raping,False,rape,VBG,"verb, gerund or present participle",VERB,pcomp
+women,False,woman,NNS,"noun, plural",NOUN,dobj
+has,True,have,VBZ,"verb, 3rd person singular present",AUX,aux
+been,True,be,VBN,"verb, past participle",AUX,auxpass
+used,True,use,VBN,"verb, past participle",VERB,ccomp
+extensively,False,extensively,RB,adverb,ADV,advmod
+by,True,by,IN,"conjunction, subordinating or preposition",ADP,agent
+the,True,the,DT,determiner,DET,det
+RSF,False,RSF,NNP,"noun, proper singular",PROPN,pobj
+",",False,",",",","punctuation mark, comma",PUNCT,punct
+”,False,"""",'',closing quotation mark,PUNCT,punct
+said,False,say,VBD,"verb, past tense",VERB,ROOT
+Hala,False,Hala,NNP,"noun, proper singular",PROPN,compound
+al,False,al,NNP,"noun, proper singular",PROPN,compound
+-,False,-,HYPH,"punctuation mark, hyphen",PUNCT,punct
+Karib,False,Karib,NNP,"noun, proper singular",PROPN,nsubj
+",",False,",",",","punctuation mark, comma",PUNCT,punct
+regional,False,regional,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,amod
+director,False,director,NN,"noun, singular or mass",NOUN,appos
+of,True,of,IN,"conjunction, subordinating or preposition",ADP,prep
+women,False,woman,NNS,"noun, plural",NOUN,poss
+’s,True,’s,POS,possessive ending,PART,case
+rights,False,right,NNS,"noun, plural",NOUN,compound
+group,False,group,NNP,"noun, proper singular",PROPN,compound
+SIHA,False,SIHA,NNP,"noun, proper singular",PROPN,pobj
+.,False,.,.,"punctuation mark, sentence closer",PUNCT,punct
+“,False,"""",``,opening quotation mark,PUNCT,punct
+The,True,the,DT,determiner,DET,det
+RSF,False,RSF,NNP,"noun, proper singular",PROPN,nsubj
+have,True,have,VBP,"verb, non-3rd person singular present",AUX,aux
+used,True,use,VBN,"verb, past participle",VERB,ROOT
+it,True,it,PRP,"pronoun, personal",PRON,dobj
+in,True,in,IN,"conjunction, subordinating or preposition",ADP,prep
+Darfur,False,Darfur,NNP,"noun, proper singular",PROPN,pobj
+to,True,to,TO,"infinitival ""to""",PART,aux
+humiliate,False,humiliate,VB,"verb, base form",VERB,xcomp
+the,True,the,DT,determiner,DET,det
+indigenous,False,indigenous,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,amod
+Darfuri,False,Darfuri,NNP,"noun, proper singular",PROPN,compound
+population,False,population,NN,"noun, singular or mass",NOUN,dobj
+for,True,for,IN,"conjunction, subordinating or preposition",ADP,prep
+20,False,20,CD,cardinal number,NUM,nummod
+years,False,year,NNS,"noun, plural",NOUN,pobj
+.,False,.,.,"punctuation mark, sentence closer",PUNCT,punct
+"
+     
+            ",False,"
+     
+            ",_SP,whitespace,SPACE,dep
+“,False,"""",``,opening quotation mark,PUNCT,punct
+The,True,the,DT,determiner,DET,det
+sad,False,sad,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,amod
+part,True,part,NN,"noun, singular or mass",NOUN,nsubj
+is,True,be,VBZ,"verb, 3rd person singular present",AUX,ROOT
+that,True,that,IN,"conjunction, subordinating or preposition",SCONJ,mark
+they,True,they,PRP,"pronoun, personal",PRON,nsubj
+became,True,become,VBD,"verb, past tense",VERB,ccomp
+very,True,very,RB,adverb,ADV,advmod
+comfortable,False,comfortable,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,acomp
+with,True,with,IN,"conjunction, subordinating or preposition",ADP,prep
+it,True,it,PRP,"pronoun, personal",PRON,pobj
+because,True,because,IN,"conjunction, subordinating or preposition",SCONJ,mark
+they,True,they,PRP,"pronoun, personal",PRON,nsubjpass
+were,True,be,VBD,"verb, past tense",AUX,auxpass
+never,True,never,RB,adverb,ADV,neg
+held,False,hold,VBN,"verb, past participle",VERB,advcl
+accountable,False,accountable,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,oprd
+for,True,for,IN,"conjunction, subordinating or preposition",ADP,prep
+it,True,it,PRP,"pronoun, personal",PRON,pobj
+.,False,.,.,"punctuation mark, sentence closer",PUNCT,punct
+”,False,"""",'',closing quotation mark,PUNCT,punct
+" 
+     
+            ",False," 
+     
+            ",_SP,whitespace,SPACE,dep
+Dozens,False,dozen,NNS,"noun, plural",NOUN,nsubjpass
+of,True,of,IN,"conjunction, subordinating or preposition",ADP,prep
+incidents,False,incident,NNS,"noun, plural",NOUN,pobj
+of,True,of,IN,"conjunction, subordinating or preposition",ADP,prep
+sexual,False,sexual,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,amod
+assault,False,assault,NN,"noun, singular or mass",NOUN,pobj
+",",False,",",",","punctuation mark, comma",PUNCT,punct
+including,False,include,VBG,"verb, gerund or present participle",VERB,prep
+gang,False,gang,NN,"noun, singular or mass",NOUN,compound
+rapes,False,rape,NNS,"noun, plural",NOUN,pobj
+and,True,and,CC,"conjunction, coordinating",CCONJ,cc
+the,True,the,DT,determiner,DET,det
+assault,False,assault,NN,"noun, singular or mass",NOUN,conj
+of,True,of,IN,"conjunction, subordinating or preposition",ADP,prep
+female,False,female,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,amod
+minors,False,minor,NNS,"noun, plural",NOUN,pobj
+",",False,",",",","punctuation mark, comma",PUNCT,punct
+have,True,have,VBP,"verb, non-3rd person singular present",AUX,aux
+been,True,be,VBN,"verb, past participle",AUX,auxpass
+confirmed,False,confirm,VBN,"verb, past participle",VERB,ROOT
+by,True,by,IN,"conjunction, subordinating or preposition",ADP,agent
+non,False,non,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,amod
+-,False,-,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,amod
+profit,False,profit,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,amod
+groups,False,group,NNS,"noun, plural",NOUN,pobj
+and,True,and,CC,"conjunction, coordinating",CCONJ,cc
+experts,False,expert,NNS,"noun, plural",NOUN,conj
+since,True,since,IN,"conjunction, subordinating or preposition",SCONJ,prep
+the,True,the,DT,determiner,DET,det
+start,False,start,NN,"noun, singular or mass",NOUN,pobj
+of,True,of,IN,"conjunction, subordinating or preposition",ADP,prep
+the,True,the,DT,determiner,DET,det
+latest,False,late,JJS,"adjective, superlative",ADJ,amod
+conflict,False,conflict,NN,"noun, singular or mass",NOUN,pobj
+.,False,.,.,"punctuation mark, sentence closer",PUNCT,punct
+Most,True,Most,JJS,"adjective, superlative",ADJ,nsubj
+of,True,of,IN,"conjunction, subordinating or preposition",ADP,prep
+these,True,these,DT,determiner,PRON,pobj
+occurred,False,occur,VBD,"verb, past tense",VERB,ROOT
+in,True,in,IN,"conjunction, subordinating or preposition",ADP,prep
+Darfur,False,Darfur,NNP,"noun, proper singular",PROPN,pobj
+.,False,.,.,"punctuation mark, sentence closer",PUNCT,punct
+The,True,the,DT,determiner,DET,det
+United,False,United,NNP,"noun, proper singular",PROPN,compound
+Nations,False,Nations,NNP,"noun, proper singular",PROPN,nsubj
+says,False,say,VBZ,"verb, 3rd person singular present",VERB,ROOT
+it,True,it,PRP,"pronoun, personal",PRON,nsubj
+has,True,have,VBZ,"verb, 3rd person singular present",AUX,aux
+received,False,receive,VBN,"verb, past participle",VERB,ccomp
+reports,False,report,NNS,"noun, plural",NOUN,dobj
+of,True,of,IN,"conjunction, subordinating or preposition",ADP,prep
+sexual,False,sexual,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,amod
+assault,False,assault,NN,"noun, singular or mass",NOUN,pobj
+on,True,on,IN,"conjunction, subordinating or preposition",ADP,prep
+humanitarian,False,humanitarian,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,amod
+workers,False,worker,NNS,"noun, plural",NOUN,pobj
+in,True,in,IN,"conjunction, subordinating or preposition",ADP,prep
+the,True,the,DT,determiner,DET,det
+region,False,region,NN,"noun, singular or mass",NOUN,pobj
+.,False,.,.,"punctuation mark, sentence closer",PUNCT,punct
+"
+     
+            ",False,"
+     
+            ",_SP,whitespace,SPACE,dep
+In,True,in,IN,"conjunction, subordinating or preposition",ADP,prep
+late,False,late,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,amod
+May,True,May,NNP,"noun, proper singular",PROPN,pobj
+",",False,",",",","punctuation mark, comma",PUNCT,punct
+the,True,the,DT,determiner,DET,det
+Sudanese,False,sudanese,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,amod
+government,False,government,NN,"noun, singular or mass",NOUN,poss
+’s,True,’s,POS,possessive ending,PART,case
+Combating,False,combat,VBG,"verb, gerund or present participle",VERB,compound
+Violence,False,Violence,NNP,"noun, proper singular",PROPN,nsubj
+Against,True,against,IN,"conjunction, subordinating or preposition",ADP,prep
+Women,False,Women,NNP,"noun, proper singular",PROPN,compound
+Unit,False,Unit,NNP,"noun, proper singular",PROPN,pobj
+recorded,False,record,VBD,"verb, past tense",VERB,ROOT
+at,True,at,RB,adverb,ADV,advmod
+least,True,least,RBS,"adverb, superlative",ADV,advmod
+36,False,36,CD,cardinal number,NUM,nummod
+cases,False,case,NNS,"noun, plural",NOUN,dobj
+of,True,of,IN,"conjunction, subordinating or preposition",ADP,prep
+sexual,False,sexual,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,amod
+assault,False,assault,NN,"noun, singular or mass",NOUN,pobj
+in,True,in,IN,"conjunction, subordinating or preposition",ADP,prep
+the,True,the,DT,determiner,DET,det
+Sudanese,False,sudanese,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,amod
+capital,False,capital,NN,"noun, singular or mass",NOUN,pobj
+and,True,and,CC,"conjunction, coordinating",CCONJ,cc
+25,False,25,CD,cardinal number,NUM,nummod
+cases,False,case,NNS,"noun, plural",NOUN,conj
+in,True,in,IN,"conjunction, subordinating or preposition",ADP,prep
+Darfur,False,Darfur,NNP,"noun, proper singular",PROPN,pobj
+",",False,",",",","punctuation mark, comma",PUNCT,punct
+with,True,with,IN,"conjunction, subordinating or preposition",ADP,prep
+18,False,18,CD,cardinal number,NUM,pobj
+perpetrated,False,perpetrate,VBN,"verb, past participle",VERB,acl
+by,True,by,IN,"conjunction, subordinating or preposition",ADP,agent
+men,False,man,NNS,"noun, plural",NOUN,pobj
+in,True,in,IN,"conjunction, subordinating or preposition",ADP,prep
+RSF,False,RSF,NNP,"noun, proper singular",PROPN,compound
+uniforms,False,uniform,NNS,"noun, plural",NOUN,pobj
+.,False,.,.,"punctuation mark, sentence closer",PUNCT,punct
+"    
+     
+            ",False,"    
+     
+            ",_SP,whitespace,SPACE,dep
+But,True,but,CC,"conjunction, coordinating",CCONJ,cc
+Sudanese,False,sudanese,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,amod
+activists,False,activist,NNS,"noun, plural",NOUN,nsubj
+claim,False,claim,VBP,"verb, non-3rd person singular present",VERB,ROOT
+that,True,that,IN,"conjunction, subordinating or preposition",SCONJ,mark
+the,True,the,DT,determiner,DET,det
+assaults,False,assault,NNS,"noun, plural",NOUN,nsubj
+are,True,be,VBP,"verb, non-3rd person singular present",AUX,ccomp
+much,True,much,RB,adverb,ADV,advmod
+more,True,more,RBR,"adverb, comparative",ADV,advmod
+widespread,False,widespread,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,acomp
+.,False,.,.,"punctuation mark, sentence closer",PUNCT,punct
+In,True,in,IN,"conjunction, subordinating or preposition",ADP,prep
+one,True,one,CD,cardinal number,NUM,nummod
+case,False,case,NN,"noun, singular or mass",NOUN,pobj
+described,False,describe,VBN,"verb, past participle",VERB,acl
+by,True,by,IN,"conjunction, subordinating or preposition",ADP,agent
+SIHA,False,SIHA,NNP,"noun, proper singular",PROPN,pobj
+",",False,",",",","punctuation mark, comma",PUNCT,punct
+24,False,24,CD,cardinal number,NUM,nummod
+women,False,woman,NNS,"noun, plural",NOUN,nsubjpass
+and,True,and,CC,"conjunction, coordinating",CCONJ,cc
+girls,False,girl,NNS,"noun, plural",NOUN,conj
+were,True,be,VBD,"verb, past tense",AUX,auxpass
+abducted,False,abduct,VBN,"verb, past participle",VERB,ROOT
+at,True,at,IN,"conjunction, subordinating or preposition",ADP,prep
+the,True,the,DT,determiner,DET,det
+Daman,False,Daman,NNP,"noun, proper singular",PROPN,compound
+hotel,False,hotel,NN,"noun, singular or mass",NOUN,pobj
+in,True,in,IN,"conjunction, subordinating or preposition",ADP,prep
+south,False,south,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,compound
+Darfur,False,Darfur,NNP,"noun, proper singular",PROPN,pobj
+and,True,and,CC,"conjunction, coordinating",CCONJ,cc
+repeatedly,False,repeatedly,RB,adverb,ADV,advmod
+raped,False,rape,VBD,"verb, past tense",VERB,conj
+for,True,for,IN,"conjunction, subordinating or preposition",ADP,prep
+three,True,three,CD,cardinal number,NUM,nummod
+days,False,day,NNS,"noun, plural",NOUN,pobj
+.,False,.,.,"punctuation mark, sentence closer",PUNCT,punct
+The,True,the,DT,determiner,DET,det
+oldest,False,old,JJS,"adjective, superlative",ADJ,amod
+woman,False,woman,NN,"noun, singular or mass",NOUN,nsubj
+was,True,be,VBD,"verb, past tense",AUX,ROOT
+56,False,56,CD,cardinal number,NUM,nummod
+years,False,year,NNS,"noun, plural",NOUN,npadvmod
+old,False,old,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,acomp
+and,True,and,CC,"conjunction, coordinating",CCONJ,cc
+the,True,the,DT,determiner,DET,det
+youngest,False,young,JJS,"adjective, superlative",ADJ,nsubj
+was,True,be,VBD,"verb, past tense",AUX,conj
+14,False,14,CD,cardinal number,NUM,attr
+",",False,",",",","punctuation mark, comma",PUNCT,punct
+according,False,accord,VBG,"verb, gerund or present participle",VERB,prep
+to,True,to,IN,"conjunction, subordinating or preposition",ADP,prep
+SIHA,False,SIHA,NNP,"noun, proper singular",PROPN,pobj
+.,False,.,.,"punctuation mark, sentence closer",PUNCT,punct
+"
+     
+            ",False,"
+     
+            ",_SP,whitespace,SPACE,dep
+Rapes,False,rape,NNS,"noun, plural",NOUN,nsubjpass
+are,True,be,VBP,"verb, non-3rd person singular present",AUX,aux
+also,True,also,RB,adverb,ADV,advmod
+being,True,be,VBG,"verb, gerund or present participle",AUX,auxpass
+reported,False,report,VBN,"verb, past participle",VERB,ROOT
+in,True,in,IN,"conjunction, subordinating or preposition",ADP,prep
+the,True,the,DT,determiner,DET,det
+capital,False,capital,NN,"noun, singular or mass",NOUN,pobj
+",",False,",",",","punctuation mark, comma",PUNCT,punct
+where,True,where,WRB,wh-adverb,SCONJ,advmod
+the,True,the,DT,determiner,DET,det
+RSF,False,RSF,NNP,"noun, proper singular",PROPN,nsubj
+has,True,have,VBZ,"verb, 3rd person singular present",AUX,aux
+repeatedly,False,repeatedly,RB,adverb,ADV,advmod
+commandeered,False,commandeer,VBN,"verb, past participle",VERB,relcl
+people,False,people,NNS,"noun, plural",NOUN,poss
+’s,True,’s,POS,possessive ending,PART,case
+homes,False,home,NNS,"noun, plural",NOUN,dobj
+",",False,",",",","punctuation mark, comma",PUNCT,punct
+expelling,False,expel,VBG,"verb, gerund or present participle",VERB,advcl
+the,True,the,DT,determiner,DET,det
+residents,False,resident,NNS,"noun, plural",NOUN,dobj
+and,True,and,CC,"conjunction, coordinating",CCONJ,cc
+looting,False,loot,VBG,"verb, gerund or present participle",VERB,conj
+their,True,their,PRP$,"pronoun, possessive",PRON,poss
+belongings,False,belonging,NNS,"noun, plural",NOUN,dobj
+",",False,",",",","punctuation mark, comma",PUNCT,punct
+while,True,while,IN,"conjunction, subordinating or preposition",SCONJ,mark
+combating,False,combat,VBG,"verb, gerund or present participle",VERB,advcl
+air,False,air,NN,"noun, singular or mass",NOUN,compound
+attacks,False,attack,NNS,"noun, plural",NOUN,dobj
+by,True,by,IN,"conjunction, subordinating or preposition",ADP,prep
+the,True,the,DT,determiner,DET,det
+Sudanese,False,sudanese,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,amod
+military,False,military,NN,"noun, singular or mass",NOUN,pobj
+.,False,.,.,"punctuation mark, sentence closer",PUNCT,punct
+" 
+     
+            ",False," 
+     
+            ",_SP,whitespace,SPACE,dep
+In,True,in,IN,"conjunction, subordinating or preposition",ADP,prep
+a,True,a,DT,determiner,DET,det
+video,False,video,NN,"noun, singular or mass",NOUN,pobj
+obtained,False,obtain,VBN,"verb, past participle",VERB,acl
+and,True,and,CC,"conjunction, coordinating",CCONJ,cc
+verified,False,verify,VBN,"verb, past participle",VERB,conj
+by,True,by,IN,"conjunction, subordinating or preposition",ADP,agent
+CNN,False,CNN,NNP,"noun, proper singular",PROPN,pobj
+",",False,",",",","punctuation mark, comma",PUNCT,punct
+one,True,one,CD,cardinal number,NUM,nummod
+fighter,False,fighter,NN,"noun, singular or mass",NOUN,nsubjpass
+is,True,be,VBZ,"verb, 3rd person singular present",AUX,auxpass
+seen,False,see,VBN,"verb, past participle",VERB,ROOT
+raping,False,rape,VBG,"verb, gerund or present participle",VERB,xcomp
+a,True,a,DT,determiner,DET,det
+woman,False,woman,NN,"noun, singular or mass",NOUN,dobj
+in,True,in,IN,"conjunction, subordinating or preposition",ADP,prep
+the,True,the,DT,determiner,DET,det
+front,True,front,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,amod
+yard,False,yard,NN,"noun, singular or mass",NOUN,pobj
+of,True,of,IN,"conjunction, subordinating or preposition",ADP,prep
+a,True,a,DT,determiner,DET,det
+Khartoum,False,Khartoum,NNP,"noun, proper singular",PROPN,compound
+home,False,home,NN,"noun, singular or mass",NOUN,pobj
+while,True,while,IN,"conjunction, subordinating or preposition",SCONJ,prep
+another,True,another,DT,determiner,PRON,pobj
+",",False,",",",","punctuation mark, comma",PUNCT,punct
+wearing,False,wear,VBG,"verb, gerund or present participle",VERB,advcl
+RSF,False,RSF,NNP,"noun, proper singular",PROPN,compound
+uniform,False,uniform,NN,"noun, singular or mass",NOUN,dobj
+",",False,",",",","punctuation mark, comma",PUNCT,punct
+stands,False,stand,VBZ,"verb, 3rd person singular present",VERB,conj
+outside,False,outside,IN,"conjunction, subordinating or preposition",ADP,prep
+keeping,False,keep,VBG,"verb, gerund or present participle",VERB,pcomp
+watch,False,watch,NN,"noun, singular or mass",NOUN,dobj
+.,False,.,.,"punctuation mark, sentence closer",PUNCT,punct
+"
+     
+            ",False,"
+     
+            ",_SP,whitespace,SPACE,dep
+“,False,"""",``,opening quotation mark,PUNCT,punct
+For,True,for,IN,"conjunction, subordinating or preposition",ADP,prep
+the,True,the,DT,determiner,DET,det
+people,False,people,NNS,"noun, plural",NOUN,pobj
+that,True,that,WDT,wh-determiner,PRON,nsubj
+say,True,say,VBP,"verb, non-3rd person singular present",VERB,relcl
+there,True,there,EX,existential there,PRON,expl
+is,True,be,VBZ,"verb, 3rd person singular present",VERB,ccomp
+no,True,no,DT,determiner,DET,det
+rape,False,rape,NN,"noun, singular or mass",NOUN,attr
+",",False,",",",","punctuation mark, comma",PUNCT,punct
+this,True,this,DT,determiner,PRON,nsubj
+is,True,be,VBZ,"verb, 3rd person singular present",AUX,ccomp
+rape,False,rape,NN,"noun, singular or mass",NOUN,attr
+",",False,",",",","punctuation mark, comma",PUNCT,punct
+”,False,"""",'',closing quotation mark,PUNCT,punct
+says,False,say,VBZ,"verb, 3rd person singular present",VERB,ROOT
+the,True,the,DT,determiner,DET,det
+person,False,person,NN,"noun, singular or mass",NOUN,nsubj
+surreptitiously,False,surreptitiously,RB,adverb,ADV,advmod
+recording,False,record,VBG,"verb, gerund or present participle",VERB,ccomp
+the,True,the,DT,determiner,DET,det
+video,False,video,NN,"noun, singular or mass",NOUN,dobj
+from,True,from,IN,"conjunction, subordinating or preposition",ADP,prep
+across,True,across,IN,"conjunction, subordinating or preposition",ADP,prep
+the,True,the,DT,determiner,DET,det
+street,False,street,NN,"noun, singular or mass",NOUN,pobj
+.,False,.,.,"punctuation mark, sentence closer",PUNCT,punct
+"
+     
+            ",False,"
+     
+            ",_SP,whitespace,SPACE,dep
+“,False,"""",``,opening quotation mark,PUNCT,punct
+And,True,and,CC,"conjunction, coordinating",CCONJ,cc
+this,True,this,DT,determiner,DET,det
+guy,False,guy,NN,"noun, singular or mass",NOUN,nsubj
+stands,False,stand,VBZ,"verb, 3rd person singular present",VERB,ccomp
+there,True,there,RB,adverb,ADV,advmod
+to,True,to,TO,"infinitival ""to""",PART,aux
+make,True,make,VB,"verb, base form",VERB,advcl
+sure,False,sure,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,acomp
+(,False,(,-LRB-,left round bracket,PUNCT,punct
+the,True,the,DT,determiner,DET,det
+perpetrator,False,perpetrator,NN,"noun, singular or mass",NOUN,nsubj
+),False,),-RRB-,right round bracket,PUNCT,punct
+is,True,be,VBZ,"verb, 3rd person singular present",AUX,auxpass
+protected,False,protect,VBN,"verb, past participle",VERB,conj
+",",False,",",",","punctuation mark, comma",PUNCT,punct
+”,False,"""",'',closing quotation mark,PUNCT,punct
+the,True,the,DT,determiner,DET,det
+person,False,person,NN,"noun, singular or mass",NOUN,nsubj
+says,False,say,VBZ,"verb, 3rd person singular present",VERB,ROOT
+",",False,",",",","punctuation mark, comma",PUNCT,punct
+panning,False,pan,VBG,"verb, gerund or present participle",VERB,advcl
+to,True,to,IN,"conjunction, subordinating or preposition",ADP,prep
+the,True,the,DT,determiner,DET,det
+man,False,man,NN,"noun, singular or mass",NOUN,pobj
+wearing,False,wear,VBG,"verb, gerund or present participle",VERB,acl
+RSF,False,RSF,NNP,"noun, proper singular",PROPN,compound
+uniform,False,uniform,NN,"noun, singular or mass",NOUN,dobj
+and,True,and,CC,"conjunction, coordinating",CCONJ,cc
+acting,False,act,VBG,"verb, gerund or present participle",VERB,conj
+as,True,as,IN,"conjunction, subordinating or preposition",ADP,prep
+a,True,a,DT,determiner,DET,det
+lookout,False,lookout,NN,"noun, singular or mass",NOUN,pobj
+.,False,.,.,"punctuation mark, sentence closer",PUNCT,punct
+“,False,"""",``,opening quotation mark,PUNCT,punct
+This,True,this,DT,determiner,PRON,nsubj
+is,True,be,VBZ,"verb, 3rd person singular present",AUX,aux
+happening,False,happen,VBG,"verb, gerund or present participle",VERB,ROOT
+in,True,in,IN,"conjunction, subordinating or preposition",ADP,prep
+public,False,public,NN,"noun, singular or mass",NOUN,pobj
+",",False,",",",","punctuation mark, comma",PUNCT,punct
+on,True,on,IN,"conjunction, subordinating or preposition",ADP,prep
+a,True,a,DT,determiner,DET,det
+main,False,main,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,amod
+street,False,street,NN,"noun, singular or mass",NOUN,pobj
+and,True,and,CC,"conjunction, coordinating",CCONJ,cc
+with,True,with,IN,"conjunction, subordinating or preposition",ADP,conj
+total,False,total,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,amod
+audacity,False,audacity,NN,"noun, singular or mass",NOUN,pobj
+and,True,and,CC,"conjunction, coordinating",CCONJ,cc
+insolence,False,insolence,NN,"noun, singular or mass",NOUN,conj
+.,False,.,.,"punctuation mark, sentence closer",PUNCT,punct
+”,False,"""",'',closing quotation mark,PUNCT,punct
+" 
+     
+            ",False," 
+     
+            ",_SP,whitespace,SPACE,dep
+In,True,in,IN,"conjunction, subordinating or preposition",ADP,prep
+a,True,a,DT,determiner,DET,det
+voice,False,voice,NN,"noun, singular or mass",NOUN,compound
+recording,False,recording,NN,"noun, singular or mass",NOUN,pobj
+obtained,False,obtain,VBN,"verb, past participle",VERB,acl
+through,True,through,IN,"conjunction, subordinating or preposition",ADP,prep
+SIHA,False,SIHA,NNP,"noun, proper singular",PROPN,pobj
+by,True,by,IN,"conjunction, subordinating or preposition",ADP,agent
+CNN,False,CNN,NNP,"noun, proper singular",PROPN,pobj
+regarding,True,regard,VBG,"verb, gerund or present participle",VERB,prep
+another,True,another,DT,determiner,DET,det
+incident,False,incident,NN,"noun, singular or mass",NOUN,pobj
+",",False,",",",","punctuation mark, comma",PUNCT,punct
+a,True,a,DT,determiner,DET,det
+woman,False,woman,NN,"noun, singular or mass",NOUN,nsubj
+in,True,in,IN,"conjunction, subordinating or preposition",ADP,prep
+the,True,the,DT,determiner,DET,det
+capital,False,capital,NN,"noun, singular or mass",NOUN,pobj
+said,False,say,VBD,"verb, past tense",VERB,ROOT
+she,True,she,PRP,"pronoun, personal",PRON,nsubjpass
+was,True,be,VBD,"verb, past tense",AUX,auxpass
+forced,False,force,VBN,"verb, past participle",VERB,ccomp
+to,True,to,TO,"infinitival ""to""",PART,aux
+watch,False,watch,VB,"verb, base form",VERB,xcomp
+as,True,as,IN,"conjunction, subordinating or preposition",SCONJ,mark
+her,True,her,PRP$,"pronoun, possessive",PRON,poss
+two,True,two,CD,cardinal number,NUM,nummod
+young,False,young,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,amod
+daughters,False,daughter,NNS,"noun, plural",NOUN,nsubjpass
+were,True,be,VBD,"verb, past tense",AUX,auxpass
+raped,False,rape,VBN,"verb, past participle",VERB,advcl
+by,True,by,IN,"conjunction, subordinating or preposition",ADP,agent
+RSF,False,RSF,NNP,"noun, proper singular",PROPN,compound
+fighters,False,fighter,NNS,"noun, plural",NOUN,pobj
+.,False,.,.,"punctuation mark, sentence closer",PUNCT,punct
+“,False,"""",``,opening quotation mark,PUNCT,punct
+They,True,they,PRP,"pronoun, personal",PRON,nsubj
+beat,False,beat,VBD,"verb, past tense",VERB,ccomp
+us,True,we,PRP,"pronoun, personal",PRON,dobj
+with,True,with,IN,"conjunction, subordinating or preposition",ADP,prep
+weapons,False,weapon,NNS,"noun, plural",NOUN,pobj
+",",False,",",",","punctuation mark, comma",PUNCT,punct
+”,False,"""",'',closing quotation mark,PUNCT,punct
+she,True,she,PRP,"pronoun, personal",PRON,nsubj
+said,False,say,VBD,"verb, past tense",VERB,ROOT
+",",False,",",",","punctuation mark, comma",PUNCT,punct
+describing,False,describe,VBG,"verb, gerund or present participle",VERB,advcl
+the,True,the,DT,determiner,DET,det
+raid,False,raid,NN,"noun, singular or mass",NOUN,dobj
+on,True,on,IN,"conjunction, subordinating or preposition",ADP,prep
+her,True,her,PRP$,"pronoun, possessive",PRON,poss
+home,False,home,NN,"noun, singular or mass",NOUN,pobj
+.,False,.,.,"punctuation mark, sentence closer",PUNCT,punct
+“,False,"""",``,opening quotation mark,PUNCT,punct
+We,True,we,PRP,"pronoun, personal",PRON,nsubj
+told,False,tell,VBD,"verb, past tense",VERB,ROOT
+them,True,they,PRP,"pronoun, personal",PRON,dobj
+we,True,we,PRP,"pronoun, personal",PRON,nsubj
+had,True,have,VBD,"verb, past tense",VERB,ccomp
+no,True,no,DT,determiner,DET,det
+money,False,money,NN,"noun, singular or mass",NOUN,dobj
+and,True,and,CC,"conjunction, coordinating",CCONJ,cc
+no,True,no,DT,determiner,DET,det
+gold,False,gold,NN,"noun, singular or mass",NOUN,conj
+.,False,.,.,"punctuation mark, sentence closer",PUNCT,punct
+”,False,"""",'',closing quotation mark,PUNCT,punct
+" 
+     
+            ",False," 
+     
+            ",_SP,whitespace,SPACE,dep
+“,False,"""",``,opening quotation mark,PUNCT,punct
+They,True,they,PRP,"pronoun, personal",PRON,nsubj
+raped,False,rape,VBD,"verb, past tense",VERB,ROOT
+my,True,my,PRP$,"pronoun, possessive",PRON,poss
+two,True,two,CD,cardinal number,NUM,nummod
+daughters,False,daughter,NNS,"noun, plural",NOUN,dobj
+and,True,and,CC,"conjunction, coordinating",CCONJ,cc
+they,True,they,PRP,"pronoun, personal",PRON,nsubj
+were,True,be,VBD,"verb, past tense",AUX,aux
+screaming,False,scream,VBG,"verb, gerund or present participle",VERB,conj
+at,True,at,IN,"conjunction, subordinating or preposition",ADP,prep
+the,True,the,DT,determiner,DET,det
+top,True,top,NN,"noun, singular or mass",NOUN,pobj
+of,True,of,IN,"conjunction, subordinating or preposition",ADP,prep
+their,True,their,PRP$,"pronoun, possessive",PRON,poss
+lungs,False,lung,NNS,"noun, plural",NOUN,pobj
+.,False,.,.,"punctuation mark, sentence closer",PUNCT,punct
+We,True,we,PRP,"pronoun, personal",PRON,nsubj
+were,True,be,VBD,"verb, past tense",AUX,aux
+screaming,False,scream,VBG,"verb, gerund or present participle",VERB,ccomp
+as,True,as,RB,adverb,ADV,advmod
+well,True,well,RB,adverb,ADV,advmod
+",",False,",",",","punctuation mark, comma",PUNCT,punct
+”,False,"""",'',closing quotation mark,PUNCT,punct
+she,True,she,PRP,"pronoun, personal",PRON,nsubj
+said,False,say,VBD,"verb, past tense",VERB,parataxis
+",",False,",",",","punctuation mark, comma",PUNCT,punct
+her,True,her,PRP$,"pronoun, possessive",PRON,poss
+voice,False,voice,NN,"noun, singular or mass",NOUN,nsubj
+choked,False,choke,VBD,"verb, past tense",VERB,ROOT
+with,True,with,IN,"conjunction, subordinating or preposition",ADP,prep
+emotion,False,emotion,NN,"noun, singular or mass",NOUN,pobj
+.,False,.,.,"punctuation mark, sentence closer",PUNCT,punct
+" 
+     
+            ",False," 
+     
+            ",_SP,whitespace,SPACE,dep
+“,False,"""",``,opening quotation mark,PUNCT,punct
+I,True,I,PRP,"pronoun, personal",PRON,nsubj
+had,True,have,VBD,"verb, past tense",VERB,ROOT
+to,True,to,TO,"infinitival ""to""",PART,aux
+hold,False,hold,VB,"verb, base form",VERB,xcomp
+my,True,my,PRP$,"pronoun, possessive",PRON,poss
+son,False,son,NN,"noun, singular or mass",NOUN,dobj
+back,True,back,RB,adverb,ADV,advmod
+from,True,from,IN,"conjunction, subordinating or preposition",ADP,prep
+going,False,go,VBG,"verb, gerund or present participle",VERB,pcomp
+to,True,to,IN,"conjunction, subordinating or preposition",ADP,prep
+his,True,his,PRP$,"pronoun, possessive",PRON,poss
+sisters,False,sister,NNS,"noun, plural",NOUN,pobj
+.,False,.,.,"punctuation mark, sentence closer",PUNCT,punct
+I,True,I,PRP,"pronoun, personal",PRON,nsubj
+said,False,say,VBD,"verb, past tense",VERB,ROOT
+if,True,if,IN,"conjunction, subordinating or preposition",SCONJ,mark
+you,True,you,PRP,"pronoun, personal",PRON,nsubj
+go,True,go,VBP,"verb, non-3rd person singular present",VERB,advcl
+to,True,to,IN,"conjunction, subordinating or preposition",ADP,prep
+them,True,they,PRP,"pronoun, personal",PRON,pobj
+",",False,",",",","punctuation mark, comma",PUNCT,punct
+they,True,they,PRP,"pronoun, personal",PRON,nsubj
+will,True,will,MD,"verb, modal auxiliary",AUX,aux
+riddle,False,riddle,VB,"verb, base form",VERB,ccomp
+you,True,you,PRP,"pronoun, personal",PRON,dobj
+with,True,with,IN,"conjunction, subordinating or preposition",ADP,prep
+bullets,False,bullet,NNS,"noun, plural",NOUN,pobj
+.,False,.,.,"punctuation mark, sentence closer",PUNCT,punct
+”,False,"""",'',closing quotation mark,PUNCT,punct
+"
+     
+            ",False,"
+     
+            ",_SP,whitespace,SPACE,dep
+The,True,the,DT,determiner,DET,det
+atrocities,False,atrocity,NNS,"noun, plural",NOUN,nsubj
+have,True,have,VBP,"verb, non-3rd person singular present",AUX,aux
+only,True,only,RB,adverb,ADV,advmod
+intensified,False,intensify,VBN,"verb, past participle",VERB,ccomp
+and,True,and,CC,"conjunction, coordinating",CCONJ,cc
+proliferated,False,proliferate,VBN,"verb, past participle",VERB,conj
+over,True,over,IN,"conjunction, subordinating or preposition",ADP,prep
+the,True,the,DT,determiner,DET,det
+course,False,course,NN,"noun, singular or mass",NOUN,pobj
+of,True,of,IN,"conjunction, subordinating or preposition",ADP,prep
+the,True,the,DT,determiner,DET,det
+war,False,war,NN,"noun, singular or mass",NOUN,pobj
+",",False,",",",","punctuation mark, comma",PUNCT,punct
+say,True,say,VBP,"verb, non-3rd person singular present",VERB,ROOT
+activists,False,activist,NNS,"noun, plural",NOUN,nsubj
+and,True,and,CC,"conjunction, coordinating",CCONJ,cc
+experts,False,expert,NNS,"noun, plural",NOUN,conj
+who,True,who,WP,"wh-pronoun, personal",PRON,nsubj
+argue,False,argue,VBP,"verb, non-3rd person singular present",VERB,relcl
+that,True,that,IN,"conjunction, subordinating or preposition",SCONJ,mark
+impunity,False,impunity,NN,"noun, singular or mass",NOUN,nsubj
+has,True,have,VBZ,"verb, 3rd person singular present",AUX,aux
+propelled,False,propel,VBN,"verb, past participle",VERB,ccomp
+Hemedti,False,Hemedti,NNP,"noun, proper singular",PROPN,poss
+’s,True,’s,POS,possessive ending,PART,case
+rise,False,rise,NN,"noun, singular or mass",NOUN,dobj
+to,True,to,IN,"conjunction, subordinating or preposition",ADP,prep
+power,False,power,NN,"noun, singular or mass",NOUN,pobj
+since,True,since,IN,"conjunction, subordinating or preposition",SCONJ,prep
+his,True,his,PRP$,"pronoun, possessive",PRON,poss
+time,False,time,NN,"noun, singular or mass",NOUN,pobj
+as,True,as,IN,"conjunction, subordinating or preposition",ADP,prep
+a,True,a,DT,determiner,DET,det
+leader,False,leader,NN,"noun, singular or mass",NOUN,pobj
+in,True,in,IN,"conjunction, subordinating or preposition",ADP,prep
+the,True,the,DT,determiner,DET,det
+Janjaweed,False,Janjaweed,NNP,"noun, proper singular",PROPN,pobj
+in,True,in,IN,"conjunction, subordinating or preposition",ADP,prep
+the,True,the,DT,determiner,DET,det
+early,False,early,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,amod
+2000s,False,2000s,CD,cardinal number,NUM,pobj
+.,False,.,.,"punctuation mark, sentence closer",PUNCT,punct
+"
+     
+            ",False,"
+     
+            ",_SP,whitespace,SPACE,dep
+“,False,"""",``,opening quotation mark,PUNCT,punct
+Nobody,True,nobody,NN,"noun, singular or mass",PRON,nsubj
+in,True,in,IN,"conjunction, subordinating or preposition",ADP,prep
+Sudan,False,Sudan,NNP,"noun, proper singular",PROPN,pobj
+has,True,have,VBZ,"verb, 3rd person singular present",VERB,ccomp
+more,True,more,JJR,"adjective, comparative",ADJ,amod
+blood,False,blood,NN,"noun, singular or mass",NOUN,dobj
+on,True,on,IN,"conjunction, subordinating or preposition",ADP,prep
+their,True,their,PRP$,"pronoun, possessive",PRON,poss
+hands,False,hand,NNS,"noun, plural",NOUN,pobj
+than,True,than,IN,"conjunction, subordinating or preposition",ADP,prep
+Hemedti,False,Hemedti,NNP,"noun, proper singular",PROPN,pobj
+",",False,",",",","punctuation mark, comma",PUNCT,punct
+”,False,"""",'',closing quotation mark,PUNCT,punct
+said,False,say,VBD,"verb, past tense",VERB,ROOT
+Sudan,False,Sudan,NNP,"noun, proper singular",PROPN,compound
+analyst,False,analyst,NN,"noun, singular or mass",NOUN,compound
+Eric,False,Eric,NNP,"noun, proper singular",PROPN,compound
+Reeves,False,Reeves,NNP,"noun, proper singular",PROPN,nsubj
+.,False,.,.,"punctuation mark, sentence closer",PUNCT,punct
+"
+     
+            ",False,"
+     
+            ",_SP,whitespace,SPACE,dep
+In,True,in,IN,"conjunction, subordinating or preposition",ADP,prep
+a,True,a,DT,determiner,DET,det
+statement,False,statement,NN,"noun, singular or mass",NOUN,pobj
+to,True,to,IN,"conjunction, subordinating or preposition",ADP,prep
+CNN,False,CNN,NNP,"noun, proper singular",PROPN,pobj
+",",False,",",",","punctuation mark, comma",PUNCT,punct
+the,True,the,DT,determiner,DET,det
+RSF,False,RSF,NNP,"noun, proper singular",PROPN,nsubj
+vehemently,False,vehemently,RB,adverb,ADV,advmod
+denied,False,deny,VBD,"verb, past tense",VERB,ROOT
+the,True,the,DT,determiner,DET,det
+allegations,False,allegation,NNS,"noun, plural",NOUN,dobj
+of,True,of,IN,"conjunction, subordinating or preposition",ADP,prep
+rape,False,rape,NN,"noun, singular or mass",NOUN,pobj
+",",False,",",",","punctuation mark, comma",PUNCT,punct
+arbitrary,False,arbitrary,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,amod
+killings,False,killing,NNS,"noun, plural",NOUN,appos
+and,True,and,CC,"conjunction, coordinating",CCONJ,cc
+targeting,False,targeting,NN,"noun, singular or mass",NOUN,conj
+of,True,of,IN,"conjunction, subordinating or preposition",ADP,prep
+civilian,False,civilian,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,amod
+infrastructure,False,infrastructure,NN,"noun, singular or mass",NOUN,pobj
+.,False,.,.,"punctuation mark, sentence closer",PUNCT,punct
+It,True,it,PRP,"pronoun, personal",PRON,nsubj
+accused,False,accuse,VBD,"verb, past tense",VERB,ROOT
+the,True,the,DT,determiner,DET,det
+Sudanese,False,sudanese,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,amod
+army,False,army,NN,"noun, singular or mass",NOUN,dobj
+of,True,of,IN,"conjunction, subordinating or preposition",ADP,prep
+“,False,"""",``,opening quotation mark,PUNCT,punct
+indiscriminately,False,indiscriminately,RB,adverb,ADV,advmod
+bombing,False,bomb,VBG,"verb, gerund or present participle",VERB,nmod
+”,False,"""",'',closing quotation mark,PUNCT,punct
+civilians,False,civilian,NNS,"noun, plural",NOUN,pobj
+and,True,and,CC,"conjunction, coordinating",CCONJ,cc
+claimed,False,claim,VBD,"verb, past tense",VERB,conj
+that,True,that,IN,"conjunction, subordinating or preposition",SCONJ,mark
+RSF,False,RSF,NNP,"noun, proper singular",PROPN,compound
+uniforms,False,uniform,NNS,"noun, plural",NOUN,nsubj
+worn,False,wear,VBN,"verb, past participle",VERB,acl
+by,True,by,IN,"conjunction, subordinating or preposition",ADP,agent
+the,True,the,DT,determiner,DET,det
+perpetrators,False,perpetrator,NNS,"noun, plural",NOUN,pobj
+in,True,in,IN,"conjunction, subordinating or preposition",ADP,prep
+witness,False,witness,NN,"noun, singular or mass",NOUN,compound
+testimony,False,testimony,NN,"noun, singular or mass",NOUN,pobj
+were,True,be,VBD,"verb, past tense",AUX,ccomp
+“,False,"""",``,opening quotation mark,PUNCT,punct
+counterfeit,False,counterfeit,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,acomp
+.,False,.,.,"punctuation mark, sentence closer",PUNCT,punct
+”,False,"""",'',closing quotation mark,PUNCT,punct
+"
+     
+            ",False,"
+     
+            ",_SP,whitespace,SPACE,dep
+“,False,"""",``,opening quotation mark,PUNCT,punct
+The,True,the,DT,determiner,DET,det
+RSF,False,RSF,NNP,"noun, proper singular",PROPN,nsubj
+upholds,False,uphold,VBZ,"verb, 3rd person singular present",VERB,ccomp
+international,False,international,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,amod
+law,False,law,NN,"noun, singular or mass",NOUN,dobj
+and,True,and,CC,"conjunction, coordinating",CCONJ,cc
+is,True,be,VBZ,"verb, 3rd person singular present",AUX,auxpass
+dedicated,False,dedicate,VBN,"verb, past participle",VERB,conj
+to,True,to,IN,"conjunction, subordinating or preposition",ADP,prep
+safeguarding,False,safeguard,VBG,"verb, gerund or present participle",VERB,pcomp
+Sudan,False,Sudan,NNP,"noun, proper singular",PROPN,dobj
+",",False,",",",","punctuation mark, comma",PUNCT,punct
+”,False,"""",'',closing quotation mark,PUNCT,punct
+the,True,the,DT,determiner,DET,det
+statement,False,statement,NN,"noun, singular or mass",NOUN,nsubj
+said,False,say,VBD,"verb, past tense",VERB,ROOT
+.,False,.,.,"punctuation mark, sentence closer",PUNCT,punct
+“,False,"""",``,opening quotation mark,PUNCT,punct
+Any,True,any,DT,determiner,DET,det
+actions,False,action,NNS,"noun, plural",NOUN,nsubj
+inconsistent,False,inconsistent,VBP,"verb, non-3rd person singular present",VERB,csubj
+with,True,with,IN,"conjunction, subordinating or preposition",ADP,prep
+this,True,this,DT,determiner,DET,det
+principle,False,principle,NN,"noun, singular or mass",NOUN,pobj
+do,True,do,VBP,"verb, non-3rd person singular present",AUX,aux
+not,True,not,RB,adverb,PART,neg
+reflect,False,reflect,VB,"verb, base form",VERB,ROOT
+our,True,our,PRP$,"pronoun, possessive",PRON,poss
+values,False,value,NNS,"noun, plural",NOUN,dobj
+",",False,",",",","punctuation mark, comma",PUNCT,punct
+and,True,and,CC,"conjunction, coordinating",CCONJ,cc
+we,True,we,PRP,"pronoun, personal",PRON,nsubj
+are,True,be,VBP,"verb, non-3rd person singular present",AUX,conj
+committed,False,committed,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,acomp
+to,True,to,IN,"conjunction, subordinating or preposition",ADP,prep
+ensuring,False,ensure,VBG,"verb, gerund or present participle",VERB,pcomp
+that,True,that,IN,"conjunction, subordinating or preposition",SCONJ,mark
+those,True,those,DT,determiner,PRON,nsubjpass
+who,True,who,WP,"wh-pronoun, personal",PRON,nsubj
+violate,False,violate,VBP,"verb, non-3rd person singular present",VERB,relcl
+the,True,the,DT,determiner,DET,det
+law,False,law,NN,"noun, singular or mass",NOUN,dobj
+are,True,be,VBP,"verb, non-3rd person singular present",AUX,auxpass
+held,False,hold,VBN,"verb, past participle",VERB,ccomp
+accountable,False,accountable,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,oprd
+.,False,.,.,"punctuation mark, sentence closer",PUNCT,punct
+”,False,"""",'',closing quotation mark,PUNCT,punct
+"
+     
+            ",False,"
+     
+            ",_SP,whitespace,SPACE,dep
+The,True,the,DT,determiner,DET,det
+group,False,group,NN,"noun, singular or mass",NOUN,nsubj
+also,True,also,RB,adverb,ADV,advmod
+denied,False,deny,VBD,"verb, past tense",VERB,ROOT
+links,False,link,NNS,"noun, plural",NOUN,dobj
+to,True,to,IN,"conjunction, subordinating or preposition",ADP,prep
+Wagner,False,Wagner,NNP,"noun, proper singular",PROPN,pobj
+.,False,.,.,"punctuation mark, sentence closer",PUNCT,punct
+"
+     
+            ",False,"
+     
+            ",_SP,whitespace,SPACE,dep
+In,True,in,IN,"conjunction, subordinating or preposition",ADP,prep
+recent,False,recent,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,amod
+years,False,year,NNS,"noun, plural",NOUN,pobj
+",",False,",",",","punctuation mark, comma",PUNCT,punct
+Hemedti,False,Hemedti,NNP,"noun, proper singular",PROPN,nsubjpass
+has,True,have,VBZ,"verb, 3rd person singular present",AUX,aux
+been,True,be,VBN,"verb, past participle",AUX,auxpass
+invited,False,invite,VBN,"verb, past participle",VERB,ROOT
+to,True,to,IN,"conjunction, subordinating or preposition",ADP,prep
+capitals,False,capital,NNS,"noun, plural",NOUN,pobj
+around,True,around,IN,"conjunction, subordinating or preposition",ADP,prep
+the,True,the,DT,determiner,DET,det
+world,False,world,NN,"noun, singular or mass",NOUN,pobj
+",",False,",",",","punctuation mark, comma",PUNCT,punct
+including,False,include,VBG,"verb, gerund or present participle",VERB,prep
+Moscow,False,Moscow,NNP,"noun, proper singular",PROPN,pobj
+",",False,",",",","punctuation mark, comma",PUNCT,punct
+Cairo,False,Cairo,NNP,"noun, proper singular",PROPN,conj
+and,True,and,CC,"conjunction, coordinating",CCONJ,cc
+Abu,False,Abu,NNP,"noun, proper singular",PROPN,compound
+Dhabi,False,Dhabi,NNP,"noun, proper singular",PROPN,conj
+.,False,.,.,"punctuation mark, sentence closer",PUNCT,punct
+"
+     
+            ",False,"
+     
+            ",_SP,whitespace,SPACE,dep
+He,True,he,PRP,"pronoun, personal",PRON,nsubjpass
+and,True,and,CC,"conjunction, coordinating",CCONJ,cc
+his,True,his,PRP$,"pronoun, possessive",PRON,poss
+forces,False,force,NNS,"noun, plural",NOUN,conj
+were,True,be,VBD,"verb, past tense",AUX,auxpass
+further,True,far,RB,adverb,ADV,advmod
+elevated,False,elevate,VBN,"verb, past participle",VERB,ROOT
+after,True,after,IN,"conjunction, subordinating or preposition",SCONJ,mark
+he,True,he,PRP,"pronoun, personal",PRON,nsubj
+cracked,False,crack,VBD,"verb, past tense",VERB,advcl
+down,True,down,RP,"adverb, particle",ADP,prt
+on,True,on,IN,"conjunction, subordinating or preposition",ADP,prep
+people,False,people,NNS,"noun, plural",NOUN,npadvmod
+-,False,-,HYPH,"punctuation mark, hyphen",PUNCT,punct
+smuggling,False,smuggling,NN,"noun, singular or mass",NOUN,compound
+routes,False,route,NNS,"noun, plural",NOUN,pobj
+operating,False,operate,VBG,"verb, gerund or present participle",VERB,acl
+from,True,from,IN,"conjunction, subordinating or preposition",ADP,prep
+Sudan,False,Sudan,NNP,"noun, proper singular",PROPN,pobj
+to,True,to,IN,"conjunction, subordinating or preposition",ADP,prep
+Libya,False,Libya,NNP,"noun, proper singular",PROPN,pobj
+",",False,",",",","punctuation mark, comma",PUNCT,punct
+as,True,as,IN,"conjunction, subordinating or preposition",ADP,prep
+part,True,part,NN,"noun, singular or mass",NOUN,pobj
+of,True,of,IN,"conjunction, subordinating or preposition",ADP,prep
+an,True,an,DT,determiner,DET,det
+onward,False,onward,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,amod
+journey,False,journey,NN,"noun, singular or mass",NOUN,pobj
+to,True,to,IN,"conjunction, subordinating or preposition",ADP,prep
+Europe,False,Europe,NNP,"noun, proper singular",PROPN,pobj
+.,False,.,.,"punctuation mark, sentence closer",PUNCT,punct
+The,True,the,DT,determiner,DET,det
+European,False,European,NNP,"noun, proper singular",PROPN,compound
+Union,False,Union,NNP,"noun, proper singular",PROPN,nsubj
+has,True,have,VBZ,"verb, 3rd person singular present",AUX,aux
+sent,False,send,VBN,"verb, past participle",VERB,ROOT
+at,True,at,RB,adverb,ADV,advmod
+least,True,least,RBS,"adverb, superlative",ADV,advmod
+$,False,$,$,"symbol, currency",SYM,quantmod
+200,False,200,CD,cardinal number,NUM,compound
+million,False,million,CD,cardinal number,NUM,dobj
+to,True,to,IN,"conjunction, subordinating or preposition",ADP,prep
+Sudan,False,Sudan,NNP,"noun, proper singular",PROPN,poss
+’s,True,’s,POS,possessive ending,PART,case
+government,False,government,NN,"noun, singular or mass",NOUN,pobj
+over,True,over,IN,"conjunction, subordinating or preposition",ADP,prep
+the,True,the,DT,determiner,DET,det
+past,False,past,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,amod
+decade,False,decade,NN,"noun, singular or mass",NOUN,pobj
+to,True,to,TO,"infinitival ""to""",PART,aux
+stem,False,stem,VB,"verb, base form",VERB,advcl
+migration,False,migration,NN,"noun, singular or mass",NOUN,dobj
+.,False,.,.,"punctuation mark, sentence closer",PUNCT,punct
+"
+     
+            ",False,"
+     
+            ",_SP,whitespace,SPACE,dep
+Hemedti,False,Hemedti,NNP,"noun, proper singular",PROPN,nsubj
+would,True,would,MD,"verb, modal auxiliary",AUX,aux
+go,True,go,VB,"verb, base form",VERB,ROOT
+on,True,on,RP,"adverb, particle",ADP,prt
+to,True,to,TO,"infinitival ""to""",PART,aux
+boast,False,boast,VB,"verb, base form",VERB,advcl
+about,True,about,IN,"conjunction, subordinating or preposition",ADP,prep
+this,True,this,DT,determiner,PRON,pobj
+in,True,in,IN,"conjunction, subordinating or preposition",ADP,prep
+interviews,False,interview,NNS,"noun, plural",NOUN,pobj
+with,True,with,IN,"conjunction, subordinating or preposition",ADP,prep
+international,False,international,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,amod
+media,False,medium,NNS,"noun, plural",NOUN,pobj
+.,False,.,.,"punctuation mark, sentence closer",PUNCT,punct
+“,False,"""",``,opening quotation mark,PUNCT,punct
+[,False,[,XX,unknown,X,dep
+The,True,the,DT,determiner,DET,det
+EU,False,EU,NNP,"noun, proper singular",PROPN,nmod
+],False,],-RRB-,right round bracket,PUNCT,nmod
+lose[s,False,lose[,NNS,"noun, plural",NOUN,nmod
+],False,],-RRB-,right round bracket,PUNCT,nmod
+millions,False,million,NNS,"noun, plural",NOUN,nsubj
+in,True,in,IN,"conjunction, subordinating or preposition",ADP,prep
+fighting,False,fighting,NN,"noun, singular or mass",NOUN,compound
+migration,False,migration,NN,"noun, singular or mass",NOUN,pobj
+",",False,",",",","punctuation mark, comma",PUNCT,punct
+that,True,that,DT,determiner,PRON,nsubj
+’s,True,’,VBZ,"verb, 3rd person singular present",VERB,ccomp
+why,True,why,WRB,wh-adverb,SCONJ,advmod
+[,False,[,XX,unknown,X,dep
+it,True,it,PRP,"pronoun, personal",PRON,nsubj
+has,True,have,VBZ,"verb, 3rd person singular present",VERB,ccomp
+],False,],XX,unknown,X,punct
+to,True,to,TO,"infinitival ""to""",PART,aux
+support,False,support,VB,"verb, base form",VERB,xcomp
+us,True,we,PRP,"pronoun, personal",PRON,dobj
+",",False,",",",","punctuation mark, comma",PUNCT,punct
+”,False,"""",'',closing quotation mark,PUNCT,punct
+he,True,he,PRP,"pronoun, personal",PRON,nsubj
+told,False,tell,VBD,"verb, past tense",VERB,ROOT
+Al,False,Al,NNP,"noun, proper singular",PROPN,compound
+Jazeera,False,Jazeera,NNP,"noun, proper singular",PROPN,dobj
+in,True,in,IN,"conjunction, subordinating or preposition",ADP,prep
+2017,False,2017,CD,cardinal number,NUM,pobj
+.,False,.,.,"punctuation mark, sentence closer",PUNCT,punct
+"
+ 
+            ",False,"
+ 
+            ",_SP,whitespace,SPACE,dep
+“,False,"""",``,opening quotation mark,PUNCT,punct
+The,True,the,DT,determiner,DET,det
+international,False,international,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,amod
+community,False,community,NN,"noun, singular or mass",NOUN,nsubj
+created,False,create,VBD,"verb, past tense",VERB,ROOT
+this,True,this,DT,determiner,DET,det
+monster,False,monster,NN,"noun, singular or mass",NOUN,dobj
+.,False,.,.,"punctuation mark, sentence closer",PUNCT,punct
+They,True,they,PRP,"pronoun, personal",PRON,nsubj
+are,True,be,VBP,"verb, non-3rd person singular present",AUX,aux
+raping,False,rape,VBG,"verb, gerund or present participle",VERB,ccomp
+women,False,woman,NNS,"noun, plural",NOUN,dobj
+because,True,because,IN,"conjunction, subordinating or preposition",SCONJ,mark
+they,True,they,PRP,"pronoun, personal",PRON,nsubj
+can,True,can,MD,"verb, modal auxiliary",AUX,advcl
+",",False,",",",","punctuation mark, comma",PUNCT,punct
+”,False,"""",'',closing quotation mark,PUNCT,punct
+women,False,woman,NNS,"noun, plural",NOUN,poss
+’s,True,’s,POS,possessive ending,PART,case
+rights,False,right,NNS,"noun, plural",NOUN,compound
+activist,False,activist,NN,"noun, singular or mass",NOUN,nsubj
+Karib,False,Karib,NNP,"noun, proper singular",PROPN,appos
+said,False,say,VBD,"verb, past tense",VERB,ROOT
+of,True,of,IN,"conjunction, subordinating or preposition",ADP,prep
+the,True,the,DT,determiner,DET,det
+RSF,False,RSF,NNP,"noun, proper singular",PROPN,pobj
+.,False,.,.,"punctuation mark, sentence closer",PUNCT,punct
+“,False,"""",``,opening quotation mark,PUNCT,punct
+They,True,they,PRP,"pronoun, personal",PRON,nsubj
+know,False,know,VBP,"verb, non-3rd person singular present",VERB,ROOT
+the,True,the,DT,determiner,DET,det
+ramifications,False,ramification,NNS,"noun, plural",NOUN,dobj
+.,False,.,.,"punctuation mark, sentence closer",PUNCT,punct
+They,True,they,PRP,"pronoun, personal",PRON,nsubj
+know,False,know,VBP,"verb, non-3rd person singular present",VERB,ROOT
+the,True,the,DT,determiner,DET,det
+impact,False,impact,NN,"noun, singular or mass",NOUN,dobj
+.,False,.,.,"punctuation mark, sentence closer",PUNCT,punct
+They,True,they,PRP,"pronoun, personal",PRON,nsubj
+know,False,know,VBP,"verb, non-3rd person singular present",VERB,ROOT
+how,True,how,WRB,wh-adverb,SCONJ,advmod
+terrorizing,False,terrorize,VBG,"verb, gerund or present participle",VERB,acomp
+it,True,it,PRP,"pronoun, personal",PRON,nsubj
+is,True,be,VBZ,"verb, 3rd person singular present",AUX,ccomp
+.,False,.,.,"punctuation mark, sentence closer",PUNCT,punct
+People,False,People,NNS,"noun, plural",NOUN,nsubj
+run,False,run,VBP,"verb, non-3rd person singular present",VERB,ROOT
+away,False,away,RB,adverb,ADV,advmod
+.,False,.,.,"punctuation mark, sentence closer",PUNCT,punct
+"
+     
+            ",False,"
+     
+            ",_SP,whitespace,SPACE,dep
+“,False,"""",``,opening quotation mark,PUNCT,punct
+It,True,it,PRP,"pronoun, personal",PRON,nsubj
+’s,True,’,VBZ,"verb, 3rd person singular present",VERB,ROOT
+a,True,a,DT,determiner,DET,det
+tried,False,tried,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,attr
+and,True,and,CC,"conjunction, coordinating",CCONJ,cc
+tested,False,test,VBN,"verb, past participle",VERB,conj
+method,False,method,NN,"noun, singular or mass",NOUN,dobj
+from,True,from,IN,"conjunction, subordinating or preposition",ADP,prep
+Darfur,False,Darfur,NNP,"noun, proper singular",PROPN,pobj
+that,True,that,WDT,wh-determiner,PRON,nsubjpass
+’s,True,’s,VBZ,"verb, 3rd person singular present",AUX,aux
+now,True,now,RB,adverb,ADV,advmod
+being,True,be,VBG,"verb, gerund or present participle",AUX,auxpass
+used,True,use,VBN,"verb, past participle",VERB,ccomp
+across,True,across,IN,"conjunction, subordinating or preposition",ADP,prep
+Sudan,False,Sudan,NNP,"noun, proper singular",PROPN,pobj
+.,False,.,.,"punctuation mark, sentence closer",PUNCT,punct
+”,False,"""",'',closing quotation mark,PUNCT,punct
+" 
+     
+            ",False," 
+     
+            ",_SP,whitespace,SPACE,dep
+In,True,in,IN,"conjunction, subordinating or preposition",ADP,prep
+a,True,a,DT,determiner,DET,det
+statement,False,statement,NN,"noun, singular or mass",NOUN,pobj
+to,True,to,IN,"conjunction, subordinating or preposition",ADP,prep
+CNN,False,CNN,NNP,"noun, proper singular",PROPN,pobj
+",",False,",",",","punctuation mark, comma",PUNCT,punct
+the,True,the,DT,determiner,DET,det
+US,True,US,NNP,"noun, proper singular",PROPN,compound
+State,False,State,NNP,"noun, proper singular",PROPN,compound
+Department,False,Department,NNP,"noun, proper singular",PROPN,nsubj
+said,False,say,VBD,"verb, past tense",VERB,ROOT
+it,True,it,PRP,"pronoun, personal",PRON,nsubj
+had,True,have,VBD,"verb, past tense",AUX,aux
+“,False,"""",``,opening quotation mark,PUNCT,punct
+received,False,receive,VBN,"verb, past participle",VERB,ccomp
+deeply,False,deeply,RB,adverb,ADV,advmod
+disturbing,False,disturbing,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,amod
+reports,False,report,NNS,"noun, plural",NOUN,dobj
+about,True,about,IN,"conjunction, subordinating or preposition",ADP,prep
+an,True,an,DT,determiner,DET,det
+increased,False,increase,VBN,"verb, past participle",VERB,amod
+number,False,number,NN,"noun, singular or mass",NOUN,pobj
+of,True,of,IN,"conjunction, subordinating or preposition",ADP,prep
+attacks,False,attack,NNS,"noun, plural",NOUN,pobj
+",",False,",",",","punctuation mark, comma",PUNCT,punct
+gender,False,gender,NN,"noun, singular or mass",NOUN,npadvmod
+-,False,-,HYPH,"punctuation mark, hyphen",PUNCT,punct
+based,False,base,VBN,"verb, past participle",VERB,amod
+violence,False,violence,NN,"noun, singular or mass",NOUN,appos
+",",False,",",",","punctuation mark, comma",PUNCT,punct
+including,False,include,VBG,"verb, gerund or present participle",VERB,prep
+sexual,False,sexual,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,amod
+violence,False,violence,NN,"noun, singular or mass",NOUN,pobj
+…,False,…,NFP,superfluous punctuation,PUNCT,punct
+The,True,the,DT,determiner,DET,det
+majority,False,majority,NN,"noun, singular or mass",NOUN,nsubj
+of,True,of,IN,"conjunction, subordinating or preposition",ADP,prep
+such,True,such,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,amod
+acts,False,act,NNS,"noun, plural",NOUN,pobj
+are,True,be,VBP,"verb, non-3rd person singular present",AUX,ccomp
+reportedly,False,reportedly,RB,adverb,ADV,advmod
+attributable,False,attributable,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,acomp
+to,True,to,IN,"conjunction, subordinating or preposition",ADP,prep
+the,True,the,DT,determiner,DET,det
+RSF,False,RSF,NNP,"noun, proper singular",PROPN,pobj
+.,False,.,.,"punctuation mark, sentence closer",PUNCT,punct
+”,False,"""",'',closing quotation mark,PUNCT,punct
+"
+     
+            ",False,"
+     
+            ",_SP,whitespace,SPACE,dep
+The,True,the,DT,determiner,DET,det
+State,False,State,NNP,"noun, proper singular",PROPN,compound
+Department,False,Department,NNP,"noun, proper singular",PROPN,nsubj
+released,False,release,VBD,"verb, past tense",VERB,ROOT
+a,True,a,DT,determiner,DET,det
+strongly,False,strongly,RB,adverb,ADV,advmod
+worded,False,word,VBN,"verb, past participle",VERB,amod
+statement,False,statement,NN,"noun, singular or mass",NOUN,dobj
+Thursday,False,Thursday,NNP,"noun, proper singular",PROPN,compound
+night,False,night,NN,"noun, singular or mass",NOUN,npadvmod
+condemning,False,condemn,VBG,"verb, gerund or present participle",VERB,advcl
+atrocities,False,atrocity,NNS,"noun, plural",NOUN,dobj
+in,True,in,IN,"conjunction, subordinating or preposition",ADP,prep
+Darfur,False,Darfur,NNP,"noun, proper singular",PROPN,pobj
+.,False,.,.,"punctuation mark, sentence closer",PUNCT,punct
+"
+     
+            ",False,"
+     
+            ",_SP,whitespace,SPACE,dep
+“,False,"""",``,opening quotation mark,PUNCT,punct
+Rape,False,rape,NN,"noun, singular or mass",NOUN,meta
+",",False,",",",","punctuation mark, comma",PUNCT,punct
+murder,False,murder,NN,"noun, singular or mass",NOUN,appos
+",",False,",",",","punctuation mark, comma",PUNCT,punct
+targeted,False,target,VBN,"verb, past participle",VERB,amod
+ethnic,False,ethnic,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,npadvmod
+-,False,-,HYPH,"punctuation mark, hyphen",PUNCT,punct
+based,False,base,VBN,"verb, past participle",VERB,amod
+killings,False,killing,NNS,"noun, plural",NOUN,appos
+",",False,",",",","punctuation mark, comma",PUNCT,punct
+the,True,the,DT,determiner,DET,det
+destruction,False,destruction,NN,"noun, singular or mass",NOUN,appos
+of,True,of,IN,"conjunction, subordinating or preposition",ADP,prep
+whole,True,whole,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,amod
+villages,False,village,NNS,"noun, plural",NOUN,pobj
+–,False,–,:,"punctuation mark, colon or ellipsis",PUNCT,punct
+these,True,these,DT,determiner,PRON,nsubj
+are,True,be,VBP,"verb, non-3rd person singular present",AUX,ccomp
+the,True,the,DT,determiner,DET,det
+horrors,False,horror,NNS,"noun, plural",NOUN,attr
+that,True,that,IN,"conjunction, subordinating or preposition",SCONJ,mark
+the,True,the,DT,determiner,DET,det
+war,False,war,NN,"noun, singular or mass",NOUN,nsubj
+in,True,in,IN,"conjunction, subordinating or preposition",ADP,prep
+Sudan,False,Sudan,NNP,"noun, proper singular",PROPN,pobj
+has,True,have,VBZ,"verb, 3rd person singular present",AUX,aux
+brought,False,bring,VBN,"verb, past participle",VERB,relcl
+back,True,back,RB,adverb,ADV,advmod
+to,True,to,IN,"conjunction, subordinating or preposition",ADP,prep
+Darfur,False,Darfur,NNP,"noun, proper singular",PROPN,pobj
+",",False,",",",","punctuation mark, comma",PUNCT,punct
+”,False,"""",'',closing quotation mark,PUNCT,punct
+a,True,a,DT,determiner,DET,det
+tweet,False,tweet,NN,"noun, singular or mass",NOUN,nsubj
+from,True,from,IN,"conjunction, subordinating or preposition",ADP,prep
+the,True,the,DT,determiner,DET,det
+State,False,State,NNP,"noun, proper singular",PROPN,compound
+Department,False,Department,NNP,"noun, proper singular",PROPN,poss
+’s,True,’s,POS,possessive ending,PART,case
+Bureau,False,Bureau,NNP,"noun, proper singular",PROPN,pobj
+of,True,of,IN,"conjunction, subordinating or preposition",ADP,prep
+African,False,African,NNP,"noun, proper singular",PROPN,compound
+Affairs,False,Affairs,NNPS,"noun, proper plural",PROPN,pobj
+said,False,say,VBD,"verb, past tense",VERB,ROOT
+Friday,False,Friday,NNP,"noun, proper singular",PROPN,npadvmod
+.,False,.,.,"punctuation mark, sentence closer",PUNCT,punct
+“,False,"""",``,opening quotation mark,PUNCT,punct
+Credible,False,credible,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,amod
+sources,False,source,NNS,"noun, plural",NOUN,nsubj
+place,False,place,VBP,"verb, non-3rd person singular present",VERB,ROOT
+blame,False,blame,NN,"noun, singular or mass",NOUN,dobj
+at,True,at,IN,"conjunction, subordinating or preposition",ADP,prep
+the,True,the,DT,determiner,DET,det
+feet,False,foot,NNS,"noun, plural",NOUN,pobj
+of,True,of,IN,"conjunction, subordinating or preposition",ADP,prep
+RSF,False,RSF,NNP,"noun, proper singular",PROPN,pobj
+and,True,and,CC,"conjunction, coordinating",CCONJ,cc
+allied,False,ally,VBN,"verb, past participle",VERB,amod
+militias,False,militia,NNS,"noun, plural",NOUN,conj
+.,False,.,.,"punctuation mark, sentence closer",PUNCT,punct
+Attacks,False,attack,NNS,"noun, plural",NOUN,nsubj
+on,True,on,IN,"conjunction, subordinating or preposition",ADP,prep
+civilians,False,civilian,NNS,"noun, plural",NOUN,pobj
+in,True,in,IN,"conjunction, subordinating or preposition",ADP,prep
+Sudan,False,Sudan,NNP,"noun, proper singular",PROPN,pobj
+by,True,by,IN,"conjunction, subordinating or preposition",ADP,prep
+any,True,any,DT,determiner,DET,det
+party,False,party,NN,"noun, singular or mass",NOUN,pobj
+must,True,must,MD,"verb, modal auxiliary",AUX,aux
+end,False,end,VB,"verb, base form",VERB,ROOT
+.,False,.,.,"punctuation mark, sentence closer",PUNCT,punct
+”,False,"""",'',closing quotation mark,PUNCT,punct
+"
+     
+            ",False,"
+     
+            ",_SP,whitespace,SPACE,dep
+Prior,False,prior,RB,adverb,ADV,advmod
+to,True,to,IN,"conjunction, subordinating or preposition",ADP,prep
+the,True,the,DT,determiner,DET,det
+publication,False,publication,NN,"noun, singular or mass",NOUN,pobj
+of,True,of,IN,"conjunction, subordinating or preposition",ADP,prep
+its,True,its,PRP$,"pronoun, possessive",PRON,poss
+report,False,report,NN,"noun, singular or mass",NOUN,pobj
+",",False,",",",","punctuation mark, comma",PUNCT,punct
+CNN,False,CNN,NNP,"noun, proper singular",PROPN,nsubj
+shared,False,share,VBD,"verb, past tense",VERB,ROOT
+with,True,with,IN,"conjunction, subordinating or preposition",ADP,prep
+the,True,the,DT,determiner,DET,det
+State,False,State,NNP,"noun, proper singular",PROPN,compound
+Department,False,Department,NNP,"noun, proper singular",PROPN,pobj
+its,True,its,PRP$,"pronoun, possessive",PRON,poss
+findings,False,finding,NNS,"noun, plural",NOUN,dobj
+on,True,on,IN,"conjunction, subordinating or preposition",ADP,prep
+the,True,the,DT,determiner,DET,det
+extent,False,extent,NN,"noun, singular or mass",NOUN,pobj
+of,True,of,IN,"conjunction, subordinating or preposition",ADP,prep
+the,True,the,DT,determiner,DET,det
+ethnically,False,ethnically,RB,adverb,ADV,advmod
+motivated,False,motivate,VBN,"verb, past participle",VERB,amod
+rapes,False,rape,NNS,"noun, plural",NOUN,pobj
+and,True,and,CC,"conjunction, coordinating",CCONJ,cc
+atrocities,False,atrocity,NNS,"noun, plural",NOUN,conj
+being,True,be,VBG,"verb, gerund or present participle",AUX,auxpass
+committed,False,commit,VBN,"verb, past participle",VERB,acl
+by,True,by,IN,"conjunction, subordinating or preposition",ADP,agent
+fighters,False,fighter,NNS,"noun, plural",NOUN,pobj
+from,True,from,IN,"conjunction, subordinating or preposition",ADP,prep
+the,True,the,DT,determiner,DET,det
+RSF,False,RSF,NNP,"noun, proper singular",PROPN,pobj
+and,True,and,CC,"conjunction, coordinating",CCONJ,cc
+their,True,their,PRP$,"pronoun, possessive",PRON,poss
+armed,False,armed,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,amod
+allies,False,ally,NNS,"noun, plural",NOUN,conj
+.,False,.,.,"punctuation mark, sentence closer",PUNCT,punct
+"
+     
+            ",False,"
+     
+            ",_SP,whitespace,SPACE,dep
+The,True,the,DT,determiner,DET,det
+fear,False,fear,NN,"noun, singular or mass",NOUN,nsubj
+now,True,now,RB,adverb,ADV,advmod
+among,True,among,IN,"conjunction, subordinating or preposition",ADP,prep
+the,True,the,DT,determiner,DET,det
+Sudanese,False,sudanese,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,pobj
+and,True,and,CC,"conjunction, coordinating",CCONJ,cc
+some,True,some,DT,determiner,PRON,conj
+in,True,in,IN,"conjunction, subordinating or preposition",ADP,prep
+the,True,the,DT,determiner,DET,det
+international,False,international,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,amod
+community,False,community,NN,"noun, singular or mass",NOUN,pobj
+is,True,be,VBZ,"verb, 3rd person singular present",AUX,ROOT
+that,True,that,IN,"conjunction, subordinating or preposition",SCONJ,mark
+Wagner,False,Wagner,NNP,"noun, proper singular",PROPN,poss
+’s,True,’s,POS,possessive ending,PART,case
+involvement,False,involvement,NN,"noun, singular or mass",NOUN,nsubj
+in,True,in,IN,"conjunction, subordinating or preposition",ADP,prep
+the,True,the,DT,determiner,DET,det
+war,False,war,NN,"noun, singular or mass",NOUN,pobj
+has,True,have,VBZ,"verb, 3rd person singular present",AUX,aux
+helped,False,help,VBN,"verb, past participle",VERB,ccomp
+make,True,make,VB,"verb, base form",VERB,xcomp
+Hemedti,False,Hemedti,NNP,"noun, proper singular",PROPN,nsubj
+“,False,"""",``,opening quotation mark,PUNCT,punct
+bigger,False,big,JJR,"adjective, comparative",ADJ,ccomp
+”,False,"""",'',closing quotation mark,PUNCT,punct
+and,True,and,CC,"conjunction, coordinating",CCONJ,cc
+“,False,"""",``,opening quotation mark,PUNCT,punct
+badder,False,badder,VB,"verb, base form",VERB,conj
+.,False,.,.,"punctuation mark, sentence closer",PUNCT,punct
+”,False,"""",'',closing quotation mark,PUNCT,punct
+"
+     
+            ",False,"
+     
+            ",_SP,whitespace,SPACE,dep
+“,False,"""",``,opening quotation mark,PUNCT,punct
+The,True,the,DT,determiner,DET,det
+reality,False,reality,NN,"noun, singular or mass",NOUN,nsubj
+is,True,be,VBZ,"verb, 3rd person singular present",AUX,ccomp
+that,True,that,IN,"conjunction, subordinating or preposition",SCONJ,mark
+Hemedti,False,Hemedti,NNP,"noun, proper singular",PROPN,nsubj
+is,True,be,VBZ,"verb, 3rd person singular present",AUX,ccomp
+incredibly,False,incredibly,RB,adverb,ADV,advmod
+useful,False,useful,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,acomp
+to,True,to,IN,"conjunction, subordinating or preposition",ADP,prep
+Wagner,False,Wagner,NNP,"noun, proper singular",PROPN,pobj
+",",False,",",",","punctuation mark, comma",PUNCT,punct
+”,False,"""",'',closing quotation mark,PUNCT,punct
+the,True,the,DT,determiner,DET,det
+Western,False,western,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,amod
+intelligence,False,intelligence,NN,"noun, singular or mass",NOUN,compound
+official,False,official,NN,"noun, singular or mass",NOUN,nsubj
+told,False,tell,VBD,"verb, past tense",VERB,ROOT
+CNN,False,CNN,NNP,"noun, proper singular",PROPN,dobj
+.,False,.,.,"punctuation mark, sentence closer",PUNCT,punct
+“,False,"""",``,opening quotation mark,PUNCT,punct
+He,True,he,PRP,"pronoun, personal",PRON,nsubj
+has,True,have,VBZ,"verb, 3rd person singular present",VERB,ROOT
+tribal,False,tribal,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,amod
+and,True,and,CC,"conjunction, coordinating",CCONJ,cc
+kinship,False,kinship,NN,"noun, singular or mass",NOUN,conj
+links,False,link,NNS,"noun, plural",NOUN,dobj
+across,True,across,IN,"conjunction, subordinating or preposition",ADP,prep
+Africa,False,Africa,NNP,"noun, proper singular",PROPN,pobj
+and,True,and,CC,"conjunction, coordinating",CCONJ,cc
+there,True,there,EX,existential there,PRON,expl
+is,True,be,VBZ,"verb, 3rd person singular present",VERB,conj
+incredible,False,incredible,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,amod
+concern,False,concern,NN,"noun, singular or mass",NOUN,attr
+about,True,about,IN,"conjunction, subordinating or preposition",ADP,prep
+the,True,the,DT,determiner,DET,det
+damage,False,damage,NN,"noun, singular or mass",NOUN,pobj
+that,True,that,WDT,wh-determiner,PRON,dobj
+a,True,a,DT,determiner,DET,det
+bigger,False,big,JJR,"adjective, comparative",ADJ,amod
+",",False,",",",","punctuation mark, comma",PUNCT,punct
+badder,False,badder,NN,"noun, singular or mass",NOUN,compound
+RSF,False,RSF,NNP,"noun, proper singular",PROPN,nsubj
+–,False,–,:,"punctuation mark, colon or ellipsis",PUNCT,punct
+emboldened,False,embolden,VBN,"verb, past participle",VERB,acl
+and,True,and,CC,"conjunction, coordinating",CCONJ,cc
+supported,False,support,VBN,"verb, past participle",VERB,conj
+by,True,by,IN,"conjunction, subordinating or preposition",ADP,agent
+Wagner,False,Wagner,NNP,"noun, proper singular",PROPN,pobj
+–,False,–,:,"punctuation mark, colon or ellipsis",PUNCT,punct
+could,True,could,MD,"verb, modal auxiliary",AUX,aux
+wreak,False,wreak,VB,"verb, base form",VERB,relcl
+not,True,not,RB,adverb,PART,preconj
+just,True,just,RB,adverb,ADV,advmod
+in,True,in,IN,"conjunction, subordinating or preposition",ADP,prep
+Sudan,False,Sudan,NNP,"noun, proper singular",PROPN,pobj
+but,True,but,CC,"conjunction, coordinating",CCONJ,cc
+in,True,in,IN,"conjunction, subordinating or preposition",ADP,conj
+the,True,the,DT,determiner,DET,det
+entire,False,entire,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,amod
+region,False,region,NN,"noun, singular or mass",NOUN,pobj
+.,False,.,.,"punctuation mark, sentence closer",PUNCT,punct
+”,False,"""",'',closing quotation mark,PUNCT,punct
+" 
+     
+            ",False," 
+     
+            ",_SP,whitespace,SPACE,dep
+Wagner,False,Wagner,NNP,"noun, proper singular",PROPN,poss
+’s,True,’s,POS,possessive ending,PART,case
+presence,False,presence,NN,"noun, singular or mass",NOUN,nsubjpass
+in,True,in,IN,"conjunction, subordinating or preposition",ADP,prep
+and,True,and,CC,"conjunction, coordinating",CCONJ,cc
+financial,False,financial,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,amod
+interests,False,interest,NNS,"noun, plural",NOUN,appos
+in,True,in,IN,"conjunction, subordinating or preposition",ADP,prep
+Africa,False,Africa,NNP,"noun, proper singular",PROPN,pobj
+are,True,be,VBP,"verb, non-3rd person singular present",AUX,auxpass
+well,True,well,RB,adverb,ADV,advmod
+documented,False,document,VBN,"verb, past participle",VERB,ROOT
+",",False,",",",","punctuation mark, comma",PUNCT,punct
+but,True,but,CC,"conjunction, coordinating",CCONJ,cc
+the,True,the,DT,determiner,DET,det
+violence,False,violence,NN,"noun, singular or mass",NOUN,nsubj
+in,True,in,IN,"conjunction, subordinating or preposition",ADP,prep
+Sudan,False,Sudan,NNP,"noun, proper singular",PROPN,pobj
+appears,False,appear,VBZ,"verb, 3rd person singular present",VERB,conj
+to,True,to,TO,"infinitival ""to""",PART,aux
+have,True,have,VB,"verb, base form",AUX,aux
+given,False,give,VBN,"verb, past participle",VERB,xcomp
+the,True,the,DT,determiner,DET,det
+group,False,group,NN,"noun, singular or mass",NOUN,dative
+a,True,a,DT,determiner,DET,det
+fresh,False,fresh,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,amod
+opportunity,False,opportunity,NN,"noun, singular or mass",NOUN,dobj
+.,False,.,.,"punctuation mark, sentence closer",PUNCT,punct
+"
+     
+            ",False,"
+     
+            ",_SP,whitespace,SPACE,dep
+Wagner,False,Wagner,NNP,"noun, proper singular",PROPN,compound
+chief,False,chief,NN,"noun, singular or mass",NOUN,compound
+Yeveny,False,Yeveny,NNP,"noun, proper singular",PROPN,compound
+Prigozhin,False,Prigozhin,NNP,"noun, proper singular",PROPN,nsubj
+did,True,do,VBD,"verb, past tense",AUX,aux
+not,True,not,RB,adverb,PART,neg
+directly,False,directly,RB,adverb,ADV,advmod
+address,False,address,VB,"verb, base form",VERB,ROOT
+CNN,False,CNN,NNP,"noun, proper singular",PROPN,poss
+’s,True,’s,POS,possessive ending,PART,case
+request,False,request,NN,"noun, singular or mass",NOUN,dobj
+for,True,for,IN,"conjunction, subordinating or preposition",ADP,prep
+comment,False,comment,NN,"noun, singular or mass",NOUN,pobj
+on,True,on,IN,"conjunction, subordinating or preposition",ADP,prep
+Wagner,False,Wagner,NNP,"noun, proper singular",PROPN,poss
+’s,True,’s,POS,possessive ending,PART,case
+support,False,support,NN,"noun, singular or mass",NOUN,pobj
+for,True,for,IN,"conjunction, subordinating or preposition",ADP,prep
+the,True,the,DT,determiner,DET,det
+RSF,False,RSF,NNP,"noun, proper singular",PROPN,pobj
+and,True,and,CC,"conjunction, coordinating",CCONJ,cc
+its,True,its,PRP$,"pronoun, possessive",PRON,poss
+role,False,role,NN,"noun, singular or mass",NOUN,conj
+in,True,in,IN,"conjunction, subordinating or preposition",ADP,prep
+fueling,False,fuel,VBG,"verb, gerund or present participle",VERB,pcomp
+the,True,the,DT,determiner,DET,det
+current,False,current,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,amod
+atrocities,False,atrocity,NNS,"noun, plural",NOUN,dobj
+.,False,.,.,"punctuation mark, sentence closer",PUNCT,punct
+"
+     
+            ",False,"
+     
+            ",_SP,whitespace,SPACE,dep
+In,True,in,IN,"conjunction, subordinating or preposition",ADP,prep
+a,True,a,DT,determiner,DET,det
+sarcastically,False,sarcastically,RB,adverb,ADV,advmod
+worded,False,word,VBN,"verb, past participle",VERB,amod
+statement,False,statement,NN,"noun, singular or mass",NOUN,pobj
+",",False,",",",","punctuation mark, comma",PUNCT,punct
+he,True,he,PRP,"pronoun, personal",PRON,nsubj
+said,False,say,VBD,"verb, past tense",VERB,ROOT
+Wagner,False,Wagner,NNP,"noun, proper singular",PROPN,nsubj
+had,True,have,VBD,"verb, past tense",AUX,aux
+trained,False,train,VBN,"verb, past participle",VERB,ccomp
+all,True,all,PDT,predeterminer,DET,predet
+the,True,the,DT,determiner,DET,det
+military,False,military,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,amod
+bodies,False,body,NNS,"noun, plural",NOUN,dobj
+in,True,in,IN,"conjunction, subordinating or preposition",ADP,prep
+Sudan,False,Sudan,NNP,"noun, proper singular",PROPN,pobj
+",",False,",",",","punctuation mark, comma",PUNCT,punct
+including,False,include,VBG,"verb, gerund or present participle",VERB,prep
+the,True,the,DT,determiner,DET,det
+RSF,False,RSF,NNP,"noun, proper singular",PROPN,pobj
+",",False,",",",","punctuation mark, comma",PUNCT,punct
+and,True,and,CC,"conjunction, coordinating",CCONJ,cc
+blamed,False,blame,VBD,"verb, past tense",VERB,conj
+American,False,american,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,amod
+interference,False,interference,NN,"noun, singular or mass",NOUN,dobj
+for,True,for,IN,"conjunction, subordinating or preposition",ADP,prep
+the,True,the,DT,determiner,DET,det
+country,False,country,NN,"noun, singular or mass",NOUN,poss
+’s,True,’s,POS,possessive ending,PART,case
+current,False,current,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,amod
+turmoil,False,turmoil,NN,"noun, singular or mass",NOUN,pobj
+.,False,.,.,"punctuation mark, sentence closer",PUNCT,punct
+He,True,he,PRP,"pronoun, personal",PRON,nsubj
+claimed,False,claim,VBD,"verb, past tense",VERB,ROOT
+there,True,there,EX,existential there,PRON,expl
+had,True,have,VBD,"verb, past tense",AUX,aux
+been,True,be,VBN,"verb, past participle",AUX,ccomp
+“,False,"""",``,opening quotation mark,PUNCT,punct
+no,True,no,DT,determiner,DET,det
+sexual,False,sexual,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,amod
+crimes,False,crime,NNS,"noun, plural",NOUN,attr
+in,True,in,IN,"conjunction, subordinating or preposition",ADP,prep
+Sudan,False,Sudan,NNP,"noun, proper singular",PROPN,pobj
+”,False,"""",'',closing quotation mark,PUNCT,punct
+while,True,while,IN,"conjunction, subordinating or preposition",SCONJ,mark
+Bashir,False,Bashir,NNP,"noun, proper singular",PROPN,nsubj
+was,True,be,VBD,"verb, past tense",AUX,advcl
+in,True,in,IN,"conjunction, subordinating or preposition",ADP,prep
+power,False,power,NN,"noun, singular or mass",NOUN,pobj
+.,False,.,.,"punctuation mark, sentence closer",PUNCT,punct
+"
+     
+            ",False,"
+     
+            ",_SP,whitespace,SPACE,dep
+The,True,the,DT,determiner,DET,det
+State,False,State,NNP,"noun, proper singular",PROPN,compound
+Department,False,Department,NNP,"noun, proper singular",PROPN,nsubj
+also,True,also,RB,adverb,ADV,advmod
+acknowledged,False,acknowledge,VBD,"verb, past tense",VERB,ROOT
+Wagner,False,Wagner,NNP,"noun, proper singular",PROPN,poss
+’s,True,’s,POS,possessive ending,PART,case
+involvement,False,involvement,NN,"noun, singular or mass",NOUN,dobj
+in,True,in,IN,"conjunction, subordinating or preposition",ADP,prep
+Sudan,False,Sudan,NNP,"noun, proper singular",PROPN,pobj
+.,False,.,.,"punctuation mark, sentence closer",PUNCT,punct
+“,False,"""",``,opening quotation mark,PUNCT,punct
+Engagement,False,engagement,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,nsubj
+with,True,with,IN,"conjunction, subordinating or preposition",ADP,prep
+the,True,the,DT,determiner,DET,det
+Wagner,False,Wagner,NNP,"noun, proper singular",PROPN,compound
+group,False,group,NN,"noun, singular or mass",NOUN,pobj
+simply,False,simply,RB,adverb,ADV,advmod
+brings,False,bring,VBZ,"verb, 3rd person singular present",VERB,ccomp
+more,True,more,JJR,"adjective, comparative",ADJ,amod
+death,False,death,NN,"noun, singular or mass",NOUN,dobj
+",",False,",",",","punctuation mark, comma",PUNCT,punct
+destruction,False,destruction,NN,"noun, singular or mass",NOUN,conj
+and,True,and,CC,"conjunction, coordinating",CCONJ,cc
+instability,False,instability,NN,"noun, singular or mass",NOUN,conj
+",",False,",",",","punctuation mark, comma",PUNCT,punct
+”,False,"""",'',closing quotation mark,PUNCT,punct
+the,True,the,DT,determiner,DET,det
+statement,False,statement,NN,"noun, singular or mass",NOUN,nsubj
+said,False,say,VBD,"verb, past tense",VERB,ROOT
+.,False,.,.,"punctuation mark, sentence closer",PUNCT,punct
+"
+     
+            ",False,"
+     
+            ",_SP,whitespace,SPACE,dep
+Meanwhile,True,meanwhile,RB,adverb,ADV,advmod
+",",False,",",",","punctuation mark, comma",PUNCT,punct
+the,True,the,DT,determiner,DET,det
+violence,False,violence,NN,"noun, singular or mass",NOUN,nsubj
+continues,False,continue,VBZ,"verb, 3rd person singular present",VERB,ROOT
+to,True,to,TO,"infinitival ""to""",PART,aux
+intensify,False,intensify,VB,"verb, base form",VERB,xcomp
+with,True,with,IN,"conjunction, subordinating or preposition",ADP,prep
+no,True,no,DT,determiner,DET,det
+sign,False,sign,NN,"noun, singular or mass",NOUN,pobj
+yet,True,yet,RB,adverb,ADV,advmod
+that,True,that,IN,"conjunction, subordinating or preposition",SCONJ,mark
+the,True,the,DT,determiner,DET,det
+diplomatic,False,diplomatic,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,amod
+process,False,process,NN,"noun, singular or mass",NOUN,nsubj
+between,True,between,IN,"conjunction, subordinating or preposition",ADP,prep
+the,True,the,DT,determiner,DET,det
+rival,False,rival,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,amod
+factions,False,faction,NNS,"noun, plural",NOUN,pobj
+will,True,will,MD,"verb, modal auxiliary",AUX,aux
+bring,False,bring,VB,"verb, base form",VERB,ccomp
+a,True,a,DT,determiner,DET,det
+permanent,False,permanent,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,amod
+end,False,end,NN,"noun, singular or mass",NOUN,dobj
+to,True,to,IN,"conjunction, subordinating or preposition",ADP,prep
+the,True,the,DT,determiner,DET,det
+conflict,False,conflict,NN,"noun, singular or mass",NOUN,pobj
+.,False,.,.,"punctuation mark, sentence closer",PUNCT,punct
+The,True,the,DT,determiner,DET,det
+Sudanese,False,Sudanese,NNP,"noun, proper singular",PROPN,nsubj
+must,True,must,MD,"verb, modal auxiliary",AUX,aux
+fend,False,fend,VB,"verb, base form",VERB,ROOT
+for,True,for,IN,"conjunction, subordinating or preposition",ADP,prep
+themselves,True,themselves,PRP,"pronoun, personal",PRON,pobj
+",",False,",",",","punctuation mark, comma",PUNCT,punct
+while,True,while,IN,"conjunction, subordinating or preposition",SCONJ,mark
+they,True,they,PRP,"pronoun, personal",PRON,nsubj
+face,False,face,VBP,"verb, non-3rd person singular present",VERB,advcl
+what,True,what,WP,"wh-pronoun, personal",PRON,dobj
+they,True,they,PRP,"pronoun, personal",PRON,nsubj
+describe,False,describe,VBP,"verb, non-3rd person singular present",VERB,ccomp
+as,True,as,IN,"conjunction, subordinating or preposition",ADP,prep
+the,True,the,DT,determiner,DET,det
+hallmarks,False,hallmark,NNS,"noun, plural",NOUN,pobj
+of,True,of,IN,"conjunction, subordinating or preposition",ADP,prep
+genocide,False,genocide,NN,"noun, singular or mass",NOUN,pobj
+.,False,.,.,"punctuation mark, sentence closer",PUNCT,punct
+"
+     
+            ",False,"
+     
+            ",_SP,whitespace,SPACE,dep
+“,False,"""",``,opening quotation mark,PUNCT,punct
+The,True,the,DT,determiner,DET,det
+situation,False,situation,NN,"noun, singular or mass",NOUN,nsubj
+right,False,right,RB,adverb,ADV,advmod
+now,True,now,RB,adverb,ADV,advmod
+is,True,be,VBZ,"verb, 3rd person singular present",AUX,ROOT
+much,True,much,RB,adverb,ADV,advmod
+worse,False,bad,JJR,"adjective, comparative",ADJ,acomp
+than,True,than,IN,"conjunction, subordinating or preposition",SCONJ,mark
+it,True,it,PRP,"pronoun, personal",PRON,nsubj
+was,True,be,VBD,"verb, past tense",AUX,advcl
+in,True,in,IN,"conjunction, subordinating or preposition",ADP,prep
+2003,False,2003,CD,cardinal number,NUM,pobj
+.,False,.,.,"punctuation mark, sentence closer",PUNCT,punct
+The,True,the,DT,determiner,DET,det
+Janjaweed,False,Janjaweed,NNP,"noun, proper singular",PROPN,compound
+militia,False,militia,NN,"noun, singular or mass",NOUN,nsubj
+was,True,be,VBD,"verb, past tense",AUX,ccomp
+not,True,not,RB,adverb,PART,neg
+as,True,as,RB,adverb,ADV,advmod
+powerful,False,powerful,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,acomp
+as,True,as,IN,"conjunction, subordinating or preposition",SCONJ,mark
+it,True,it,PRP,"pronoun, personal",PRON,nsubj
+is,True,be,VBZ,"verb, 3rd person singular present",AUX,advcl
+now,True,now,RB,adverb,ADV,advmod
+",",False,",",",","punctuation mark, comma",PUNCT,punct
+”,False,"""",'',closing quotation mark,PUNCT,punct
+said,False,say,VBD,"verb, past tense",VERB,ROOT
+SIHA,False,SIHA,NNP,"noun, proper singular",PROPN,poss
+’s,True,’s,POS,possessive ending,PART,case
+Darfur,False,Darfur,NNP,"noun, proper singular",PROPN,npadvmod
+-,False,-,HYPH,"punctuation mark, hyphen",PUNCT,punct
+based,False,base,VBN,"verb, past participle",VERB,amod
+Hussein,False,Hussein,NNP,"noun, proper singular",PROPN,compound
+Haran,False,Haran,NNP,"noun, proper singular",PROPN,nsubj
+.,False,.,.,"punctuation mark, sentence closer",PUNCT,punct
+"
+     
+            ",False,"
+     
+            ",_SP,whitespace,SPACE,dep
+“,False,"""",``,opening quotation mark,PUNCT,punct
+The,True,the,DT,determiner,DET,det
+RSF,False,RSF,NNP,"noun, proper singular",PROPN,nsubj
+is,True,be,VBZ,"verb, 3rd person singular present",AUX,ROOT
+as,True,as,RB,adverb,ADV,advmod
+powerful,False,powerful,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,acomp
+as,True,as,IN,"conjunction, subordinating or preposition",ADP,prep
+the,True,the,DT,determiner,DET,det
+state,False,state,NN,"noun, singular or mass",NOUN,pobj
+.,False,.,.,"punctuation mark, sentence closer",PUNCT,punct
+They,True,they,PRP,"pronoun, personal",PRON,nsubj
+have,True,have,VBP,"verb, non-3rd person singular present",VERB,ROOT
+much,True,much,RB,adverb,ADV,advmod
+more,True,more,JJR,"adjective, comparative",ADJ,amod
+power,False,power,NN,"noun, singular or mass",NOUN,dobj
+now,True,now,RB,adverb,ADV,advmod
+and,True,and,CC,"conjunction, coordinating",CCONJ,cc
+more,True,more,JJR,"adjective, comparative",ADJ,conj
+capabilities,False,capability,NNS,"noun, plural",NOUN,dobj
+…,False,…,NFP,superfluous punctuation,PUNCT,punct
+and,True,and,CC,"conjunction, coordinating",CCONJ,cc
+they,True,they,PRP,"pronoun, personal",PRON,nsubj
+are,True,be,VBP,"verb, non-3rd person singular present",AUX,aux
+committing,False,commit,VBG,"verb, gerund or present participle",VERB,conj
+genocide,False,genocide,NN,"noun, singular or mass",NOUN,nmod
+and,True,and,CC,"conjunction, coordinating",CCONJ,cc
+ethnic,False,ethnic,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,conj
+cleansing,False,cleansing,NN,"noun, singular or mass",NOUN,dobj
+.,False,.,.,"punctuation mark, sentence closer",PUNCT,punct
+”,False,"""",'',closing quotation mark,PUNCT,punct
+"
+     
+",False,"
+     
+",_SP,whitespace,SPACE,dep
+This,True,this,DT,determiner,DET,det
+story,False,story,NN,"noun, singular or mass",NOUN,nsubjpass
+has,True,have,VBZ,"verb, 3rd person singular present",AUX,aux
+been,True,be,VBN,"verb, past participle",AUX,auxpass
+updated,False,update,VBN,"verb, past participle",VERB,ROOT
+to,True,to,TO,"infinitival ""to""",PART,aux
+include,False,include,VB,"verb, base form",VERB,xcomp
+comment,False,comment,NN,"noun, singular or mass",NOUN,dobj
+from,True,from,IN,"conjunction, subordinating or preposition",ADP,prep
+the,True,the,DT,determiner,DET,det
+US,True,US,NNP,"noun, proper singular",PROPN,compound
+State,False,State,NNP,"noun, proper singular",PROPN,compound
+Department,False,Department,NNP,"noun, proper singular",PROPN,poss
+’s,True,’s,POS,possessive ending,PART,case
+Bureau,False,Bureau,NNP,"noun, proper singular",PROPN,pobj
+of,True,of,IN,"conjunction, subordinating or preposition",ADP,prep
+African,False,African,NNP,"noun, proper singular",PROPN,compound
+Affairs,False,Affairs,NNPS,"noun, proper plural",PROPN,pobj
+on,True,on,IN,"conjunction, subordinating or preposition",ADP,prep
+the,True,the,DT,determiner,DET,det
+violence,False,violence,NN,"noun, singular or mass",NOUN,pobj
+against,True,against,IN,"conjunction, subordinating or preposition",ADP,prep
+civilians,False,civilian,NNS,"noun, plural",NOUN,pobj
+in,True,in,IN,"conjunction, subordinating or preposition",ADP,prep
+Darfur,False,Darfur,NNP,"noun, proper singular",PROPN,pobj
+.,False,.,.,"punctuation mark, sentence closer",PUNCT,punct
+"
+ 
+  ",False,"
+ 
+  ",_SP,whitespace,SPACE,dep
+CNN,False,CNN,NNP,"noun, proper singular",PROPN,poss
+’s,True,’s,POS,possessive ending,PART,case
+Alex,False,Alex,NNP,"noun, proper singular",PROPN,compound
+Platt,False,Platt,NNP,"noun, proper singular",PROPN,nsubj
+",",False,",",",","punctuation mark, comma",PUNCT,punct
+Allegra,False,Allegra,NNP,"noun, proper singular",PROPN,compound
+Goodwin,False,Goodwin,NNP,"noun, proper singular",PROPN,appos
+",",False,",",",","punctuation mark, comma",PUNCT,punct
+Celine,False,Celine,NNP,"noun, proper singular",PROPN,compound
+Alkhaldi,False,Alkhaldi,NNP,"noun, proper singular",PROPN,conj
+and,True,and,CC,"conjunction, coordinating",CCONJ,cc
+Mostafa,False,Mostafa,NNP,"noun, proper singular",PROPN,compound
+Salem,False,Salem,NNP,"noun, proper singular",PROPN,conj
+contributed,False,contribute,VBD,"verb, past tense",VERB,ROOT
+to,True,to,IN,"conjunction, subordinating or preposition",ADP,prep
+this,True,this,DT,determiner,DET,det
+report,False,report,NN,"noun, singular or mass",NOUN,pobj
+.,False,.,.,"punctuation mark, sentence closer",PUNCT,punct
+Edited,False,edit,VBN,"verb, past participle",VERB,amod
+by,True,by,IN,"conjunction, subordinating or preposition",ADP,agent
+Ed,False,Ed,NNP,"noun, proper singular",PROPN,compound
+Upright,False,Upright,NNP,"noun, proper singular",PROPN,pobj
+and,True,and,CC,"conjunction, coordinating",CCONJ,cc
+Laura,False,Laura,NNP,"noun, proper singular",PROPN,compound
+Smith,False,Smith,NNP,"noun, proper singular",PROPN,compound
+-,False,-,HYPH,"punctuation mark, hyphen",PUNCT,punct
+SparkPhoto,False,SparkPhoto,NNP,"noun, proper singular",PROPN,conj
+editing,False,editing,NN,"noun, singular or mass",AUX,auxpass
+by,True,by,IN,"conjunction, subordinating or preposition",ADP,prep
+Toby,False,Toby,NNP,"noun, proper singular",PROPN,compound
+Hancock,False,Hancock,NNP,"noun, proper singular",PROPN,compound
+ ,False, ,_SP,whitespace,SPACE,dep
+Editor,False,Editor,NNP,"noun, proper singular",PROPN,pobj
+’s,True,’s,POS,possessive ending,PART,case
+note,False,note,NN,"noun, singular or mass",NOUN,ROOT
+:,False,:,:,"punctuation mark, colon or ellipsis",PUNCT,punct
+This,True,this,DT,determiner,DET,det
+report,False,report,NN,"noun, singular or mass",NOUN,nsubj
+would,True,would,MD,"verb, modal auxiliary",AUX,aux
+not,True,not,RB,adverb,PART,neg
+have,True,have,VB,"verb, base form",AUX,aux
+been,True,be,VBN,"verb, past participle",AUX,acl
+possible,False,possible,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,acomp
+without,True,without,IN,"conjunction, subordinating or preposition",ADP,prep
+the,True,the,DT,determiner,DET,det
+contributions,False,contribution,NNS,"noun, plural",NOUN,pobj
+of,True,of,IN,"conjunction, subordinating or preposition",ADP,prep
+Sudanese,False,sudanese,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,amod
+journalists,False,journalist,NNS,"noun, plural",NOUN,pobj
+whom,True,whom,WP,"wh-pronoun, personal",PRON,pobj
+we,True,we,PRP,"pronoun, personal",PRON,nsubj
+are,True,be,VBP,"verb, non-3rd person singular present",AUX,aux
+not,True,not,RB,adverb,PART,neg
+naming,False,name,VBG,"verb, gerund or present participle",VERB,relcl
+for,True,for,IN,"conjunction, subordinating or preposition",ADP,prep
+their,True,their,PRP$,"pronoun, possessive",PRON,poss
+safety,False,safety,NN,"noun, singular or mass",NOUN,pobj
+.,False,.,.,"punctuation mark, sentence closer",PUNCT,punct
+"
+ ",False,"
+ ",_SP,whitespace,SPACE,dep
+©,False,©,JJ,"adjective (English), other noun-modifier (Chinese)",ADJ,amod
+2024,False,2024,CD,cardinal number,NUM,nummod
+Cable,False,Cable,NNP,"noun, proper singular",PROPN,compound
+News,False,News,NNP,"noun, proper singular",PROPN,compound
+Network,False,Network,NNP,"noun, proper singular",PROPN,ROOT
+.,False,.,.,"punctuation mark, sentence closer",PUNCT,punct
+A,True,a,DT,determiner,DET,det
+Warner,False,Warner,NNP,"noun, proper singular",PROPN,compound
+Bros.,False,Bros.,NNPS,"noun, proper plural",PROPN,compound
+Discovery,False,Discovery,NNP,"noun, proper singular",PROPN,compound
+Company,False,Company,NNP,"noun, proper singular",PROPN,ROOT
+.,False,.,.,"punctuation mark, sentence closer",PUNCT,punct
+All,True,all,DT,determiner,DET,det
+Rights,False,Rights,NNPS,"noun, proper plural",PROPN,nsubj
+Reserved,False,reserve,VBN,"verb, past participle",VERB,ROOT
+.,False,.,.,"punctuation mark, sentence closer",PUNCT,punct
+ ,False, ,_SP,whitespace,SPACE,dep
+CNN,False,CNN,NNP,"noun, proper singular",PROPN,compound
+Sans,False,Sans,NNPS,"noun, proper plural",PROPN,nsubj
+™,False,™,VBP,"verb, non-3rd person singular present",VERB,ROOT
+&,False,&,CC,"conjunction, coordinating",CCONJ,cc
+©,False,©,CD,cardinal number,NUM,conj
+2016,False,2016,CD,cardinal number,NUM,nummod
+Cable,False,Cable,NNP,"noun, proper singular",PROPN,compound
+News,False,News,NNP,"noun, proper singular",PROPN,compound
+Network,False,Network,NNP,"noun, proper singular",PROPN,dobj
+.,False,.,.,"punctuation mark, sentence closer",PUNCT,punct
